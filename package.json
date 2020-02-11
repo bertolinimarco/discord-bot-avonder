@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot-avonder",
+  "version": "0.1.0",
+  "description": "Avonder is a bot for Aumyr Discord Server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "handlebars": "^4.7.3",
+    "mersenne-twister": "^1.1.0"
+  },
+  "devDependencies": {
+    "should": "^13.2.3",
+    "should-sinon": "0.0.6",
+    "sinon": "^7.2.2"
+  },
+  "scripts": {
+    "start": "source ./.env && node index.js"
+  },
+  "keywords": [
+    "discord",
+    "dice",
+    "bot",
+    "roleplaying",
+    "chatbot"
+  ],
+  "bugs": {
+    "url": "https://github.com/bertolinimarco/discord-bot-avonder/issues"
+  },
+  "homepage": "https://github.com/bertolinimarco/discord-bot-avonder#readme",
+  "author": "Marco Bertolini <info@marcobertolini.net>",
+  "license": "MIT"
+}
