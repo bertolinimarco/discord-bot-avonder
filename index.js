@@ -5,9 +5,9 @@ const commands = require("./lib/commands");
 // Ready
 client.once("ready", () => {
   console.log("✅🧙 Pronto.");
-  console.log(
-    `Link x aggiungermi ad un server: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
-  );
+  // console.log(
+  //   `Link x aggiungermi ad un server: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
+  // );
   // Promise.all(
   //   [...client.guilds.values()].map(guild => {
   //     if (guild.systemChannel)
@@ -22,6 +22,7 @@ client.once("ready", () => {
 // Messages
 client.on("message", async message => {
   const response = commands.handle(message);
+  if (message.author.bot) return; // // Do not interact with other bots
 
   // Greetings
   if (
@@ -29,7 +30,8 @@ client.on("message", async message => {
     response.params === "Ciao" ||
     response.params === "hey" ||
     response.params === "ehi" ||
-    response.params === "hi"
+    response.params === "hi" ||
+    response.params === "hello"
   ) {
     message.react("👋");
   } else if (response) {
@@ -49,8 +51,8 @@ client.on("message", async message => {
         case "dm":
           if (message.channel.type !== "dm")
             await message.channel.send(
-              `<@${message.author.id}> Ti ho risposto in privato per \`${response.params}\``
-            );
+              `<@${message.author.id}> Ti ho risposto in privato`
+            ); // Debug: \`${response.params}\`
           dm = await message.author.createDM();
           await dm.send(`${response.body}`);
           break;
@@ -64,7 +66,7 @@ client.on("message", async message => {
 // Send private welcome message to new members
 // client.on("guildMemberAdd", member => {
 //   member.send(
-//     "Benvenuto su Aumyr, ${member}. Sono **Avonder**, la tua guida su Aumyr.\n\nPresentati sul canale #welcome oppure vai direttamente su un canale e parliamo!\n\nA proposito: leggi cosa posso fare scrivendo `Avonder aiuto`"
+//     "Benvenuto su Aumyr, ${member}. Sono **Avonder**, la tua guida su Aumyr.\n\nUsa il canale #welcome per presentarti oppure vai direttamente su un altro canale.\n\nA proposito: leggi cosa posso fare scrivendo `Avonder aiuto`"
 //   );
 // });
 
