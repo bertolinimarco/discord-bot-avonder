@@ -56,7 +56,7 @@ client.on("message", async message => {
             var embedColor = "#000000";
             var embedTitle = "Enigma";
           } else if (response.params === "genera png") {
-            var embedColor = "#CB0879";
+            var embedColor = "#67A7F2";
             var embedTitle = "PNG";
           }
           const createEmbed = new Discord.RichEmbed()
