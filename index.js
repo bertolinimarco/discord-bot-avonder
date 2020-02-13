@@ -22,7 +22,9 @@ client.once("ready", () => {
 // Messages
 client.on("message", async message => {
   const response = commands.handle(message);
-  if (message.author.bot) return; // // Do not interact with other bots
+
+  // Do not interact with other bots
+  if (message.author.bot) return;
 
   // Greetings
   if (
@@ -43,6 +45,32 @@ client.on("message", async message => {
     try {
       let dm;
       switch (response.target) {
+        case "embed":
+          if (response.params === "genera libro") {
+            var embedColor = "#C76B00";
+            var embedTitle = "Libro";
+          } else if (response.params === "genera avventura") {
+            var embedColor = "#602D81";
+            var embedTitle = "Avventura";
+          } else if (response.params === "genera enigma") {
+            var embedColor = "#000000";
+            var embedTitle = "Enigma";
+          } else if (response.params === "genera png") {
+            var embedColor = "#CB0879";
+            var embedTitle = "PNG";
+          }
+          const createEmbed = new Discord.RichEmbed()
+            .setColor(embedColor)
+            .setTitle(embedTitle)
+            .setDescription(response.body);
+          await message.channel.send(createEmbed);
+          break;
+        case "info":
+          const createEmbed = new Discord.RichEmbed()
+            .setTitle("Avonder")
+            .setDescription("0.92");
+          await message.channel.send(createEmbed);
+          break;
         case "channel":
           await message.channel.send(
             `<@${message.author.id}> ${response.body}`
