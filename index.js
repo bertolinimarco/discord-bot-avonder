@@ -65,12 +65,6 @@ client.on("message", async message => {
             .setDescription(response.body);
           await message.channel.send(createEmbed);
           break;
-        case "info":
-          const createEmbed = new Discord.RichEmbed()
-            .setTitle("Avonder")
-            .setDescription("0.92");
-          await message.channel.send(createEmbed);
-          break;
         case "channel":
           await message.channel.send(
             `<@${message.author.id}> ${response.body}`
