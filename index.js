@@ -5,9 +5,9 @@ const commands = require("./lib/commands");
 // Ready
 client.once("ready", () => {
   console.log("✅🧙 Pronto.");
-  // console.log(
-  //   `Aggiungi con: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
-  // );
+  console.log(
+    `Aggiungi con: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
+  );
   // Promise.all(
   //   [...client.guilds.values()].map(guild => {
   //     if (guild.systemChannel)
@@ -84,6 +84,25 @@ client.on("message", async message => {
             .setTitle(embedTitle)
             .setDescription(response.body);
           await message.channel.send(createEmbed);
+          break;
+        // Message in channel
+        // Embed Help
+        case "embedHelp":
+          if (response.params === "aiuto") {
+            var embedHelpTitle = "Aiuto";
+          } else if (response.params === "help") {
+            var embedHelpTitle = "Help";
+          }
+          const createEmbedHelp = new Discord.RichEmbed()
+            // .setColor("#005500")
+            .setTitle(embedHelpTitle)
+            .setDescription(response.body);
+          await message.author.send(createEmbedHelp);
+          break;
+        case "channel":
+          await message.channel.send(
+            `<@${message.author.id}> ${response.body}`
+          );
           break;
         // Message in private
         case "dm":
