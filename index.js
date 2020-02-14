@@ -85,32 +85,14 @@ client.on("message", async message => {
             .setDescription(response.body);
           await message.channel.send(createEmbed);
           break;
-        // Message in channel
-        // Embed Help
-        case "embedHelp":
-          if (response.params === "aiuto") {
-            var embedHelpTitle = "Aiuto";
-          } else if (response.params === "help") {
-            var embedHelpTitle = "Help";
-          }
-          const createEmbedHelp = new Discord.RichEmbed()
-            // .setColor("#005500")
-            .setTitle(embedHelpTitle)
-            .setDescription(response.body);
-          await message.author.send(createEmbedHelp);
-          break;
-        case "channel":
-          await message.channel.send(
-            `<@${message.author.id}> ${response.body}`
-          );
-          break;
         // Message in private
         case "dm":
           if (message.channel.type !== "dm")
-            // await message.channel.send(
-            //   `<@${message.author.id}> Ti ho risposto in privato`
-            // ); // Debug: \`${response.params}\`
-            dm = await message.author.createDM();
+            await message.channel
+              .send
+              // `<@${message.author.id}> Ti ho risposto in privato`
+              (); // Debug: \`${response.params}\`
+          dm = await message.author.createDM();
           await dm.send(`${response.body}`);
           break;
       }
