@@ -6,7 +6,7 @@ const commands = require("./lib/commands");
 client.once("ready", () => {
   console.log("✅🧙 Pronto.");
   // console.log(
-  //   `Link x aggiungermi ad un server: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
+  //   `Aggiungi con: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
   // );
   // Promise.all(
   //   [...client.guilds.values()].map(guild => {
@@ -17,6 +17,7 @@ client.once("ready", () => {
   //     return Promise.resolve();
   //   })
   // );
+  // client.user.setActivity(`Serving ${client.guilds.size} servers`);
 });
 
 // Messages
@@ -36,7 +37,13 @@ client.on("message", async message => {
     response.params === "hello"
   ) {
     message.react("👋");
-  } else if (response) {
+  }
+  // Purge latest 20 messages
+  else if (response.params === "clean20") {
+    message.channel.bulkDelete(20).catch(error => console.error(`${error}`));
+  }
+  // Command types
+  else if (response) {
     try {
       if (message.channel.type !== "dm") await message.delete();
     } catch (e) {
@@ -45,6 +52,7 @@ client.on("message", async message => {
     try {
       let dm;
       switch (response.target) {
+        // Embeds
         case "embed":
           if (response.params === "genera libro") {
             var embedColor = "#C76B00";
@@ -77,11 +85,13 @@ client.on("message", async message => {
             .setDescription(response.body);
           await message.channel.send(createEmbed);
           break;
+        // Message in channel
         case "channel":
           await message.channel.send(
             `<@${message.author.id}> ${response.body}`
           );
           break;
+        // Message in private
         case "dm":
           if (message.channel.type !== "dm")
             // await message.channel.send(
