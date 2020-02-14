@@ -84,10 +84,10 @@ client.on("message", async message => {
           break;
         case "dm":
           if (message.channel.type !== "dm")
-            await message.channel.send(
-              `<@${message.author.id}> Ti ho risposto in privato`
-            ); // Debug: \`${response.params}\`
-          dm = await message.author.createDM();
+            // await message.channel.send(
+            //   `<@${message.author.id}> Ti ho risposto in privato`
+            // ); // Debug: \`${response.params}\`
+            dm = await message.author.createDM();
           await dm.send(`${response.body}`);
           break;
       }
