@@ -1,0 +1,13 @@
+[
+  { "ID": 1, "text": "trasporta 10 metri di corda resistente" },
+  { "ID": 2, "text": "trasporta una sacca con alcune candele" },
+  { "ID": 3, "text": "trasporta una vecchia lanterna di rame" },
+  { "ID": 4, "text": "trasporta alcuni fogli di carta" },
+  { "ID": 5, "text": "trasporta una calda coperta decorata" },
+  { "ID": 6, "text": "possiede una pozione di guarigione" },
+  { "ID": 7, "text": "possiede due pozioni di guarigione" },
+  { "ID": 8, "text": "possiede tre pozioni di guarigione" },
+  { "ID": 9, "text": "possiede un paio di pozioni dalla forma strana" },
+  { "ID": 10, "text": "porta una scatola di fiammiferi" },
+  { "ID": 11, "text": "porta una spada arrugginita" }
+]
