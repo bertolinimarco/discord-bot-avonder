@@ -49,15 +49,27 @@ client.on("message", async message => {
           if (response.params === "genera libro") {
             var embedColor = "#C76B00";
             var embedTitle = "Libro";
+          } else if (response.params === "generate book") {
+            var embedColor = "#C76B00";
+            var embedTitle = "Book";
           } else if (response.params === "genera avventura") {
             var embedColor = "#602D81";
             var embedTitle = "Avventura";
+          } else if (response.params === "generate adventure") {
+            var embedColor = "#602D81";
+            var embedTitle = "Adventure";
           } else if (response.params === "genera enigma") {
             var embedColor = "#000000";
             var embedTitle = "Enigma";
+          } else if (response.params === "generate riddle") {
+            var embedColor = "#000000";
+            var embedTitle = "Riddle";
           } else if (response.params === "genera png") {
             var embedColor = "#67A7F2";
             var embedTitle = "PNG";
+          } else if (response.params === "generate npc") {
+            var embedColor = "#67A7F2";
+            var embedTitle = "NPC";
           }
           const createEmbed = new Discord.RichEmbed()
             .setColor(embedColor)
