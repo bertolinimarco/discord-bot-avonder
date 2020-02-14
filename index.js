@@ -54,7 +54,9 @@ client.on("message", async message => {
       switch (response.target) {
         // Embeds
         case "embed":
-          if (response.params === "genera libro") {
+          if (response.params === "genera" || response.params === "generate") {
+            break;
+          } else if (response.params === "genera libro") {
             var embedColor = "#C76B00";
             var embedTitle = "Libro";
           } else if (response.params === "generate book") {
@@ -94,9 +96,9 @@ client.on("message", async message => {
             var embedHelpTitle = "Help";
           }
           const createEmbedHelp = new Discord.RichEmbed()
-            // .setColor("#005500")
             .setTitle(embedHelpTitle)
-            .setDescription(response.body);
+            .setDescription(response.body)
+            .setFooter("Avonder 0.9.7");
           await message.author.send(createEmbedHelp);
           break;
         case "channel":
