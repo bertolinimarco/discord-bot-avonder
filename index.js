@@ -5,9 +5,10 @@ const commands = require("./lib/commands");
 // Ready
 client.once("ready", () => {
   console.log("✅🧙 Pronto.");
-  console.log(
-    `Aggiungi con: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
-  );
+  // console.log(
+  //   `Aggiungi con: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
+  // );
+  // client.user.setActivity(`Aumyr e ${client.guilds.size} altri reami`);
   // Promise.all(
   //   [...client.guilds.values()].map(guild => {
   //     if (guild.systemChannel)
@@ -123,10 +124,20 @@ client.on("message", async message => {
 });
 
 // Send private welcome message to new members
-// client.on("guildMemberAdd", member => {
-//   member.send(
-//     "Benvenuto su Aumyr, ${member}. Sono **Avonder**, la tua guida su Aumyr.\n\nUsa il canale #welcome per presentarti oppure vai direttamente su un altro canale.\n\nA proposito: leggi cosa posso fare scrivendo `Avonder aiuto`"
-//   );
+client.on("guildMemberAdd", member => {
+  member.send(
+    "Benvenuto su Aumyr, ${member}. Sono **Avonder**, la tua guida.\n\nUsa il canale #welcome per presentarti oppure vai direttamente su un altro canale.\n\nA proposito: leggi cosa posso fare scrivendo `Avonder aiuto`\n\nWelcome, ${member}. I'm **Avonder**, your friendly guide.\n\nUse the #welcome channel to introduce yourself, or go directly in another channel.\n\nOh: read what I can do with: `Avonder help`"
+  );
+});
+
+// // Creating channel
+// client.on("channelCreate", function(channel) {
+//   console.info(`channelCreate: ${channel}`);
+// });
+
+// // Deleting channel
+// client.on("channelDelete", function(channel) {
+//   console.info(`channelDelete: ${channel}`);
 // });
 
 client.login(process.env.DISCORD_TOKEN);
