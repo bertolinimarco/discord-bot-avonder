@@ -348,5 +348,150 @@
     "ID": 70,
     "textIT": "Guardando il lontananza, il gruppo intravede alcune luci, simili ad un segnale con lo specchio. Qualcuno sta cercando di comunicare qualcosa a grandi distanze. Il messaggio è parte di un rito oscuro, chi lo sta comunicando e chi è il destinatario?",
     "textEN": "Looking off to the distance, they can see a flashing light (similar to a signal mirror). Someone is trying to signal far off. Whether it is aide, is indiscernible to the group as the light stops almost as soon as it starts. There is only one way to find out…"
+  },
+  {
+    "ID": 71,
+    "textIT": "Un paladino che trasporta uno scudo con l'insegna di un leone, chiede al gruppo di risolvere un problema di _infestazione_ locale. Si scopre che l'_infestazione_ è in realtà un gruppo di orchi.",
+    "textEN": "A paladin with the insignia of a lion’s head on her shield asks you to solve the local pest problem. Turns out the “pests” are full sized orcs."
+  },
+  {
+    "ID": 72,
+    "textIT": "Una casa fuori città viene circondata da centinaia di uccelli. Ad un primo approccio, il gruppo scopre che i loro becchi hanno denti accuminati. Dall'interno della casa, si vede qualcuno che tenta di nascondersi nel buio.",
+    "textEN": "A house outside of town is being circled by hundreds of birds. Upon approaching, the party sees that their beaks are lined with teeth, and the birds are twitching as though trying to escape possession. From the sounds inside, someone is clambering to hide within the building."
+  },
+  {
+    "ID": 74,
+    "textIT": "I coboldi hanno attaccato la città, in gruppo, vestendo armature decorate con un simbolo sconosciuto. Un uomo afferma di essere scappato dalla loro prigionia, dalla loro tana. Descrive un drago terribile come la fonte del potere dei coboldi. Il drago in realtà è uno pseudodrago con manie di grandezza, addestrato all'utilizzo di incantesimi illusori, che ha tratto in inganno i coboldi per renderli schiavi.",
+    "textEN": "Kobolds have been attacking the town. All wearing similar regalia and a matching symbol. A raving man claims to have escaped from the kobolds’ lair. He describes a terrible dragon as the source of worship for the kobolds. The dragon is really a pseudodragon with delusions of grandeur, trained in illusion magic and has duped the kobolds into gathering a hoard for him."
+  },
+  {
+    "ID": 75,
+    "textIT": "In una grande città, i criminali sono sempre un problema. Questo trio di ragazzini, invece, ha da sempre attratto i visitatori in vicoli bui, offrendoli come prede al proprio  capo _mutaforma_. I bambini poi si dividono ciò che resta nelle tasche delle vittime.",
+    "textEN": "In a large city, urchins are a regular problem. This trio of kidlets, however, has been luring travelers in to abandoned alleyways, where the deranged doppelganger among them eats the human and the other two children keep what was it his/her pockets."
+  },
+  {
+    "ID": 76,
+    "textIT": "Una driade appoggiata al tronco di un vecchio albero, dona al gruppo una sacca contentente piccole foglie. Prendendone un po' e soffiandole nell'aria, possono condurre il gruppo ad un tempio invaso dalla vegetazione, un luogo misterioso dove si trovano piante e animali mai visti prima.",
+    "textEN": "A dryad clad in wooden armor leans against a tree his side torn wide open. He hands the party a pouch full of tiny leaves. Taking a pinch and blowing them into the air will lead the party to an ancient temple entrance almost over grown with vines. When close the pouch of leaves crumbles to dust along with the vines covering then entrance of the temple."
+  },
+  {
+    "ID": 77,
+    "textIT": "Viene trovata una piccola moneta d'argento in mezzo alla strada. Una volta raccolta, nella mente vedi una piccola tenda nella foresta. Quando torni alla realtà, vedi una piccola fatina che cerca di mostrarti la via in mezzo ad un bosco. Solo tu puoi vederla.",
+    "textEN": "You find a small silver coin in the middle of a street and upon picking it up, in your mind you see a small hut deep in the forest. When you come back to reality, only you can see it but a small fae pixie glowing bright blue will show you the way."
+  },
+  {
+    "ID": 78,
+    "textIT": "Si vede un uomo correre ai margini del bosco, nella direzione del gruppo. Sembra essere in stato di shock dopo aver visto qualcosa di spaventoso tra gli alberi e si offre di indicare al gruppo la direzione della sua visione.",
+    "textEN": "The party encounters a man running out from the wood-line, coming towards then. He appears to be in shock over what he has seen, and tells the party that he was attacked while hunting. The man directs the party to the spot were he encounter the creature."
+  },
+  {
+    "ID": 79,
+    "textIT": "Il tempio locale riferisce di strani eventi nell'area circostante: bestie che attaccano gli abitanti, signori dei banditi che si avvicinano al villaggio, luci misteriose e suoni al di là di ogni descrizione... cosa sta accadendo?",
+    "textEN": "A local temple has reported strange events in the surrounding area: beasts attacking villagers, bandit lords more closer to the village, and mysterious lights and sounds that can only be observed from within the village."
+  },
+  {
+    "ID": 80,
+    "textIT": "Un cacciatore di taglie chiede al gruppo se conosce qualche nome della lista che porta con sé. La lista contiene circa 20 nomi: alcuni di essi sono direttamente collegati ad alcuni eventi che i personaggi hanno risolto in passato, o con cui sono entrati a contatto.",
+    "textEN": "A bounty hunter asks the party if they known any of the names on a list of his. The list contains about 20 names, roll a d20 for the characters knowing any of the names, 1-10 unknown and 11-20 known. The names on the list can be from characters backstory or names of NPCs the party has met throughout the campaign. The bounty hunter will known what each person on the list as done, and how much the reward is for the capture."
+  },
+  {
+    "ID": 81,
+    "textIT": "Un'assurda somma di denaro viene offerta da un misterioso benefattore, per sbarazzarsi di un _ragno casaligno_. In realtà è un Mimic che ha assunto la forma di una _casa-ragno_.",
+    "textEN": "A seemingly exorbitant amount of gold is offered on the message board to get rid of a ‘house spider’. It turns out that it’s about a spider-like mimic in the shape of a house."
+  },
+  {
+    "ID": 82,
+    "textIT": "La luna smette di attraversare la volta celeste e tutti gli orologi iniziano a smettere di funzionare. Qualcuno sussurra che un gruppo di stregoni stia cercando di assorbire potere dal proprio Signore, il Dio del Tempo.",
+    "textEN": "The moon stops traveling across the sky, and everyone’s time pieces stop working. Word around the continent is a group of warlocks are attempting to gain power from a new patron – the God of Time"
+  },
+  {
+    "ID": 83,
+    "textIT": "Più di tre persone in un villaggio dicono di aver perso tutti i denti nello stesso momento.",
+    "textEN": "More than three people in a given town have all their teeth fall out at the same time"
+  },
+  {
+    "ID": 84,
+    "textIT": "Una guerra civile sta nascendo in un paese vicino, e uno degli ufficiali più alti in grado di una fazione o dell'altra si nasconde in una caverna. Se avvicinato, si scopre essere tremendamente sulla difensiva. Un bambino piange da qualche parte nel profondo della grotta e questa persona si rifiuta di rispondere a qualsiasi domanda a riguardo.",
+    "textEN": "A nearby civil war is raging, and one of the high ranking officers of one side or the other holes up in a cave. If approached, they will act incredibly defensive. A child is crying somewhere deeper in the cave, and this person refuses to answer any questions about said child."
+  },
+  {
+    "ID": 85,
+    "textIT": "Una guardia cittadina anziana viene trovata morta in un vicolo e solo a una persona in tutta la città sembra interessare l'accaduto.",
+    "textEN": "An allegedly crooked officer of the law is found dead in an alley way and only one person in the whole town seems to care about it at all."
+  },
+  {
+    "ID": 86,
+    "textIT": "Il gruppo è ad una fiera dove un mago sta svolgendo alcuni trucchi con una testa mozzata parlante. Durante tutto lo show la testa strizza gli occhi secondo alcuni strani _schemi_: se il gruppo parla con la testa, scoprirà che essa è prigioniera del mago e chiede aiuto per essere liberata: il suo corpo è nascosto da qualche parte lì intorno.",
+    "textEN": "The party is on a faire where a magician is performing tricks with a severed head that can talk. Throughout the show the head blinks in weird patterns. The party talks to the head to find out he is kidnapped and begs for help in finding his body back."
+  },
+  {
+    "ID": 87,
+    "textIT": "Il gruppo arriva ad una taverna in mezzo al nulla e decide di pernottare, per svegliarsi il mattino dopo sul terreno vuoto, la locanda sparita.",
+    "textEN": "The party comes across an Inn in the middle of nowhere and they decide to stay. They wake up on the ground where the inn used to be and there’s no sign of any building ever being there."
+  },
+  {
+    "ID": 88,
+    "textIT": "Passeggiando per le vie cittadine, il gruppo viene accerchiato da alcune guardie. Un capitano molto rispettato è stato assassinato e i testimoni giurano di aver visto sul luogo del delitto qualcuno di simile ad uno dei personaggi. Durante una perquisizione, vengono trovati in possesso di un oggetto della vittima, sia esso un paio di guanti, un pugnale, uno stemma di famiglia, o similari. Sicuramente, qualcuno sta cercando di incastrali, ma non necessariamente un mutaforma...",
+    "textEN": "Walking through town, the party suddenly gets surrounded by the city guard. A respected captain was murdered. Witnesses say they saw someone looking similar to one of the party members. Upon looking through their things, said member appears to have lost an item easily traced back to him (one half of a pair of gloves/earrings/daggers, family insignia, one of a kind necklace etc.). Sure enough, said item was found at the scene of the crime. Someone is framing them. Not necessarily a doppelganger."
+  },
+  {
+    "ID": 89,
+    "textIT": "Il gruppo trova il cadavere di un uomo anziano. Tra gli scarsi possedimenti, un grosso libro con una meticolosa registrazione di tutte le azioni che il gruppo ha svolto fino al giorno prima, con dettagli che nemmeno i personaggi possono sapere.",
+    "textEN": "The party stumbles across a dead old man. Amongst his meagre belongings is a thick tome with extensive records about everything they’ve done right up till today, with even more detail than they themselves knew."
+  },
+  {
+    "ID": 90,
+    "textIT": "Il gruppo si trova ad aver a che fare con le carcasse distrutte di vari animali, morti in maniera orribile. Dopo qualche investigazione, scoprono che lo spirito della foresta è adirato, corrotto e confuso da qualche evento misterioso.",
+    "textEN": "The party finds various dead animals with missing pieces, almost torn and shred. As they approach the heart of the forest the number of dead creatures increases. Upon investigation they find out it’s the guardian spirit of the forest who has been corrupted and it’s confused."
+  },
+  {
+    "ID": 91,
+    "textIT": "Un volantino compare nello zaino di un membro del gruppo. Un demone ha aperto un negozio in un villaggio vicino e invita a fargli visita chiunque abbia qualcosa di prezioso da vendere o acquistare.",
+    "textEN": "A flyer appears in the sacks of each party member. A mid level demon has opened a store and invites all those with ambitions to visit to make deals."
+  },
+  {
+    "ID": 92,
+    "textIT": "Si dice che un grosso gruppo di banditi si nasconda nel bosco. Hanno un codice che rispecchia l'opposto rispetto a quello di _Robin Hood_: essi rubano ai poveri per donare ai ricchi. Nessuno dei nobili locali sembra essere interessato ad ingaggiare qualcuno per risolvere la situazione.",
+    "textEN": "A rumor reaches the party’s ears of a group of brigands hiding out in the woods. They have a code that is the reverse of Robin Hood and his Merry Men: Steal from the poor, and give to the rich. None of the local nobles seem interested in the pillaged goods of their subjects, and are constantly giving back the loot they keep finding on their doorsteps."
+  },
+  {
+    "ID": 93,
+    "textIT": "L'alchimista locale è disperato per via dell'improvvisa assenza di tutte le piante medicinali nelle vicinanze. Tutte le radure e i cespugni paiono essere depredati costantemente e perfino il giardino segreto dell'alchimista è spoglio e senza frutti. Nessuno sa del giardino segreto, per cui non ha idea di chi possa essere stato a rubare tutti gli ingredienti magici.",
+    "textEN": "The local apothecary is desperate due to the sudden absence of all the local medicinal plants in the area. All the groves and clearings appear to have been picked clean, and even the owner’s secret garden is now empty. She had told no one of her hidden garden, and so has no idea who or what could have taken all of the plants in the brief period of time between her most recent check and her previous one."
+  },
+  {
+    "ID": 94,
+    "textIT": "Un umano e una fata si incontrarono nel bosco e, nel corso di numerosi incontri segreti al chiaro di luna, finirono per innamorarsi l'uno dell'altra. La famiglia dell'umano si trascina da secoli in una profonda avversione per il mondo delle fate, e attivamente si adopera per troncare questa relazione. Essi sono ancora più spaventati dal fatto che l'umano possa abbandonare loro per il mondo della fate, senza ritornare mai più. Sarà compito del gruppo cercare di convincere l'una o l'altra parte che l'amore è più forte di ogni altro legame.",
+    "textEN": "A human peasant and a member of the fey came across each other in the woods and, over the course of multiple moonlit encounters, fell deeply in love. The peasant’s family has a deep-rooted fear of the fey, and is actively trying to put a stop to the pair’s relationship. The family is even more fearful that the peasant will leave for the Feywild and never return, and goes to the party to convince them to help break the two lovers up. The human is in love with the Fey’s otherworldly allure and sharp wit; talking to them makes the peasant feel alive in a way that they’ve never felt before. The Fey was originally only interested in the concept of a secretive human lover, but eventually came to love the peasant’s dedication to their relationship despite the risk of alienating other loved ones."
+  },
+  {
+    "ID": 95,
+    "textIT": "Mentre i tuoi compagni sono al mercato cittadino e aspetti che arrivino, passi il tempo contando le statue di strane creature presenti sulla facciata di un tempio locale. Sono quattordici, tutte con uno strano sorriso dipinto sul volto di pietra...",
+    "textEN": "While at the market waiting for another adventurer to arrive, you pass the time by idly counting the number of stone gargoyles mounted on the town hall. There are fourteen, all with a silly grin."
+  },
+  {
+    "ID": 96,
+    "textIT": "Mentre ti trovi dal fabbro per acquistare alcuni rifornimenti, lo senti che ammonisce il proprio apprendista sottovoce, dicendogli di stare attento con la sua nuova fidanzata: ha sentito alcune voci dire che sua madre discende da alcuni _coboldi_...",
+    "textEN": "While at the blacksmith to repair your armour, you overhear the blacksmith explaining to his apprentice to not stray off to the hills to see his new sweetheart because he heard from the baker’s cousin’s stepmother that there are kobolds about."
+  },
+  {
+    "ID": 97,
+    "textIT": "Mentre attendete pazientemente il vostro turno al tempio, sentite un mercante  lamentarsi della stupidità dei nobili locali: hanno pagato per erigere 13 statue al tempio: 13! Un numero sfortunato!",
+    "textEN": "While waiting patiently for your turn to see the Bishop, you get your ear bent by some local shopkeeper about how the town council is a bunch of idiots, and how they simply wasted all that money on getting 13 gargoyle statues erected on the town hall. Thirteen! That’s an unlucky number!"
+  },
+  {
+    "ID": 98,
+    "textIT": "Un bullo di quartiere tenta di rubare qualche moneta dal tuo zaino, per poi fuggire in un vicolo. Lo insegui, ma invano. Non ha rubato niente, ma vedi nel buio il corpo di qualcuno morto da poco: è chiaramente caduto da un'altezza considerevole. Nello stesso momento, arrivano le guardie.",
+    "textEN": "A street urchin attempts to filch your purse, he runs off down an alley. The urchin escapes, but in the alley you found a homeless halfling bum. Clearly dead. Looks like he fell from a great height."
+  },
+  {
+    "ID": 99,
+    "textIT": "Il prezzo di quel vino straniero che ti piace tanto è improvvisamente triplicato. Il barista borbotta qualcosa a proposito di alcuni pirati. Ti spiega che è solo un modo di dire della gilda dei mercanti, e dei loro modi di fare più soldi... O no?",
+    "textEN": "The price of that foreign wine you like so much has tripled in price. The barkeep mutters something about pirates. The barkeep explains it’s just a euphemism for the wagoneers guild and their extortionate ways."
+  },
+  {
+    "ID": 100,
+    "textIT": "Il cadavere di un halfling mendicante viene trovato in un vicolo: possiede solo una bottiglia di un whisky economico di una marca mai vista prima: il logo é formato da 4 linee verticali e 2 orizzontali.",
+    "textEN": "A dead homeless halfling found in an alley had a small bottle of very cheap whisky. The label has a brand mark you’ve not seen before – 4 vertical slashes and 2 short slashes across the bottom."
   }
 ]
