@@ -160,7 +160,7 @@
 
             "A dead homeless halfling found in an alley had a small bottle of very cheap whisky. The label has a brand mark you’ve not seen before – 4 vertical slashes and 2 short slashes across the bottom."
 
-"The pommel of a sword you found on your last adventure rattled loose. Inside you a scrap of parchment with lots of scratchmarks, almost looks like writing."
+            "The pommel of a sword you found on your last adventure rattled loose. Inside you a scrap of parchment with lots of scratchmarks, almost looks like writing."
 
 "A wanted poster has been nailed up – Wanted: Black Pete, for Brigandry."
 

@@ -360,6 +360,11 @@
     "textEN": "A house outside of town is being circled by hundreds of birds. Upon approaching, the party sees that their beaks are lined with teeth, and the birds are twitching as though trying to escape possession. From the sounds inside, someone is clambering to hide within the building."
   },
   {
+    "ID": 73,
+    "textIT": "L'elsa di una spada che hai trovato in un'avventura precedente si rompe: al suo interno trovi una pergamena piena di caratteri sconosciuti.",
+    "textEN": "The pommel of a sword you found on your last adventure rattled loose. Inside you a scrap of parchment with lots of scratchmarks, almost looks like writing."
+  },
+  {
     "ID": 74,
     "textIT": "I coboldi hanno attaccato la città, in gruppo, vestendo armature decorate con un simbolo sconosciuto. Un uomo afferma di essere scappato dalla loro prigionia, dalla loro tana. Descrive un drago terribile come la fonte del potere dei coboldi. Il drago in realtà è uno pseudodrago con manie di grandezza, addestrato all'utilizzo di incantesimi illusori, che ha tratto in inganno i coboldi per renderli schiavi.",
     "textEN": "Kobolds have been attacking the town. All wearing similar regalia and a matching symbol. A raving man claims to have escaped from the kobolds’ lair. He describes a terrible dragon as the source of worship for the kobolds. The dragon is really a pseudodragon with delusions of grandeur, trained in illusion magic and has duped the kobolds into gathering a hoard for him."
