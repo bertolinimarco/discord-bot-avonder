@@ -1,0 +1,244 @@
+[
+  {
+    "ID": 1,
+    "textIT": "crede che alcune fate lo osservino",
+    "textEN": "believes fairies are always around, watching"
+  },
+  {
+    "ID": 2,
+    "textIT": "è un fanatico religioso",
+    "textEN": "is a religious fanatic"
+  },
+  {
+    "ID": 3,
+    "textIT": "possiede un morboso interesse per i vampiri",
+    "textEN": "has a morbid interest for vampires"
+  },
+  {
+    "ID": 4,
+    "textIT": "ha paura dei coboldi",
+    "textEN": "has a deathly fear of Kobolds"
+  },
+  {
+    "ID": 5,
+    "textIT": "é infastidito dalla nobiltà",
+    "textEN": "is annoyed by nobility"
+  },
+  {
+    "ID": 6,
+    "textIT": "appassionato di antichità e monili",
+    "textEN": "is interested in odd trinkets"
+  },
+  {
+    "ID": 7,
+    "textIT": "ha una nutrita collezione di francobolli",
+    "textEN": "has a vast stamp collection"
+  },
+  {
+    "ID": 8,
+    "textIT": "é appassionato di libellule",
+    "textEN": "has a fasination with dragonflies"
+  },
+  {
+    "ID": 9,
+    "textIT": "ha paura di _qualsiasi_ tipo di pesce",
+    "textEN": "is afraid of _any_ type of fish"
+  },
+  {
+    "ID": 10,
+    "textIT": "possiede un compagno animale",
+    "textEN": "has an animal companion"
+  },
+  { "ID": 11, "textIT": "ha un cane", "textEN": "has a pet dog" },
+  { "ID": 12, "textIT": "ha un gatto", "textEN": "has a pet cat" },
+  {
+    "ID": 13,
+    "textIT": "gli piacerebbe intraprendere viaggi in posti lontani",
+    "textEN": "is interested in traveling far away one day"
+  },
+  {
+    "ID": 14,
+    "textIT": "ha la fobia dei serpenti",
+    "textEN": "is deathly afraid of snakes"
+  },
+  {
+    "ID": 15,
+    "textIT": "ha un'ossessione per gli abiti antichi",
+    "textEN": "has an obsession with old clothing"
+  },
+  {
+    "ID": 16,
+    "textIT": "ama le battute e gli scherzi",
+    "textEN": "loves a good joke"
+  },
+  {
+    "ID": 17,
+    "textIT": "ama suonare musica",
+    "textEN": "loves playing music"
+  },
+  {
+    "ID": 18,
+    "textIT": "possiede un talento come musicista",
+    "textEN": "is a fantastic musician"
+  },
+  {
+    "ID": 19,
+    "textIT": "é negato come musicista",
+    "textEN": "is a terrible musician"
+  },
+  {
+    "ID": 20,
+    "textIT": "tende a mangiarsi le unghie",
+    "textEN": "is prone to nail biting"
+  },
+  {
+    "ID": 21,
+    "textIT": "giocherella con le dita",
+    "textEN": "fidgets all the time"
+  },
+  {
+    "ID": 22,
+    "textIT": "mastica sempre qualcosa",
+    "textEN": "is always chewing on something"
+  },
+  {
+    "ID": 23,
+    "textIT": "borbotta spesso",
+    "textEN": "hums all the time"
+  },
+  {
+    "ID": 24,
+    "textIT": "dimentica facilmente qualsiasi cosa",
+    "textEN": "is quick to forgive"
+  },
+  {
+    "ID": 25,
+    "textIT": "dimentica facilmente i nomi",
+    "textEN": "is quick to forget names"
+  },
+  {
+    "ID": 26,
+    "textIT": "tende a idolatrare un eroe della sua fede",
+    "textEN": "idolizes a hero of their faith"
+  },
+  {
+    "ID": 27,
+    "textIT": "riesce a trovare sempre un accordo anche con il più violento degli avversari",
+    "textEN": "can find common ground between the fiercest foe"
+  },
+  {
+    "ID": 28,
+    "textIT": "vede una maledizione in ogni evento o azione",
+    "textEN": "sees omens in every event or action"
+  },
+  {
+    "ID": 29,
+    "textIT": "niente può turbare la sua attitudine ottimistica",
+    "textEN": "nothing can shake their optimistic attitude"
+  },
+  {
+    "ID": 30,
+    "textIT": "cita sacri testi e proverbi in ogni situazione",
+    "textEN": "quotes sacred texts and proverbs in almost every situation"
+  },
+  {
+    "ID": 31,
+    "textIT": "molto tollerante verso altre religioni o culti",
+    "textEN": "very tolerent of other religions and faiths"
+  },
+  {
+    "ID": 32,
+    "textIT": "molto intollerante verso altre religioni o culti",
+    "textEN": "very intolerent of other religions and faiths"
+  },
+  {
+    "ID": 33,
+    "textIT": "é amante del buon vino (forse troppo)",
+    "textEN": "enjoys fine wine a little too much"
+  },
+  {
+    "ID": 34,
+    "textIT": "ama essere circondato da nobiltà e alta società",
+    "textEN": "enjoys being among high society"
+  },
+  {
+    "ID": 35,
+    "textIT": "tende a innamorarsi spesso",
+    "textEN": "falls in and out of love easily"
+  },
+  {
+    "ID": 36,
+    "textIT": "ha sempre la battuta pronta",
+    "textEN": "has a joke for every occasion"
+  },
+  {
+    "ID": 37,
+    "textIT": "è un truffatore incallito",
+    "textEN": "is a born gambler"
+  },
+  {
+    "ID": 38,
+    "textIT": "mente praticamente su ogni cosa",
+    "textEN": "lies about almost everything"
+  },
+  {
+    "ID": 39,
+    "textIT": "é molto riservato",
+    "textEN": "is very secretive"
+  },
+  {
+    "ID": 40,
+    "textIT": "é molto estroverso su ogni aspetto della vita",
+    "textEN": "is very open about all aspects of life"
+  },
+  {
+    "ID": 41,
+    "textIT": "é continuamente sarcastico",
+    "textEN": "deals out sarcasm constantly"
+  },
+  {
+    "ID": 42,
+    "textIT": "colleziona molte reliquie sacre",
+    "textEN": "keeps multiple holy relics"
+  },
+  {
+    "ID": 43,
+    "textIT": "ruba tutto quello che possiede un qualche valore",
+    "textEN": "pockets anything that might have some value to it"
+  },
+  {
+    "ID": 44,
+    "textIT": "é incredibilmente lento a fidarsi del prossimo",
+    "textEN": "is incredibly slow to trust"
+  },
+  {
+    "ID": 45,
+    "textIT": "si arrabbia per ogni piccolo insulto",
+    "textEN": "blows up at the slightest insult"
+  },
+  {
+    "ID": 46,
+    "textIT": "non presta attenzione a nulla",
+    "textEN": "does not pay attention to anything"
+  },
+  {
+    "ID": 47,
+    "textIT": "ha una storia da raccontare in ogni situazione",
+    "textEN": "has a story for almost every situation"
+  },
+  {
+    "ID": 48,
+    "textIT": "ama spettegolare sugli abitanti della città",
+    "textEN": "loves to gossip about the town"
+  },
+  {
+    "ID": 49,
+    "textIT": "é un inguaribile romantico",
+    "textEN": "is a hopeless romantic"
+  },
+  {
+    "ID": 50,
+    "textIT": "non si accontenta della mediocrità e ambisce alla perfezione",
+    "textEN": "settles for nothing less than perfection"
+  }
+]

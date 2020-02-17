@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "textIT": "trasporta 10 metri di corda resistente",
+    "textEN": "is carrying 10 meters of robust rope"
+  },
+  {
+    "ID": 2,
+    "textIT": "trasporta una sacca con alcune candele",
+    "textEN": "is carrying a bag with some candles"
+  },
+  {
+    "ID": 3,
+    "textIT": "trasporta una vecchia lanterna di rame",
+    "textEN": "is carrying a tarnished copper lantern"
+  },
+  {
+    "ID": 4,
+    "textIT": "trasporta alcuni fogli di carta",
+    "textEN": "is carrying a few sheets of paper"
+  },
+  {
+    "ID": 5,
+    "textIT": "trasporta una calda coperta decorata",
+    "textEN": "is carrying a nice, emproidered blanket"
+  },
+  {
+    "ID": 6,
+    "textIT": "possiede una pozione di guarigione",
+    "textEN": "is carrying a healing potions"
+  },
+  {
+    "ID": 7,
+    "textIT": "possiede due pozioni di guarigione",
+    "textEN": "is carrying two healing potions"
+  },
+  {
+    "ID": 8,
+    "textIT": "possiede tre pozioni di guarigione",
+    "textEN": "is carrying three healing potions"
+  },
+  {
+    "ID": 9,
+    "textIT": "possiede un paio di pozioni dalla forma strana",
+    "textEN": "is carrying a pair of ornate metal flasks"
+  },
+  {
+    "ID": 10,
+    "textIT": "porta una scatola di fiammiferi",
+    "textEN": "is carrying around a book of matches"
+  },
+  {
+    "ID": 11,
+    "textIT": "porta una spada corta arrugginita",
+    "textEN": "is carrying a rusty shortsword"
+  },
+  {
+    "ID": 12,
+    "textIT": "possiede un arco corto e una faretra",
+    "textEN": "is carrying a shortbow and arrows"
+  },
+  {
+    "ID": 13,
+    "textIT": "trasporta un pugnale decorato e affilatissimo",
+    "textEN": "is carrying an ornate, sharp dagger"
+  },
+  {
+    "ID": 14,
+    "textIT": "indossa un mantello di cuoio rovinato",
+    "textEN": "is wearing a worn leather cape"
+  },
+  {
+    "ID": 15,
+    "textIT": "indossa un mantello di tela nera",
+    "textEN": "is wearing a black cloth cape"
+  },
+  {
+    "ID": 16,
+    "textIT": "indossa un mantello di tela rossa",
+    "textEN": "is wearing a red cloth cape"
+  },
+  {
+    "ID": 17,
+    "textIT": "indossa paramenti religiosi",
+    "textEN": "is wearing religious garment"
+  },
+  {
+    "ID": 18,
+    "textIT": "indossa una collana di bronzo",
+    "textEN": "is wearing a bronze necklace"
+  },
+  {
+    "ID": 19,
+    "textIT": "indossa un lucente ciondolo d'argento",
+    "textEN": "is wearing a bright silver necklace"
+  },
+  {
+    "ID": 20,
+    "textIT": "indossa un simbolo sacro",
+    "textEN": "is wearing a holy symbol"
+  }
+]

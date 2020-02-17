@@ -1,0 +1,158 @@
+[
+  { "ID": 1, "textIT": "Ha una brutta acne", "textEN": "Has a bad acne" },
+  { "ID": 2, "textIT": "Ha alcune cicatrici", "textEN": "Has bad scars" },
+  { "ID": 3, "textIT": "Occhi a mandorla", "textEN": "Has almond shaped eyes" },
+  { "ID": 4, "textIT": "Androgino", "textEN": "Is androgynus" },
+  {
+    "ID": 5,
+    "textIT": "Ha un alito orribile",
+    "textEN": "Has a terrible breath"
+  },
+  { "ID": 6, "textIT": "Ha occhi stanchi", "textEN": "Has gloomy eyes" },
+  { "ID": 7, "textIT": "E' calvo", "textEN": "Is bald" },
+  { "ID": 8, "textIT": "E' quasi calvo", "textEN": "Is almost bald" },
+  { "ID": 9, "textIT": "E' ben piazzato", "textEN": "Is well chested" },
+  { "ID": 10, "textIT": "Ha occhi cesposi", "textEN": "bla" },
+  {
+    "ID": 11,
+    "textIT": "Ha una cicatrice/voglia dalla forma strana",
+    "textEN": "Has a oddly shaped birtmark"
+  },
+  {
+    "ID": 12,
+    "textIT": "Ha occhi iniettati di sangue",
+    "textEN": "Has bloodshot eyes"
+  },
+  { "ID": 13, "textIT": "Ha gambe ricurve", "textEN": "Has curved legs" },
+  { "ID": 14, "textIT": "Porta capelli raccolti", "textEN": "Has braids" },
+  {
+    "ID": 15,
+    "textIT": "Ha un marchio (impresso a fuoco) sul braccio",
+    "textEN": "Is branded on his arm"
+  },
+  {
+    "ID": 16,
+    "textIT": "Ha spalle larghe e imponenti",
+    "textEN": "Has broad shoulders"
+  },
+  {
+    "ID": 17,
+    "textIT": "Ha il naso rotto",
+    "textEN": "Has a broken nose"
+  },
+  {
+    "ID": 18,
+    "textIT": "Ha un dente rotto",
+    "textEN": "Has broken teeth"
+  },
+  {
+    "ID": 19,
+    "textIT": "Ha denti piccoli e affilati",
+    "textEN": "Has buck teeth"
+  },
+  {
+    "ID": 20,
+    "textIT": "Ha occhi sporgenti",
+    "textEN": "Has bulging eyes"
+  },
+  {
+    "ID": 21,
+    "textIT": "Ha occhi sporgenti",
+    "textEN": "Has burn scars"
+  },
+  {
+    "ID": 22,
+    "textIT": "Ha sopracciglia grosse e pelose",
+    "textEN": "Has big, bushy eyebrows"
+  },
+  {
+    "ID": 23,
+    "textIT": "Ha guancie grassottelle",
+    "textEN": "Has chubby cheeks"
+  },
+  {
+    "ID": 24,
+    "textIT": "Ha il labbro sporgente",
+    "textEN": "Has a cleft lip"
+  },
+  {
+    "ID": 25,
+    "textIT": "Ha denti malmessi",
+    "textEN": "Has crooked teeth"
+  },
+  {
+    "ID": 26,
+    "textIT": "E' avvolto da un odore curioso",
+    "textEN": "Has a curious odor"
+  },
+  {
+    "ID": 27,
+    "textIT": "E' avvolto da un profumo esotico",
+    "textEN": "Has an exotic odor"
+  },
+  {
+    "ID": 28,
+    "textIT": "Ha le fossette",
+    "textEN": "Has dimples"
+  },
+  {
+    "ID": 29,
+    "textIT": "Ha la capacità di flettersi oltre il normale",
+    "textEN": "is double jointed"
+  },
+  {
+    "ID": 30,
+    "textIT": "Ha capelli tinti",
+    "textEN": "has dyed hair"
+  },
+  {
+    "ID": 31,
+    "textIT": "E' eccessivamente peloso",
+    "textEN": "is excessively hairy"
+  },
+  {
+    "ID": 32,
+    "textIT": "Ha occhi di colore diverso",
+    "textEN": "Has two different color eyes"
+  },
+  {
+    "ID": 33,
+    "textIT": "Ha una pelle molto chiara",
+    "textEN": "Has very fair skin"
+  },
+  {
+    "ID": 34,
+    "textIT": "Ha occhi rilassati e semichiusi",
+    "textEN": "has flinty eyes"
+  },
+  {
+    "ID": 35,
+    "textIT": "Ha tante lentiggini",
+    "textEN": "Has lots of freckles"
+  },
+  {
+    "ID": 36,
+    "textIT": "Ha uno sguardo magnetico",
+    "textEN": "Has glazed eyes"
+  },
+  {
+    "ID": 37,
+    "textIT": "Ha capelli sempre unti e sporchi",
+    "textEN": "Has greasy hair"
+  },
+  {
+    "ID": 38,
+    "textIT": "Ha una voce raschiante",
+    "textEN": "Has a gruff voice"
+  },
+  {
+    "ID": 39,
+    "textIT": "Ha un grosso neo sul volto",
+    "textEN": "Has a large mole"
+  },
+  {
+    "ID": 40,
+    "textIT": "Ha un bellissimo volto",
+    "textEN": "Has a beautiful face"
+  }
+]

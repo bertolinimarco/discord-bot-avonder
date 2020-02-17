@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "textIT": "Il clima inizia a farsi nuvoloso, e inizia a piovere molto forte. Continuare il viaggio diventa difficile per via di grandine, terremoti e altre calamità. Che sta succedendo?",
+    "textEN": "The weather starts to get cloudy, and then the rain start very suddenly. Continuing the travel becomes difficult due to earthquakes, hailstorm and other natural disasters. What is happening?"
+  },
+  {
+    "ID": 2,
+    "textIT": "I PG incontrano una carovana mercantile di alchimisti...",
+    "textEN": "The characters encounter a merchant caravan of alchemists... with some potions never seen before."
+  },
+  {
+    "ID": 3,
+    "textIT": "The characters encounter a merchant caravan of alchemists...",
+    "textEN": "The characters encounter a merchant caravan of weaponsmiths... with some weapons never seen before."
+  },
+  {
+    "ID": 4,
+    "textIT": "Un gruppo di schiavi fuggiti dalla loro prigionia corre a perdifiato scappando dalle fruste dei padroni che li stanno inseguendo.",
+    "textEN": "A group of slaves who have escaped from their captivity are running wild, from the whips of their masters who are chasing them."
+  },
+  {
+    "ID": 5,
+    "textIT": "Il gruppo incontra un altro gruppo di avventurieri con le fattezze del tutto simili alle loro.",
+    "textEN": "The group meets another group of adventurers with features similar to theirs."
+  },
+  {
+    "ID": 6,
+    "textIT": "Un contadino é ferito, su un lato della strada. Cosa è successo?",
+    "textEN": "A farmer is injured, on one side of the road. What happened?"
+  },
+  {
+    "ID": 7,
+    "textIT": "Un chierico errante cerca cibo e acqua. E' un eremita, oppure qualcosa di più sinistro è all'opera?",
+    "textEN": "An errand cleric seek for food and water. It's an hermit or something more obscure is happening?"
+  },
+  {
+    "ID": 8,
+    "textIT": "Un cacciatore di taglie ferma il gruppo e chiede informazioni, ma non rivela il suo vero obiettivo, che è uno dei personaggi.",
+    "textEN": "A bounty hunter stops the group and asks for information, but does not reveal his real target, which is one of the characters."
+  },
+  {
+    "ID": 9,
+    "textIT": "Una piccola moneta trovata per terra sembra portare fortuna chi la possiede.",
+    "textEN": "A small coin found on the ground seems to bring good luck to those who own it."
+  },
+  {
+    "ID": 10,
+    "textIT": "I PG incontrano una falsa carovana mercantile, formata da truffatori che vendono falsi oggetti magici.",
+    "textEN": "The PGs encounter a fake merchant caravan, made up of swindlers who sell fake magic items."
+  },
+  {
+    "ID": 11,
+    "textIT": "Un cartografo chiede al gruppo informazioni e caratteristiche sulle zone che hanno frequentato, in cambio di denaro.",
+    "textEN": "A cartographer asks the group for information and characteristics about the areas they have frequented, in exchange for money."
+  },
+  {
+    "ID": 12,
+    "textIT": "Un ragazzino chiede autografi ad un membro del gruppo.",
+    "textEN": "A kid asks a group member for autographs."
+  },
+  {
+    "ID": 13,
+    "textIT": "Un fanatico avvolto negli stracci che, delirando, annuncia la fine del mondo _Per Mano Di Colui Che Tutto Vede_",
+    "textEN": "A fanatic wrapped in rags who, deliriously, announces the end of the world _To the Hand Of Him Who Sees Everything_."
+  },
+  {
+    "ID": 14,
+    "textIT": "Un gruppo di zombie apparentemente non ostili viaggiano da giorni, diretti verso una meta sconosciuta.",
+    "textEN": "A group of apparently non-hostile zombies have been travelling for days, heading for an unknown destination."
+  },
+  {
+    "ID": 15,
+    "textIT": "Un ladro propone al gruppo di seguirlo per una razzia in un villaggio abbandonato.",
+    "textEN": "A thief proposes to the group to follow him for a raid on an abandoned village."
+  },
+  {
+    "ID": 16,
+    "textIT": "Un antico e potente drago passa sopra la testa dei personaggi dirigendosi verso una meta sconosciuta.",
+    "textEN": "An ancient and powerful dragon passes over the heads of the characters on its way to an unknown destination."
+  },
+  {
+    "ID": 17,
+    "textIT": "I personaggi intravedono un unicorno in lontananza e tutte le loro malattie vengono curate magicamente.",
+    "textEN": "The characters glimpse a unicorn in the distance and all their diseases are magically cured."
+  },
+  {
+    "ID": 18,
+    "textIT": "Un meteorite vola sopra la testa dei personaggi e si schianta poco lontano.",
+    "textEN": "A meteorite flies over the heads of the characters and crashes not far away."
+  },
+  {
+    "ID": 19,
+    "textIT": "Un personaggio si accorge di essere stato borseggiato da un ladro durante una visita precedente in una città.",
+    "textEN": "A character realizes that he has been pickpocketed by a thief during a previous visit to a city."
+  },
+  {
+    "ID": 20,
+    "textIT": "I personaggi trovano un gruppo di persone intente a costruire un nuovo villaggio.",
+    "textEN": "The characters find a group of people intent on building a whole new village."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 1,
+    "textIT": "**101 modi per cucinare una gelatina**\nUna raccolta di ricette interessanti tra cui un cocktail creato da un Cubo Gelatinoso, Mela con Melma Ocra e pudding salato",
+    "textEN": "**101 Ways to Cook an Ooze**\nInteresting recipes include gelatinous cube cocktail, ochre apple jelly, and salted pudding."
+  },
+  {
+    "ID": 2,
+    "textIT": "**Fisiologia delle Creature Magiche**\nInformazioni sulla fisiologia di Beholders, Draghi, Unicorni e altri. E' pieno di diagrammi.",
+    "textEN": "**Physiologies of Magical Creatures**\nInformation on the biology of Beholders, Dragons, Unicorns, and more. Full of diagrams."
+  },
+  {
+    "ID": 3,
+    "textIT": "**Le Profezie**\nRacconti di grande avventura. Dopo un po' però, le pagine diventano bianche...",
+    "textEN": "**The Prophecies**\nTales of great adventures. Partway through, all the pages become blank."
+  },
+  {
+    "ID": 4,
+    "textIT": "**Come individuare un Mimic**\nConsigli tra cui _ascoltare il respiro degli oggetti_, e verificare se _rispondono al tocco_.",
+    "textEN": "**How to Spot a Mimic**\nTips such as listen _for breathing_, and see if it _responds to being touched_."
+  },
+  {
+    "ID": 5,
+    "textIT": "**La Fantastica Avventura di Bordrick**\nUn librogame nanico",
+    "textEN": "**Bordrick**s Fantastic Adventure**\nDwarven choose your own adventure book."
+  },
+  {
+    "ID": 6,
+    "textIT": "**Fra i Piani**\nIllustra diversi modi di viaggiare attraverso i Piani di esistenza.",
+    "textEN": "**Planeshifting**\nDetails different ways to travel between different planes of existence."
+  },
+  {
+    "ID": 7,
+    "textIT": "**De Creaturæ Mostruosæ**\nUn trattato che si occupa di stabilire se le razze _mostruose_ debbano o meno essere considerate al pari delle razze _civilizzate_.",
+    "textEN": "**On Monstrous Races**\nDiscusses whether _monstrous_ races should or should not be allowed into society."
+  },
+  {
+    "ID": 8,
+    "textIT": "**Quelli-di-fuori**\nUno strano diario personale di qualcuno che ha avuto una visione di sé come piccola statuina di plastica su un tavolo, accerchiata da una serie di figure simili a divinità che parlavano come se interpretassero un gruppo di avventurieri.",
+    "textEN": "**The Outside**\nA self-written account by someone you know who saw a vision of them self as a small plastic figurine on a table surrounded by a number of god-like beings after they talked to a group of adventurers."
+  },
+  {
+    "ID": 9,
+    "textIT": "**Umano?**\nLa storia di un ogre che, anche se stupido, riesce a convincere tutti di essere in realtà un umano molto alto, che è diventato Re, successivamente scoperto e infine giustiziato.",
+    "textEN": "**Human?**\nStory about an ogre who, despite his incompetence, convinced everyone that he was actually a very tall human, became a king, then was discovered and beheaded."
+  },
+  {
+    "ID": 10,
+    "textIT": "**Luoghi da visitare prima di morire**\nIllustra un numero imprecisato di luoghi e monumenti, di una regione che non hai mai sentito nominare.",
+    "textEN": "**Landmarks to Visit Before You Die**\nDetails a number of landmarks and monuments in a country or city you have never heard of."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 1,
+    "textIT": "Ha la testa dorata, la coda d'oro. Non ha corpo. ||[Moneta d'oro]||",
+    "textEN": "It has a golden head. It has a golden tail. It has no body. ||A gold coin.||"
+  },
+  {
+    "ID": 2,
+    "textIT": "Indossa una copertura di cuoio per tenersi in ordine. Ti trasporta in altri reami senza bisogno di un portale. ||[Libro]||",
+    "textEN": "It wears a leather coat to keep its skins in working order. Escorts you to other realms, without a magic portal. ||Book||"
+  },
+  {
+    "ID": 3,
+    "textIT": "Diventa rigido quando si asciuga. ||[Asciugamano]||",
+    "textEN": "It dampens as it dries. ||Towel||"
+  },
+  {
+    "ID": 4,
+    "textIT": "Cosa ha due mani sulla propria faccia ma nessun braccio? ||[Orologio]||",
+    "textEN": "What has two hands on its face but no arms? ||A clock||"
+  },
+  {
+    "ID": 5,
+    "textIT": "Molti mi hanno sentito, ma nessuno mi ha visto. Non rispondo, a meno che qualcuno mi parli prima. Cosa sono? ||[Eco]||",
+    "textEN": "Many have heard me, yet nobody has seen me. I won’t speak back unless spoken to. What am I? ||An echo||"
+  },
+  {
+    "ID": 6,
+    "textIT": "Cosa non è vivo ma cresce, non respira ma abbisogna d'aria? ||[Fuoco]||",
+    "textEN": "What is not alive but grows, does not breaths but needs air. ||Fire||"
+  },
+  {
+    "ID": 7,
+    "textIT": "Meglio vecchia che giovane, più sana è, più piccola è. ||[Ferita]||",
+    "textEN": "Better old than young; the healthier it is, the smaller it will be. ||A Wound||"
+  },
+  {
+    "ID": 8,
+    "textIT": "E' un fuoco che è meglio venga spento con le parole piuttosto che con l'acqua. ||[Desiderio]||",
+    "textEN": "This fire is smothered best not by water or sand but by words. ||Desire||"
+  },
+  {
+    "ID": 9,
+    "textIT": "Due amici che viaggiano insieme, uno praticamente inutile senza l'altro. ||[Stivali]||",
+    "textEN": "Two friends stand and travel together, one nearly useless without the other. ||Boots||"
+  },
+  {
+    "ID": 10,
+    "textIT": "Sfamami e vivrò, dissetami e morirò. ||[Fuoco]||",
+    "textEN": "Feed me and I will live, give me a drink and I will die. ||Fire||"
+  }
+]
