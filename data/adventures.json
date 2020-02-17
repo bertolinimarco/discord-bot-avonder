@@ -98,5 +98,255 @@
     "ID": 20,
     "textIT": "I personaggi trovano un gruppo di persone intente a costruire un nuovo villaggio.",
     "textEN": "The characters find a group of people intent on building a whole new village."
+  },
+  {
+    "ID": 21,
+    "textIT": "Un contadino avvicina il gruppo chiedendo aiuto: una delle sue galline diventa di uno strano colore verde se posta sotto la luce della luna, e sta cercando qualcuno che possa spiegare il perché ciò succeda.",
+    "textEN": "A farmer approaches the party and needs help. One of his chickens turns a strange neon green when placed in moonlight, and he needs help figuring out why."
+  },
+  {
+    "ID": 22,
+    "textIT": "Il gruppo trova una lista di 10 nomi, incluso il nome di qualcuno che conoscono molto bene. I primi quattro nomi sono stati cancellati con una riga.",
+    "textEN": "Your party finds a list of 10 names including someone they are close to. The first 4 names are crossed out."
+  },
+  {
+    "ID": 23,
+    "textIT": "Un corriere raggiunge il gruppo: un misterioso benefattore ha lasciato loro una grande casa in eredità. La sola condizione? Che trascorrano lì almeno 5 giorni. E' ovviamente... infestata!",
+    "textEN": "A courier catches up to the party. They have been left a run down mansion in the will of someone they have never met. The only condition? It be lived in for 5 days. It is of course… Haunted!"
+  },
+  {
+    "ID": 24,
+    "textIT": "Una costellazione molto ben conosciuta scompare dal cielo notturno. Il villaggio è diviso tra la gente che se la ricorda, e quelli che non se la ricordano. Il dibattito inizia ad acquisire quasi lo status di guerra civile...",
+    "textEN": "A well known constellation disappears from sight. The village is divided between people who remember it, and those who don’t. The debates begin to spark an escalating series of feuds and fights."
+  },
+  {
+    "ID": 25,
+    "textIT": "Un grande fiume inizia inspiegabilmente a smettere di scorrere un'ora prima del tramonto.",
+    "textEN": "A large river begins to inexplicably stop for 1 hour before sunset."
+  },
+  {
+    "ID": 26,
+    "textIT": "Ad un certo punto, il gruppo arriva ad una radura dove assiste ad un duello tra due avversari. La radura è in un loop temporale, che causa il ripetersi infinito del combattimento.",
+    "textEN": "You enter a clearing where 2 duelists lash out at one another. The clearing is in a time loop, repeating the duel over and over again."
+  },
+  {
+    "ID": 27,
+    "textIT": "Sembra che nel paese vicino sia arrivato un mercante itinerante che vende una serie di aghi da cucire maledetti...",
+    "textEN": "Rumor reaches your ears of a traveling merchant peddling sets of cursed sewing needles."
+  },
+  {
+    "ID": 28,
+    "textIT": "Il vecchio Jeb sostiene che il suo cane ha avuto dei cuccioli, ma hanno la coda divisa in due e non sa cosa fare.",
+    "textEN": "Old Jeb the farmer claims his sheepdog had puppies, but they all have split tails and he doesn’t know their sire."
+  },
+  {
+    "ID": 29,
+    "textIT": "Il mulino prende fuoco. Tante persone sono accorse per spegnerlo ma dopo due giorni il fuoco non è ancora stato sedato.",
+    "textEN": "The sawmill catches fire. The bucket brigade keeps it contained, but it refuses to extinguish after 2 days."
+  },
+  {
+    "ID": 30,
+    "textIT": "Per esattamente 10 minuti al giorno, tutti in città cadono sotto l'incantesimo di blocco. La vita continua, ma ognuno degli abitanti è quasi allo stremo della sopportazione. Una serie di totem di protezione iniziano a comparire in un negozio vicino...",
+    "textEN": "For exactly 1 round a day, everyone in town falls sway under the HOLD PERSON spell. Life continues, but everyone is on edge. “Protection” totems begin surfacing in every market shop."
+  },
+  {
+    "ID": 31,
+    "textIT": "Strani scheletri animati e coperti di fango si sono alzati dalla palude vicina. Non attaccano nessuno a meno che qualcuno non li minacci e cercano di parlare con tutti coloro che sono vicini, ma il fango sopra le loro vecchie ossa rende impossibile qualunque conversazione.",
+    "textEN": "Strange, mud-coated animate skeletons have risen in a nearby swamp. They won’t attack unless attacked first and try to speak with anyone nearby, but the coating of mud makes their speech indecipherable."
+  },
+  {
+    "ID": 32,
+    "textIT": "Il cespuglio di more fiorisce solo prima di una tempesta. Il gruppo dovrà raccogliere le bacche per un famoso alchimista, prima che la tempesta distrugga il raccolto.",
+    "textEN": "Snowberry bushes only bloom before a blizzard. Collect five snowberry blooms for an alchemist before the storm hits."
+  },
+  {
+    "ID": 33,
+    "textIT": "Un'armatura magica con decine di braccia attaccate sta terrorizzando gli abitanti dei vicini villaggi. Attenzione: ogni braccio possiede una balestra, ed attacca con tutte le braccia in ogni turno!",
+    "textEN": "A suit of enchanted armor with dozens of arms has been razing nearby villages. Watch out, each arm holds a hand crossbow, and each one can attack every turn."
+  },
+  {
+    "ID": 34,
+    "textIT": "Un goblin arriva correndo verso il gruppo, gridando: “Egli Sta arrivando!” prima di morire.",
+    "textEN": "A goblin comes running towards you and yells “he’s coming!” and dies."
+  },
+  {
+    "ID": 35,
+    "textIT": "Un piccolo gruppo di topi mannari ha creato la propria tana nelle fogne della città, continuando a causare problemi alla popolazione locale.",
+    "textEN": "A small pack of wererats have taken up residence in the city sewers, and keep causing trouble for the locals."
+  },
+  {
+    "ID": 36,
+    "textIT": "Un contadino dice di aver sentito strani canti nella notte, nel suo campo di grano, ma per quanto abbia cercato, non è riuscito a trovarne l'origine. Come se non bastasse, una mattina ha notato che i corvi si muovevano in cerchio sopra il campo, preannunciando sventura...",
+    "textEN": "A farmer says he’s heard strange singing in the night in his corn field, but whenever he goes out to look, he doesn’t find anyone. If that wasn’t strange enough, one morning he found his scarecrows had been moved into a circle."
+  },
+  {
+    "ID": 37,
+    "textIT": "Al gruppo viene detto che un mercante locale si è specializzato in oggetti magici. Il nome del mercante é Foezek e viene descritto come intelligente e compassionevole. Ma quando, il gruppo cerca il negozio del mercante, trovano un'altra persona che si dichiara essere Foezek, più interessata al fatto che loro lascino il negozio immediatamente. In verità, questa persona ha ucciso Foezek e ne ha assunto l'identità, rubando ogni oggetto magico del negozio ed utilizzandolo a proprio vantaggio. Il corpo del povero Foezek potrà essere trovato in cantina.",
+    "textEN": "The party is told of a local merchant who specializes in Magical items. The merchant’s name is Foezek and is described as an intelligent, compassionate Shedu. But, when the PCs seek out the shop, they find another being claiming to be Foezek and is more interested in them leaving the shop than dealing with them. In truth, this bandit killed Foezek and is dealing his magical items to an adversary of the DM’s choosing. Foezek’s body can be found in the shop (basement, or behind the counter, etc.)."
+  },
+  {
+    "ID": 38,
+    "textIT": "Il gruppo sta camminando in una cittadina quando incontra un veccho cieco che, trascinandosi a terra, cerca il proprio anello perduto. Una guardia, vedendo l'anello prima dell'anziano, lo prende e se lo mette in tasca.",
+    "textEN": "The party is walking through a town when they meet an blind old man who is crawling on the ground looking for his ring. A guard watched him drop it and took it for himself."
+  },
+  {
+    "ID": 39,
+    "textIT": "Il gruppo trova un pugnale sul corpo di un nemico, molto più pesante rispetto a quanto il pugnale dovrebbe essere...",
+    "textEN": "The party finds a dagger on the body of an enemy that is much heavier than a dagger should be..."
+  },
+  {
+    "ID": 40,
+    "textIT": "Il gruppo si sveglia _mescolato_ uno nel corpo dell'altro dopo una notte di bevute in taverna.",
+    "textEN": "The party wakes up mixed up in each other’s bodies after night of drinking at an inn."
+  },
+  {
+    "ID": 41,
+    "textIT": "Un piccolo baule cade dal cielo. Quando il gruppo trova un mago per aprirlo, lo trova pieno del proprio equipaggiamento duplicato, e un libro sulla quale sono segnate le azioni del gruppo nei giorni passati.",
+    "textEN": "A small chest from the spell Leomund’s Secret Chest falls from the sky. When the party finds a wizard to open the chest is filled with their own equipment, along with a note book keeping track of their actions."
+  },
+  {
+    "ID": 42,
+    "textIT": "Il gruppo continua a svegliarsi nella stessa taverna, ma in stanze diverse ogni mattina.",
+    "textEN": "The party continues to wake up in the same inn, but different rooms each morning."
+  },
+  {
+    "ID": 43,
+    "textIT": "Un membro del gruppo inizia ad essere allergico ai gatti e gli abiti del resto del gruppo sono improvvisamente diventati _pelo di gatto_. Il cambiamento non viene subito notato, ma è solo questione di tempo... cosa è successo?",
+    "textEN": "One of the party members is suddenly extremely allergic to cats, the rest of the party members clothes are suddenly made of cat fur. The change in clothing isn’t immediately noticable."
+  },
+  {
+    "ID": 44,
+    "textIT": "Il gruppo è convocato da un Re che pretende che essi siano i suoi amici per un giorno intero.",
+    "textEN": "The party is summoned by a king to be his friends for a day."
+  },
+  {
+    "ID": 45,
+    "textIT": "In taverna, c'è una taglia per un bandito che _rompe piatti_.",
+    "textEN": "There is a bounty out on the dish breaking bandit."
+  },
+  {
+    "ID": 46,
+    "textIT": "Uno dei membri del gruppo inizia a soffrire di sonnambulismo, e inizia a _rompere piatti_ nel sonno.",
+    "textEN": "One of the party members suddenly starts to sleepwalk, and breaks dishes in his sleep."
+  },
+  {
+    "ID": 47,
+    "textIT": "Uno gnomo arrabbiato si mette a giocherellare con l'equipaggiamento del gruppo, mentre sta dormendo. Tutto ora ha dei _lucchetti_.",
+    "textEN": "An angry gnome tinkers with the sleeping party’s equipment. Everything now has combination locks."
+  },
+  {
+    "ID": 48,
+    "textIT": "Strani rumori sono stati sentiti la notte arrivare dalla casa di un uomo anziano del villaggio. Ad una prima occhiata, il gruppo scopre un anziano umano che tenta di nascondere la propria preoccupazione ogniqualvolta qualcuno fa domande sugli strani rumori della propria casa. Se convinto dal gruppo, oppure se viene esaminato più attentamente, viene scoperto che sua moglie soffre di licantropia, sebbene non presenti marchi o morsi evidenti.",
+    "textEN": "Weird noises have been heard at night coming from an older resident’s home in town. When investigated, you discover a worried old man attempting to disguise his worry at your interest in the noise and his business. If convinced that your aid is genuine, or if more discreet measures of observations are taken, you discover his wife is afflicted with lycanthropy despite having no bite marks."
+  },
+  {
+    "ID": 49,
+    "textIT": "La popolazione di un villaggio vicino riferisce che una tribù di goblin ha creato il proprio accampamento nelle vicinanze. Si stanno comportando in modo strano: hanno iniziato a costruire statue di un goblin con un cappello a punta.",
+    "textEN": "The local towns people are complaining about a goblin tribe that has set up camp near by. They are acting strange and have begun constructing statues of a goblin with a pointy hat all over the area."
+  },
+  {
+    "ID": 50,
+    "textIT": "Mentre il gruppo sta camminando su una strada, incontra un mendicante: é zoppo e chiede qualche moneta per comprare del cibo. Continuato il viaggio, il gruppo trova un altro mendicante, dall'aspetto del tutto simile al primo. Se gli viene chiesto di un eventuale fratello gemello, nega tutto. Non sa di cosa parla il gruppo: vuole solo del denaro per potersi comprare del cibo. Più avanti, un terzo mendicante, identico ai primi due, chiede qualche moneta: anch'egli non sa nulla degli altri due _gemelli_. Dopo alcune osservazioni, il gruppo scopre che il mercante fu un tempo assistente di un famoso mago, specializzato in clonazione umana.",
+    "textEN": "As the party is walking through a road they come across a beggar. He is crippled and asks for some money to help him buy food. As the party continues to walk down the road they find another beggar who looks exactly like the one they just met! When asked he says that he doesn’t have a twin brother or anything of the sort. He doesn’t know what the party is taking about and just wants some coin to buy food. As the party continues to walk they find the same man yet again. He to knows nothing. Upon further investigation they discoverer that the man was once an assistant to a local wizard. And the wizard is an expert in human cloning."
+  },
+  {
+    "ID": 51,
+    "textIT": "La figlia di un nobile locale continua ad essere rapita dai goblin. Il gruppo viene assoldato per cercare di risolvere questa situazione una volta per tutte.",
+    "textEN": "The daughter of a local politician/Noble person keeps getting kidnapped by local goblins. The party is hired to solve it once and for all."
+  },
+  {
+    "ID": 52,
+    "textIT": "Un cavallo senza conducente, ma completamente bardato, cammina nella direzione opposta a quella del gruppo. C'è un messaggio appeso alla sella: “Inviate aiuto!”",
+    "textEN": "A horse with no rider, but fully equipped is walking in the opposite direction of the party. There is a note pinned to it’s saddlebags, “send help!”"
+  },
+  {
+    "ID": 53,
+    "textIT": "Il gruppo prende una deviaizone attraverso una foresta non segnata sulle mappe. Sembra stranamente silenziosa, e presto si nota che la fauna è addormentata, inclusi insetti e perfino fiori. Prima che gli occhi si facciano pesanti, un uomo balza fuori da un cespuglio, gli occhi sgranati.",
+    "textEN": "The party takes a shortcut through a friendly looking forest not shown on their map. It seems oddly silent, and soon notice all the wildlife is deep asleep – including insects and even flowers. As their eyes get heavier and heavier a wild man bursts out of the bushes, eyes propped open."
+  },
+  {
+    "ID": 54,
+    "textIT": "Viaggiando attraverso una foresta, il gruppo viene fermato dal suono di una voce tonante: “I tuoi desideri sono stati esauditi!”. Poco dopo, una radura di apre davanti al gruppo, mentre tutti vedono un goblin ridere maniacalmente tenedendo una lampada d'ottone sollevata sopra la propria testa. Il gruppo ora dovrà stabilire cosa avrà desiderato il goblin di tanto stupido.",
+    "textEN": "Traveling through the forest the party is stopped by the sound of a booming voice nearby “Your Wish has been granted!”. Shortly after they come apon a clearing filled red mist and a goblin holding a brass lamp laughing maniacally. The party now has to deal with what stuipd thing he has wished for."
+  },
+  {
+    "ID": 55,
+    "textIT": "Un contadino chiede aiuto: i suoi raccolti sono costantemente distrutti. Vuole che il gruppo faccia la guardia ai campi durante la notte. Si finisce per scoprire che i corvi del contadino sono non-morti, portati nuovamente alla vita da un incantesimo oscuro.",
+    "textEN": "A farmer asks for help. His crops are constantly getting trashed. He wants the group/player to keep watch over the night. It ends up being that the poor farmers’ trusty scarecrow has been brought to life by dark magic. It is optional to buy or make a new scarecrow."
+  },
+  {
+    "ID": 56,
+    "textIT": "La costruzione di un nuovo museo è stata interrotta dopo che i lavoratori continuano a dimenticarsi cosa stanno facendo. Che questo mistero sia collegato alla mostra Askari organizzata da un nuovo direttore?",
+    "textEN": "Construction of a new museum has been halted when its found that all the workers continue to forget what they’re building, could the new exhibit be to blame?"
+  },
+  {
+    "ID": 57,
+    "textIT": "Si dice che un villaggio di frontiera offra una lauta ricompensa a color che risolvano il mistero di alcune persone scomparse in circostanze misteriose.",
+    "textEN": "You’ve gotten word about a logging village up north that has put up a massive reward for any adventurers willing to travel to the village, investigate the rash of disappearances and locate any of the missing persons: dead or alive."
+  },
+  {
+    "ID": 58,
+    "textIT": "Un vecchio rompiscatole si lamenta con il gruppo di aver subito il furto del proprio orologio da taschino, e dice di sapere chi sia il ladro. Interrogato, egli sostiene che il vecchio sia semplicemente affetto da demenza: egli non sa nulla di nessun orologio.",
+    "textEN": "A cranky old man in town complains that his pocket watchers stolen, and he has his suspicions on who the thief is. The townsfolk say that he’s a senile old man who probably lost it."
+  },
+  {
+    "ID": 59,
+    "textIT": "Appena messo piede nel villaggio, la terra trema violentemente e il gruppo viene attaccato da un mostruoso centipede, sbucato dalla terra. Una volta sconfitto, diventa chiaro che gli abitanti del villaggio hanno utilizzato alcuni potenti incantesimi per evocare creature mostruose, ma a quale scopo?",
+    "textEN": "As your party steps through town, you suddenly start to feel the ground shake as a group of Monsterous Centipede’s erupt from the dirt, attacking the party. As they are defeated, it becomes apparent that they were summoned creatures."
+  },
+  {
+    "ID": 60,
+    "textIT": "Uno degli oggetti più preziosi del gruppo viene rubato e conservato in una zona di massima sicurezza di una banca in città. Il gruppo dovrà irrompere nella banca per recuperare l'oggetto.",
+    "textEN": "One of the party’s magical or valued items has been stolen and is now held in a high security bank in a bustling city. The party must now break into the bank to retrieve their items."
+  },
+  {
+    "ID": 61,
+    "textIT": "Un membro del gruppo contrae la licantropia. Una cura esiste, ma bisogna prima convincere un mago pazzo a fornirla.",
+    "textEN": "A PC gets bit by a werewolf. There is a cure for it, however they must convince the mad wizard to give it to you."
+  },
+  {
+    "ID": 62,
+    "textIT": "Un uomo sostiene di essere un genio che può garantire ad un membro del gruppo tre desideri, ammesso che si trovi prima la sua lampada perduta.",
+    "textEN": "A passing man swears to you that he is a genie who will most definitely grant you three wishes if you return his stolen lamp to him."
+  },
+  {
+    "ID": 63,
+    "textIT": "In ogni villaggio o avamposto visitato dal gruppo si trova la figura di un pesce disegnata su un edificio principale. All'inizio, è molto evidente. Poi inizia a diventare sempre meno evidente, al punto che i personaggi non notano nulla se non con diverse osservazioni più attente. Il villaggio dove inizia questa avventura ha la parola _PESCE_ scritta a grandi caratteri sopra una casa.",
+    "textEN": "Every town or settlement the party goes to has an outline of a fish stenciled on a main building. The first one is really big and noticeable; the rest are subtle enough that the party won’t see them unless they announce that they’re examining the place. The town where the quest will happen has the WORD “fish” stenciled on a building."
+  },
+  {
+    "ID": 64,
+    "textIT": "Una striscia di sangue vivo (é di unicorno!) conduce in una foresta ombrosa...",
+    "textEN": "You come across a trail of blood (unicorn) leading to a spooky forest."
+  },
+  {
+    "ID": 65,
+    "textIT": "Il gruppo viene seguito da un gufo che, durante la notte, sommessamente, bubola. Gli occhi, di colore giallo dorato, potrebbero essere un riflesso, o forse qualcosa di magico... Durante le notti successive, altri gufi si uniscono al gruppo, al punto di arrivare a diverse decine. Poi, uno dei gufi scrive un messaggio nella terra, con il becco, prima di volare via nella notte: _SEGUITEMI_",
+    "textEN": "The party is followed by an owl, hooting softly, eyes glowing the gentle yellow that might be magic or might be simple reflection. Over the next several days more owls join, until when the group sets down to sleep at night all they can see are hundreds of owl eyes staring down at them. Then, one of the owls scratches a message into the dirt, before flying off into the night- FOLLOW."
+  },
+  {
+    "ID": 66,
+    "textIT": "Un mago ha aperto una porta dimensionale nel bel mezzo di un combattimento, dopo aver esaurito tutte le sue proprie cure magiche. Prima di morire, consegna un messaggio al gruppo con il nome del suo assassino.",
+    "textEN": "An unknown NPC mage has dimension doored into the middle of a fight, after all healing spells have been used by the team. He/She is on death’s door and carrying a note with his/hers killers name. He says a few words before dying."
+  },
+  {
+    "ID": 67,
+    "textIT": "Alcuni graffiti vengono scoperti sopra due edifici di un villaggio. Sembrano una sorta di codice: I messaggi sono marchiati con _1_ e _3_ ma il messaggio numero _2_ sembra non esistere.",
+    "textEN": "Graffiti is scrawled on the walls of two buildings in town. It appears to be some sort of code. The messages are marked “1” and “3”. Message “2” is nowhere to be found."
+  },
+  {
+    "ID": 68,
+    "textIT": "Un pezzo di carta fluttua, trasportato dal vento. Appoggiandosi per caso sul volto di uno dei personaggi, egli acquisisce improvvisamente un'altra personalità!",
+    "textEN": "A scrap of paper floats on the wind. It glides on the breeze. Eventually in a gust the paper catches on one of the adventures faces. Tearing it off their face, and looking at the parchment they see it is…"
+  },
+  {
+    "ID": 69,
+    "textIT": "Mentre costeggiate uno stagno, sentite un suono strano ribollire dal fondo: è un pescatore intrappolato da una rana gigante che chiede aiuto!",
+    "textEN": "While passing by a pond, you hear a deep bellowing noise, only to see a fisherman trapped by a giant frog. He calls for help."
+  },
+  {
+    "ID": 70,
+    "textIT": "Guardando il lontananza, il gruppo intravede alcune luci, simili ad un segnale con lo specchio. Qualcuno sta cercando di comunicare qualcosa a grandi distanze. Il messaggio è parte di un rito oscuro, chi lo sta comunicando e chi è il destinatario?",
+    "textEN": "Looking off to the distance, they can see a flashing light (similar to a signal mirror). Someone is trying to signal far off. Whether it is aide, is indiscernible to the group as the light stops almost as soon as it starts. There is only one way to find out…"
   }
 ]
