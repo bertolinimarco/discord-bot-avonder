@@ -57,7 +57,7 @@
   {
     "ID": 11,
     "textIT": "**Guida per gli Esploratori di Aumyr**\nUn libro non del tutto preciso su come __girare per tutto il continente con meno di 30 monete di rame al giorno__. La prima pagina continene solo le parole __non credo si possa fare__, scritte velocemente.",
-    "textEN": "**The Explorer's Guide to Aumyr**\nA book with not entirely inaccurate advice on **how to see the kingdom on less than 30 copper pieces a day**. The very first page contains only the words **it can't be done** printed in large letters."
+    "textEN": "**The Explorer's Guide to Aumyr**\nA book with not entirely inaccurate advice on **how to see the kingdom on less than 30 copper pieces a day**. The very first page contains only the words **can't be done** printed in large letters."
   },
   {
     "ID": 12,
@@ -66,7 +66,7 @@
   },
   {
     "ID": 13,
-    "textIT": "**Magia per i negati**\nEsplorazioni su come funzioni la magia, come creare incantesimi propri per l'uso quotidiano, come rifinire pergamene... ma niente che spieghi come lanciarli, effettivamente.",
+    "textIT": "**Magia per Negati**\nEsplorazioni su come funzioni la magia, come creare incantesimi propri per l'uso quotidiano, come rifinire pergamene... ma niente che spieghi come lanciarli, effettivamente.",
     "textEN": "**Magic for Dummies**\nExplains what magic is and how it works in the style of **___ for Dummies** books. Does not teach one how to cast spells."
   },
   {
@@ -107,7 +107,7 @@
   {
     "ID": 21,
     "textIT": "**Ritratti di Gatti**\nUn libro illustrato pieno di gatti, vestiti in modi carini. Il libro ha le dimensioni di un dizionario.",
-    "textEN": "**Pictures of Cats**\nA picture book full of photos of cats dressed in cute outfits and doing cute things. It**s about the size of an average dictionary."
+    "textEN": "**Pictures of Cats**\nA picture book full of photos of cats dressed in cute outfits and doing cute things. It's about the size of an average dictionary."
   },
   {
     "ID": 22,
@@ -127,11 +127,11 @@
   {
     "ID": 25,
     "textIT": "**AAARRGGHH!: La guida barbarica per la _istruzione_ dei tuoi nemici**\nLa scrittura è sicuramente sbagliata e anche il titolo del libro. Alcune lettere sono al contrario, le frasi sconnesse. Come se non bastasse, la copertina è sporca di sangue verso l'angolo in basso a destra, come se qualcuno abbia utilizzato il libro per colpire qualcosa in modo violento.",
-    "textEN": "**AAARRGGHH!: A Barbarian**s Guide to Clobbering Your Enemies**\nThe writing is messy and misspelled, and some of the letters are are backwards. What's more, the cover is splattered with blood on the bottom right corner, like someone was violently clobbered by the book."
+    "textEN": "**AAARRGGHH!: A Barbarian's Guide to Clobbering Your Enemies**\nThe writing is messy and misspelled, and some of the letters are are backwards. What's more, the cover is splattered with blood on the bottom right corner, like someone was violently clobbered by the book."
   },
   {
     "ID": 26,
-    "textIT": "**I Tre Piccoli Goblin*\nTre goblin costruiscono le proprie case di legno, metallo e pietra per iniziare una nuova vita, ma il Grande Lupo Cattivo complica le cose.",
+    "textIT": "**I Tre Piccoli Goblin**\nTre goblin costruiscono le proprie case di legno, metallo e pietra per iniziare una nuova vita, ma il Grande Lupo Cattivo complica le cose.",
     "textEN": "**The Three Little Goblins**\nThree goblins set off to build houses of wood, straw, and enchanted brick and start new lives, but the Big Bad Dire Wolf complicates things."
   },
   {
@@ -187,7 +187,7 @@
   {
     "ID": 37,
     "textIT": "**La rivolta di Bahamut**\nUn action-thriller scritto da uno dei più grandi e controversi filosofi di Aumyr, il romanzo è ambientato in un mondo distopico dove la magia è strettamente regolata e solo Gon Jalt può _liberare_ i maghi dai parassiti _non maghi_, cioé tutti coloro che non praticano la magia.",
-    "textEN": "**Bahamut Shrugged**\nAn action-thriller written by one of the world**s most controversial philosophers, the novel is set in a dystopia where magic is tightly regulated and only Gon Jalt can liberate magic-users from the non-magical **parasites**, i.e. everyone else."
+    "textEN": "**Bahamut Shrugged**\nAn action-thriller written by one of the world's most controversial philosophers, the novel is set in a dystopia where magic is tightly regulated and only Gon Jalt can liberate magic-users from the non-magical **parasites**, i.e. everyone else."
   },
   {
     "ID": 38,
@@ -212,7 +212,7 @@
   {
     "ID": 42,
     "textIT": "**Il Manuale Olistico di Harold Haversham sulla Guarigione**\nAll'inizio sembra essere una guida per i meno esperti su come creare pozioni, man mano che le pagine proseguono invece, diventa più chiaro su come tutte le descrizioni siano un puro esercizio psicologico. Viene descritto un resoconto strutturato su come curare il braccio amputato di un uomo con sessioni di psicoterapia.",
-    "textEN": "**Harold Haversham**s Holisitic Handbook of Healing**\nAt first it appears to be a beginners guide to crafting potions, however as the book progresses the author becomes more and more adamant that all ailments are purely mental. There is a detailed account in which the author was treating a man for a broken arm and healed it through weekly mental therapy sessions."
+    "textEN": "**Harold Haversham's Holisitic Handbook of Healing**\nAt first it appears to be a beginners guide to crafting potions, however as the book progresses the author becomes more and more adamant that all ailments are purely mental. There is a detailed account in which the author was treating a man for a broken arm and healed it through weekly mental therapy sessions."
   },
   {
     "ID": 43,
@@ -257,6 +257,251 @@
   {
     "ID": 51,
     "textIT": "**La Cucina Orchesca: 101 modi di preparare un elfo**\nPer trasformare la tua battuta di caccia in una cena deliziosa.",
-    "textEN": "**The Orc**s Cookbook: 101 ways to prepare an elf**\nTo make the hunt taste delicious."
+    "textEN": "**The Orc's Cookbook: 101 ways to prepare an elf**\nTo make the hunt taste delicious."
+  },
+  {
+    "ID": 52,
+    "textIT": "**Enciclopedia. Delle. Cose. Importanti. di Tommeltop lo Gnomo**\nUn'enciclopedia... singolare. Ogni pagina contiene descrizioni estremamente esagerate, declinate in paragrafi lunghi e romantici sulla forma delle orecchie. Qualsiasi anima coraggiosa che tenti di leggere questo libro ha la sensazione di immaginarsi nel dettaglio le orecchie delle varie creature descritte, con una incredibile ricchezza di dettaglio (è possibile forse trovare anche la descrizione delle orecchie di uno dei personaggi).",
+    "textEN": "**Every. Accomplished. Recognizable. Sentient. by Tommeltop the Gnome**\nAn encyclopedia of anyone who accomplished anything of moderate note ever, however most of each page is dedicated to greatly exaggerated, suitably cringy and oddly romantic paragraphs about how great each person**s ears must have been. Any brave soul who actually reads the book through is suddenly able to recall in perfect detail the ears of anyone they**ve ever seen before,for no apparent reason. (Perhaps there are drawings and details of the players and their ears as well)"
+  },
+  {
+    "ID": 53,
+    "textIT": "**Il Signore degli Anelli** Una cronaca leggendaria sulle peripezie di un gruppo di avventurieri del passato, intenti a sconfiggere un male oscuro.",
+    "textEN": "**The Lord of the Rings** A historical fiction-esque set of books about an adventuring party ages ago in a material plane far, far away."
+  },
+  {
+    "ID": 54,
+    "textIT": "**Cose da evitare**\nUna collezione di mostri, piante, funghi, fenomeni magici e altre _cose_ varie che perfino il più esperto degli avventurieri dovrebbe evitare.",
+    "textEN": "**Names to Run Away From**\nA collection of monsters, plant, fungus, magical phenomenon and other miscellaneous **things** that even the most accomplished\nor desperate- of adventurers avoid\nfor they are easy to kill, but they are also a mighty pain in the behind and, even more importantly, in your wallet."
+  },
+  {
+    "ID": 55,
+    "textIT": "**Leggende di Aumyr**\nUna collezione di tutti i miti conosciuti e le leggende del mondo, dall'inizio dei tempi fino ai giorni nostri.",
+    "textEN": "**Legends of Aumyr**\nA collection of the all the known myths and legends in the world from the beginning of the written to the present."
+  },
+  {
+    "ID": 56,
+    "textIT": "**Compagni Marini**\nQuesto manuale tratta di come catturare e addestrare le creature marine perché diventino compagni animali.",
+    "textEN": "**Merfolk Companions**\nThis book details how Merfolk capture and train seals as pets."
+  },
+  {
+    "ID": 57,
+    "textIT": "**Sempre e per sempre**\nLe previsioni future di uno storico che visse duecento anni fa. Le sue visioni continuano per altri cento anni nel futuro.",
+    "textEN": "**Forever and Always**\nThe future predictions of a historian who lived two centuries ago. His predictions continue on for another four hundred years."
+  },
+  {
+    "ID": 58,
+    "textIT": "**Principi sulla Realtà**\nUn trattato filosofico che cerca di spiegare la vera natura della realtà.",
+    "textEN": "**Prince of Reality**\nA philosophical book that tries to explain the true nature of reality."
+  },
+  {
+    "ID": 59,
+    "textIT": "**La Donna e la Nobiltà**\nUn manuale su come la donna dovrebbe comportarsi quando si trova a contatto con l'alta società.",
+    "textEN": "**The Common Woman**s Guide to Royalty**\nA guide on how every lady should act in society."
+  },
+  {
+    "ID": 60,
+    "textIT": "**Intrugli della Strega**\nUna serie di consigli su come essere la strega più potente fra le tue amiche.",
+    "textEN": "**The Witch**s Guide to Home brew Potions**\nA series of tips on how to be the most successful witch you can be"
+  },
+  {
+    "ID": 61,
+    "textIT": "**Diventare un Paladino: La guida completa per diventare il Legale Buono che hai sempre voluto essere!**\nUn grosso volume che include anche come proteggere gli orfanotrofi e i modi corretti per distruggere il cranio ai tuoi nemici.",
+    "textEN": "**Becoming a Paladin: A full guide to becoming the lawful good person you always hoped to be!**\nThis thick volume even includes how to protect orphanages and the correct means of smiting your enemies."
+  },
+  {
+    "ID": 62,
+    "textIT": "**Diventa Familiare al tuo Famiglio: Il libro per i maghi che vogliono legare con il proprio compagno magico**\nUna guida sul campo che illustra diversi tipi di famigli e alcuni consigli su come divenire il loro compagno preferito.",
+    "textEN": "**Being Familiar With Your Familiar: The book for casters who wish to bond with their animal companions**\nA field guide to all common and some uncommonly seen familiars in the area."
+  },
+  {
+    "ID": 63,
+    "textIT": "**Nuove Tecnologie: Edizione Speciale Estiva**\nQuesta raccolta di riviste fornisce dettagli su molte forme di tecnologia come balestre rinforzate, trappole da caccia modificate e molti, molti oggetti magici.",
+    "textEN": "**New Technology: Summer Special Edition**\nThis information source gives details on many new forms of technology, such as reinforced crossbows, iron hunting traps, and many, many magic items."
+  },
+  {
+    "ID": 64,
+    "textIT": "**Il Tao della Terra**\nInizia con alcune riflessioni filosofiche sull'importanza della creazione e della stabilità sopra la distruzione e il cambiamento. Il libro è scritto in un vecchio dialetto che molte persone (incluse i maghi) hanno difficoltà ad interpretare. Occasionalmente i paragrafi si perdono in lunghe digressioni metafisiche.",
+    "textEN": "**The Tao of Earth**\nStarts with philosophical musings about the importance of creation and stability over destruction and change. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents."
+  },
+  {
+    "ID": 65,
+    "textIT": "**Il Tao dell'Acquia**\nInizia con una nota: lava e acqua sono praticamente la stessa cosa. Non lanciare incantesimi di fuoco sopra di esse. Il libro è scritto in un vecchio dialetto che molte persone (incluse i maghi) hanno difficoltà ad interpretare. Occasionalmente i paragrafi si perdono in lunghe digressioni metafisiche.",
+    "textEN": "**The Tao of Water**\nStarts with a note: lava and water is basically the same thing! don**t try to use fire spells on it. If you fail to understand this basic, the Tao will forever escape you. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents."
+  },
+  {
+    "ID": 66,
+    "textIT": "**Il Tao dell'Aria**\nInizia con alcune riflessioni filosofiche sull'importanza dell'aria al mantenimento della vita. C'è la possibilità che tra le pagine di questo manuale si trovi una lettera dai contenuti erotici. Il libro è scritto in un vecchio dialetto che molte persone (incluse i maghi) hanno difficoltà ad interpretare. Occasionalmente i paragrafi si perdono in lunghe digressioni metafisiche.",
+    "textEN": "**The Tao of Air**\nStarts with philosophical musings on how a fickle thing like air is needed for (long-lived) living creatures to breathe. There is a 5% chance of an ancient erotic letter being found loose inside. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents."
+  },
+  {
+    "ID": 67,
+    "textIT": "**Il Tao del Fuoco**\nInizia con alcuni avvertimenti: prima di leggere questo manuale, occorre padroneggiare gli altri libri della serie. Giocare con il fuoco è divertente ma non vale la pena di morire nel frattempo. Il libro è scritto in un vecchio dialetto che molte persone (incluse i maghi) hanno difficoltà ad interpretare. Occasionalmente i paragrafi si perdono in lunghe digressioni metafisiche.",
+    "textEN": "**The Tao of Fire**\nStarts with a strict warning to master at least one of the other 3 elemental books first, because while many people think playing with fire is fun, it's not worth dying over. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents."
+  },
+  {
+    "ID": 68,
+    "textIT": "**Il Tao della Vita**\nQuesto volume è il più pesante che tu abbia mai visto, ma in qualche modo il più incompleto: contiene diagrammi anatomici, riferimenti legali ad un altro libro della serie: Il Tao della Morte. Il libro è scritto in un vecchio dialetto che molte persone (incluse i maghi) hanno difficoltà ad interpretare. Occasionalmente i paragrafi si perdono in lunghe digressioni metafisiche.",
+    "textEN": "**The Tao of Life**\nThis volume is the thickest, but somehow the least complete; it contains many anatomical diagrams, as well as several normative references to The Tao of Death. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents."
+  },
+  {
+    "ID": 69,
+    "textIT": "**Il Tao della Morte**\nQuesto volume è il più raro della serie dei _Tao_, perché fu continuamente vietato da molte religioni del passato. Al suo interno, diagrammi per lo più sconosciuti contribuiscono a spiegare concetti come _Il Velo_, _i piani esterni_ e altre dimensioni. Il libro è scritto in un vecchio dialetto che molte persone (incluse i maghi) hanno difficoltà ad interpretare. Occasionalmente i paragrafi si perdono in lunghe digressioni metafisiche.",
+    "textEN": "**The Tao of Death**\nThis volume is missing from most sets after a book-burning campaign, but its existence is well known. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents."
+  },
+  {
+    "ID": 70,
+    "textIT": "**Il Tao dei Segreti**\nL'esistenza di questo volume è ancora oggetto di dispute librarie. Tutte le copie esistenti consistono di pagine bianche, sulle quali nessuno é mai riuscito a lanciare nessun incantesimo per estrarne qualche informazione. Qualcuno sospetta che in realtà il volume non esista, o non possieda capacità magiche, anche se appare consunto e malmesso come tutti i manuali della serie _Tao_...",
+    "textEN": "**The Tao of Secrets**\nThe existence of this volume is not widely known, and its veracity is debated among scholars; all claimed copies of this volume appear to consist entirely of blank pages, which nobody has ever manage to cast a spell to extract the information out of, thus suspicions that they're fake. But they do appear to be just as old as the other volumes …"
+  },
+  {
+    "ID": 71,
+    "textIT": "**Cinquanta Sfumature di Drow**\nIn parte una storia vera, in parte finzione... Una raccolta di fanfiction con protagonista una oscura divinità del sottosuolo.",
+    "textEN": "**Fifty Shades of Drow**\nPart history and part fan fiction starring Lolth."
+  },
+  {
+    "ID": 72,
+    "textIT": "**Invocare i Draghi**\nUna guida scritta da un essere celestiale che tratta metodi e pericoli sull'evocazione di draghi e grandi rettili.",
+    "textEN": "**The Summoning of Dragons**\nA Celestial's guide to the methods and dangers of calling on the great reptiles."
+  },
+  {
+    "ID": 73,
+    "textIT": "**senza titolo**\nQuesto libro non contiene testo, ma ha un piccolo buco tagliato nelle pagine che contiene qualcosa di valore (monete, una chiave, ecc...)",
+    "textEN": "**untitled book**\nthis book contains no text, and has a small hole cut into the pages which contains something of value (coins, a key, etc.)"
+  },
+  {
+    "ID": 74,
+    "textIT": "**Il Custode delle Chiavi**\nOgniqualvolta una creatura legge questo libro, cade lentamente in uno sonno profondo per _svegliarsi_ all'interno del libro stesso (il corpo rimane nel mondo reale). All'interno del libro, una creatura senziente mezzo-uomo, mezzo-cane possiede una copia di ogni chiave mai esistita: la sua unica occupazione è leggere libri. Molti dei libri che questa creatura legge non sono ancora terminati: é possibile _entrare_ in questi libri per _completarli_ e ricevere quindi dall'essere la copia di una chiave a scelta. Se qualcuno muore all'interno di uno dei libri, viene espulso dalla dimensione del Custode e torna al mondo reale.",
+    "textEN": "**Keeper of the Keys**\nWhenever a creature reads this book, they slowly fall asleep then **awaken** inside the book (their body remains in the real world). Living inside of the book is a half-man, half-dog extraplanar being who owns a copy of every key in existence, and whose only entertainment is reading books, but several of the books available for him to read are unfinished close to their ending. The party can enter the incomplete books to finish their stories (incomplete books could be a story of a great battle, a story where an assassin must be chased down, or something similar), and should they finish all of the stories given to them to complete, the Keeper of the Keys shall give them a key. Should they die inside of a book, a person will simply be ejected from it, rather than die outright."
+  },
+  {
+    "ID": 75,
+    "textIT": "**Gnomo significa Gnomo**\nUna guida introduttiva per capire le differenze tra le razze _basse_ del mondo.",
+    "textEN": "**Gnome means Gnome**\nA beginner**s guide to understanding the differences between the shorter races of the realm."
+  },
+  {
+    "ID": 76,
+    "textIT": "**Hai una monetina?**\nUn romanzo di formazione su un orco bandito che lentamente diviene un membro della società, affrontando morte, distruzione e amore.",
+    "textEN": "**Sparing?**\nAn orc bandit slowly goes from blood raging pillager to being a member of society. A heartwarming tale of death, destruction, and love."
+  },
+  {
+    "ID": 77,
+    "textIT": "**Il Mazzo delle Cose**\nUna collezione di (probabilmente reali) racconti su persone che usano il Mazzo delle Meraviglie in modo... anomalo.",
+    "textEN": "**Deck of Limiting Things**\nA collection of possibly true tales about people who used the deck of many things and the chaos that followed."
+  },
+  {
+    "ID": 78,
+    "textIT": "**L'Arte di Rimandare E Come Perfezionarla**\nUn libro pieno di annotazioni e mezze frasi. Non è ancora stato completato.",
+    "textEN": "**The Art of Procrastination and How to Perfect it**\nA book filled with scribbles. It is only halfway finished"
+  },
+  {
+    "ID": 79,
+    "textIT": "**Forgiatura per Negati**\nUn libro su come forgiare armi, armature e attrezzi vari, scritto da un famoso fabbro nano, come regalo al suo giovane apprendista umano.",
+    "textEN": "**Forging for Dummies**\nA book on how to forge weapons and tools, writen by a dwarf as a gift to his human pupil."
+  },
+  {
+    "ID": 80,
+    "textIT": "**Diamanti grezzi**\nUn trattato sulle gemme dell'anima e sulla loro creazione.",
+    "textEN": "**Diamonds in the rough**\nA book on soul gems and their proper creation."
+  },
+  {
+    "ID": 81,
+    "textIT": "**La Chimera Affamata**\nUn libro per bambini che illustra la complicata dieta di un mostro magico. Finisce che la chimera mangia gli avventurieri e cade in un sonno profondo.",
+    "textEN": "**The very hungry Chimera**\nA children's book detailing the complicated diet of a magical monster. It ends with the chimaera eating an adventuring party and falling asleep."
+  },
+  {
+    "ID": 82,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 83,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 84,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 85,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 86,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 87,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 88,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 89,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 90,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 91,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 92,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 93,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 94,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 95,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 96,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 97,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 98,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 99,
+    "textIT": "foo",
+    "textEN": "bar"
+  },
+  {
+    "ID": 100,
+    "textIT": "foo",
+    "textEN": "bar"
   }
 ]
