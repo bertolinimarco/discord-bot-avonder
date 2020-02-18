@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const commands = require("./src/commands");
+const getVersion = require("./package.json");
 
 // Ready
 client.once("ready", () => {
@@ -99,7 +100,7 @@ client.on("message", async message => {
           const createEmbedHelp = new Discord.RichEmbed()
             .setTitle(embedHelpTitle)
             .setDescription(response.body)
-            .setFooter("Avonder 0.9.7");
+            .setFooter(getVersion.version);
           await message.author.send(createEmbedHelp);
           break;
         case "channel":
