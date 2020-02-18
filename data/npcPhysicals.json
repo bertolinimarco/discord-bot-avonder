@@ -152,7 +152,402 @@
   },
   {
     "ID": 40,
-    "textIT": "Ha un bellissimo volto",
-    "textEN": "Has a beautiful face"
+    "textIT": "Ha zigomi alti",
+    "textEN": "Has high cheekbones"
+  },
+  {
+    "ID": 41,
+    "textIT": "Ha un naso aquilino",
+    "textEN": "Has a hook nose"
+  },
+  {
+    "ID": 42,
+    "textIT": "Ha capelli lunghi e intrecciati",
+    "textEN": "Has knotted/tangled hair"
+  },
+  {
+    "ID": 43,
+    "textIT": "Ha orecchie larghe",
+    "textEN": "Has large ears"
+  },
+  {
+    "ID": 44,
+    "textIT": "Ha mani grosse",
+    "textEN": "Has large hands"
+  },
+  {
+    "ID": 45,
+    "textIT": "Ha un grosso naso",
+    "textEN": "Has a huge nose"
+  },
+  {
+    "ID": 46,
+    "textIT": "Cammina zoppicando",
+    "textEN": "Walks with a limp"
+  },
+  {
+    "ID": 47,
+    "textIT": "Ha lunghe ciglia",
+    "textEN": "Has long eyelashes"
+  },
+  {
+    "ID": 48,
+    "textIT": "Ha lunghe dita",
+    "textEN": "Has long fingers"
+  },
+  {
+    "ID": 49,
+    "textIT": "Porta le unghie lunghe",
+    "textEN": "Has long fingernails"
+  },
+  {
+    "ID": 50,
+    "textIT": "Ha tanti nèi",
+    "textEN": "Has lots of moles"
+  },
+  {
+    "ID": 51,
+    "textIT": "Ha una voce tonante",
+    "textEN": "Has a loud voice"
+  },
+  {
+    "ID": 52,
+    "textIT": "Gli manca un sopracciglio",
+    "textEN": "Missing an eyebrow"
+  },
+  {
+    "ID": 53,
+    "textIT": "Gli manca un dito",
+    "textEN": "Missing a finger"
+  },
+  {
+    "ID": 54,
+    "textIT": "Ha una voce musicale",
+    "textEN": "Has a musical voice"
+  },
+  {
+    "ID": 55,
+    "textIT": "Ha un elegante portamento",
+    "textEN": "Has a noble presence"
+  },
+  {
+    "ID": 56,
+    "textIT": "Ha alcuni capelli bianchi",
+    "textEN": "Has patches of white hair"
+  },
+  {
+    "ID": 57,
+    "textIT": "Ha le dita ricurve",
+    "textEN": "Is pigeon toed"
+  },
+  {
+    "ID": 58,
+    "textIT": "Ha una grossa pancia",
+    "textEN": "Has a big pot belly"
+  },
+  {
+    "ID": 59,
+    "textIT": "Ha alcune cicatrici da malattia",
+    "textEN": "Has pox scars"
+  },
+  {
+    "ID": 60,
+    "textIT": "Ha le orecchie piccole",
+    "textEN": "Has a ragged ear"
+  },
+  {
+    "ID": 61,
+    "textIT": "Gli manca un orecchio",
+    "textEN": "Missing an ear"
+  },
+  {
+    "ID": 62,
+    "textIT": "Ha una sola gamba",
+    "textEN": "Missing a leg"
+  },
+  {
+    "ID": 63,
+    "textIT": "Ha un braccio mancante",
+    "textEN": "Missing an arm"
+  },
+  {
+    "ID": 64,
+    "textIT": "Ha il volto rotondo",
+    "textEN": "Has a round face"
+  },
+  {
+    "ID": 65,
+    "textIT": "Ha una pelle perfetta",
+    "textEN": "Has a perfect complexion"
+  },
+  {
+    "ID": 66,
+    "textIT": "Ha una piccola zona calva tra i capelli",
+    "textEN": "Has a small bald patch"
+  },
+  {
+    "ID": 67,
+    "textIT": "Possiede un potente odore corporeo",
+    "textEN": "is incredibly smelly"
+  },
+  {
+    "ID": 68,
+    "textIT": "Ha occhi dall'espressione gentile",
+    "textEN": "Has very kind eyes"
+  },
+  {
+    "ID": 69,
+    "textIT": "Parla con voce bassa",
+    "textEN": "Talks with a soft voice"
+  },
+  {
+    "ID": 70,
+    "textIT": "Ha un volto quadrato",
+    "textEN": "Has a square face"
+  },
+  {
+    "ID": 71,
+    "textIT": "Quando parla emette dei piccoli _urletti_",
+    "textEN": "Squints always"
+  },
+  {
+    "ID": 72,
+    "textIT": "Ha uno sguardo attraente",
+    "textEN": "Has a steely gaze"
+  },
+  {
+    "ID": 73,
+    "textIT": "E' ingobbito",
+    "textEN": "Is hunched over"
+  },
+  {
+    "ID": 74,
+    "textIT": "Cammina sempre con la schiena molto dritta",
+    "textEN": "Always stands up straight"
+  },
+  {
+    "ID": 75,
+    "textIT": "Ha un pesante accento regionale",
+    "textEN": "Has a thick accent"
+  },
+  {
+    "ID": 76,
+    "textIT": "Ha un paio di grosse sopracciglia",
+    "textEN": "Has a strong brow"
+  },
+  {
+    "ID": 77,
+    "textIT": "Ha occhi infossati",
+    "textEN": "Has sunken eyes"
+  },
+  {
+    "ID": 78,
+    "textIT": "Ha un tatuaggio",
+    "textEN": "Has a tattoo"
+  },
+  {
+    "ID": 79,
+    "textIT": "Porta una brutta cicatrice",
+    "textEN": "Has a very ugly scar"
+  },
+  {
+    "ID": 80,
+    "textIT": "Ha una dentatura perfetta",
+    "textEN": "Has perfect teeth"
+  },
+  {
+    "ID": 81,
+    "textIT": "E' vedovo da poco",
+    "textEN": "Has a widows peak"
+  },
+  {
+    "ID": 82,
+    "textIT": "Ha un sorriso disarmante",
+    "textEN": "Has a winning smile"
+  },
+  {
+    "ID": 83,
+    "textIT": "Ha denti disgustosi",
+    "textEN": "Has digusting teeth"
+  },
+  {
+    "ID": 84,
+    "textIT": "Non ha sopracciglia",
+    "textEN": "Has no eyebrows"
+  },
+  {
+    "ID": 85,
+    "textIT": "Porta una dentiera",
+    "textEN": "Has false teeth"
+  },
+  {
+    "ID": 86,
+    "textIT": "Ha alcuni denti mancanti",
+    "textEN": "Is missing teeth"
+  },
+  {
+    "ID": 87,
+    "textIT": "Ha un labbro ferito",
+    "textEN": "Has cracked lips"
+  },
+  {
+    "ID": 88,
+    "textIT": "Ha un volto incredibilimente simmetrico",
+    "textEN": "Has a stunning face"
+  },
+  {
+    "ID": 89,
+    "textIT": "E' di costituzione minuta",
+    "textEN": "Has an anorexic build"
+  },
+  {
+    "ID": 90,
+    "textIT": "E' molto alto",
+    "textEN": "Is incredibly tall"
+  },
+  {
+    "ID": 91,
+    "textIT": "E' molto basso",
+    "textEN": "Is incredibly short"
+  },
+  {
+    "ID": 92,
+    "textIT": "Ha una costituzione _rotonda_",
+    "textEN": "Has a round build"
+  },
+  {
+    "ID": 93,
+    "textIT": "E' coperto da polvere di carbone",
+    "textEN": "Is covered in coal dust"
+  },
+  {
+    "ID": 94,
+    "textIT": "E' molto pulito",
+    "textEN": "Is very clean"
+  },
+  {
+    "ID": 95,
+    "textIT": "Ha un occhio bendato",
+    "textEN": "Wears an eyepatch"
+  },
+  {
+    "ID": 96,
+    "textIT": "Ha molti piercings",
+    "textEN": "Has many piercings"
+  },
+  {
+    "ID": 97,
+    "textIT": "Gesticola abbondantemente durante una conversazione",
+    "textEN": "Gestures profusely during a conversation"
+  },
+  {
+    "ID": 98,
+    "textIT": "Ha un tono di voce acuto e penetrante",
+    "textEN": "Has a high-pitched voice"
+  },
+  {
+    "ID": 99,
+    "textIT": "E' di costituzione magra e ossuta",
+    "textEN": "Has a lean build"
+  },
+  {
+    "ID": 100,
+    "textIT": "E' albino",
+    "textEN": "Is albino"
+  },
+  {
+    "ID": 101,
+    "textIT": "E' cieco",
+    "textEN": "Is blind"
+  },
+  {
+    "ID": 102,
+    "textIT": "Resta facilmente a corto di fiato",
+    "textEN": "Is easily out of breath"
+  },
+  {
+    "ID": 103,
+    "textIT": "E' molto atletico",
+    "textEN": "Is very athletic"
+  },
+  {
+    "ID": 104,
+    "textIT": "E' molto bello",
+    "textEN": "Is very attractive"
+  },
+  {
+    "ID": 105,
+    "textIT": "E' molto brutto",
+    "textEN": "is very ugly"
+  },
+  {
+    "ID": 106,
+    "textIT": "E' muto",
+    "textEN": "Is mute"
+  },
+  {
+    "ID": 107,
+    "textIT": "E' molto discreto",
+    "textEN": "Is very nimble"
+  },
+  {
+    "ID": 108,
+    "textIT": "E' molto forte",
+    "textEN": "Is incredibly strong"
+  },
+  {
+    "ID": 109,
+    "textIT": "Ha un atteggiamento _delizioso_",
+    "textEN": "Is very dainty"
+  },
+  {
+    "ID": 110,
+    "textIT": "Indossa spesso abiti sgargianti",
+    "textEN": "Always wears vibrant clothing"
+  },
+  {
+    "ID": 111,
+    "textIT": "Indossa sempre abiti da lavoro",
+    "textEN": "Always wears work clothes"
+  },
+  {
+    "ID": 1102,
+    "textIT": "Indossa sempre abiti molto costosi",
+    "textEN": "Always wears expensive clothing"
+  },
+  {
+    "ID": 113,
+    "textIT": "Indossa sempre abiti molto poveri",
+    "textEN": "Always wears cheap clothing"
+  },
+  {
+    "ID": 114,
+    "textIT": "Ha mani incallite",
+    "textEN": "Has stained hands"
+  },
+  {
+    "ID": 115,
+    "textIT": "E' molto malato",
+    "textEN": "Is very sick"
+  },
+  {
+    "ID": 116,
+    "textIT": "Ha alcuni nodi nei capelli",
+    "textEN": "Has beads in their hair"
+  },
+  {
+    "ID": 117,
+    "textIT": "Ha occhi piccoli",
+    "textEN": "Has droopy eyes"
+  },
+  {
+    "ID": 118,
+    "textIT": "Si comporta sempre nel modo più appropriato",
+    "textEN": "Is very proper"
+  },
+  {
+    "ID": 119,
+    "textIT": "Ha uno sguardo penetrante",
+    "textEN": "Has peircing eyes"
   }
 ]
