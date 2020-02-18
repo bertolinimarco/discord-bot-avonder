@@ -48,5 +48,215 @@
     "ID": 10,
     "textIT": "**Luoghi da visitare prima di morire**\nIllustra un numero imprecisato di luoghi e monumenti, di una regione che non hai mai sentito nominare.",
     "textEN": "**Landmarks to Visit Before You Die**\nDetails a number of landmarks and monuments in a country or city you have never heard of."
+  },
+  {
+    "ID": 10,
+    "textIT": "**Luoghi da visitare prima di morire**\nIllustra un numero imprecisato di luoghi e monumenti, di una regione che non hai mai sentito nominare.",
+    "textEN": "**Landmarks to Visit Before You Die**\nDetails a number of landmarks and monuments in a country or city you have never heard of."
+  },
+  {
+    "ID": 11,
+    "textIT": "**Guida per gli Esploratori di Aumyr**\nUn libro non del tutto preciso su come __girare per tutto il continente con meno di 30 monete di rame al giorno__. La prima pagina continene solo le parole __non credo si possa fare__, scritte velocemente.",
+    "textEN": "**The Explorer's Guide to Aumyr**\nA book with not entirely inaccurate advice on **how to see the kingdom on less than 30 copper pieces a day**. The very first page contains only the words **it can't be done** printed in large letters."
+  },
+  {
+    "ID": 12,
+    "textIT": "**Creature incredibili e come ucciderle, Volume 1**\nDettagli sulle debolezze di mostri e altre creature. E' parte di un set di 5 volumi: nel primo si trattano creature più piccole e deboli, fino ad arrivare al quinto volume, dove sono descritte alcune creature mai viste prima.",
+    "textEN": "**Incredible Creatures and How to Kill Them, Volume 1**\nDetails weaknesses monsters are known to have. It is part of a five-volume set; the first volume is for beginners, the second for the somewhat experienced and so on."
+  },
+  {
+    "ID": 13,
+    "textIT": "**Magia per i negati**\nEsplorazioni su come funzioni la magia, come creare incantesimi propri per l'uso quotidiano, come rifinire pergamene... ma niente che spieghi come lanciarli, effettivamente.",
+    "textEN": "**Magic for Dummies**\nExplains what magic is and how it works in the style of **___ for Dummies** books. Does not teach one how to cast spells."
+  },
+  {
+    "ID": 14,
+    "textIT": "**Desideralo, Prendilo, Scartalo**\nIstruzioni su come evitare che l'incantesimo Desiderio si porti via tutto quello che avete.",
+    "textEN": "**Wish It, Want It, Screw It**\ndetailed accounts of times the Wish spell backfired horribly."
+  },
+  {
+    "ID": 15,
+    "textIT": "**Addio e grazie per tutta la birra**\nLa storia di Tarvish il nano, che ebbe diversi conti aperti nei bar per un ammontare leggendario, prima di venire finalmente arrestato.",
+    "textEN": "**So Long, and Thanks for All the Ale**\nThe story of Tarvish the dwarf, who had unpaid bar tabs worth a total of 10,000 gold all across the country before being arrested."
+  },
+  {
+    "ID": 16,
+    "textIT": "**Quaggot: le piacevoli sorprese del sottosuolo**\nUn diario che narra il tempo speso da alcuni avventurieri vissuto a stretto contatto con alcuni Quaggoth del sottosuolo. L'autore ha documentato ogni giorno per circa un mese.",
+    "textEN": "**Quaggoths: the Pleasant Surprises of the Underdark**\nA journal accounting some time that a researcher spent living with a cloister of quaggoths. The author documented at least once every day for a month."
+  },
+  {
+    "ID": 17,
+    "textIT": "**Domare la bestia*\nUn libro perfetto per i novelli domatori. Fornisce istruzioni e consigli su come governare efficacemente creature di ogni tipo. Inizia con piccole creature come rane e granchi, per seguire con aquile, scarafaggi del fuoco, rane giganti... fino a orsigufo, rinoceronti, elefanti. Perfino qualche dinosauro.",
+    "textEN": "**Taming the Beast**\nA perfect book for beginner beastmasters. Gives tips and tricks on how to win over wild creatures of all kinds. It starts with tiny creatures like frogs and crabs, followed by small creatures like eagles and fire beetles, medium creatures like giant badgers and giant frogs, large creatures like owlbears and bulettes, and finishes with huge creatures like elephants and some dinosaurs."
+  },
+  {
+    "ID": 18,
+    "textIT": "**La giornata di un lemure**\nUno studioso amatoriale di demoni e diavoli decise di iniziare i suoi studi sul più debole dei demoni, il lemure. Dopo aver evocato un lemure in un luogo remoto, osservò il suo comportamento per un giorno intero. Una volta acquisite le informazioni di cui necessitava per scrivere il libro, l'autore imprigionò il lemure in uno speciale contenitore, vicino a molti altri vuoti che sarebbero dovuti servire per imprigionare altri demoni più potenti. Alla fine del manoscritto, una mappa rivela la posizione della struttura di studio segreta. Se il gruppo decide di procedere per questo luogo misterioso, troverà l'autore morto, e un laboratorio pieno di demoni e diavoli imprigionati.",
+    "textEN": "**A Day in the Life of a Lemure**\nA beginner demon/devil researcher decided to start his studies on the weakest of all fiend kind, the lemure. After summoning a lemure in a remote location, he watched its behavior for a day. After gathering the information needed, the author had the hideous abomination placed within a special containment vessel, alongside the many empty ones that would house the many other fiends. At the end of the book lies a map to the research facility. If the party decides to go there, they will find out that the author finished doing research on an imp, manes, and dretch as well."
+  },
+  {
+    "ID": 19,
+    "textIT": "**Il Re Ragno**\nUn racconto fantastico: la cronaca di un avventuriero disceso nel sottosuolo allo scopo di uccidere un ragno gigante.",
+    "textEN": "**The Spider King**\nA fictional tale of an adventurer delving into the underdark to slay a fearsome giant spider."
+  },
+  {
+    "ID": 20,
+    "textIT": "**L'albero genealogico della Famiglia Bjernson e le Avventure**\nL'albero genealogico di una famiglia di Nordavind, di cui tutti i discendenti maschi con il nome _Bjern Bjernson_. Il libro aiuta a distinguerli tutti.",
+    "textEN": "**The Bjernson Family Tree And Exploits**\nThe family tree of a nordic clan with all the males named Bjern Bjernson. This book helps tell them apart."
+  },
+  {
+    "ID": 21,
+    "textIT": "**Ritratti di Gatti**\nUn libro illustrato pieno di gatti, vestiti in modi carini. Il libro ha le dimensioni di un dizionario.",
+    "textEN": "**Pictures of Cats**\nA picture book full of photos of cats dressed in cute outfits and doing cute things. It**s about the size of an average dictionary."
+  },
+  {
+    "ID": 22,
+    "textIT": "**Non posso credere che sia innocua!**\nUn'esilarante guida alle erbe, funghi e bacche che circondano la città dove il libro è stato scritto. Contiene accurate informazioni e annotazioni su come consumare gli ingredienti, come gestirli nelle preparazioni alchemiche, con anche alcuni disegni esplicativi di persone prese da diarrea e vomito.",
+    "textEN": "**I Can't Believe It's Not Harmless!**\nA hefty guide of herbs, mushrooms and berries that surround the city where the book was found. It contains accurate annotations of the ailments due to consumption or touch, with descriptive drawings of people having diarrhea or throwing up."
+  },
+  {
+    "ID": 23,
+    "textIT": "**Colpisci la mela, non la faccia!**\nUna dettagliata guida alla pratica del tiro con l'arco. Il libro include perfino istruzioni su come fabbricarsi un arco e dei bersagli.",
+    "textEN": "**Hit The Apple, Not My Face!**\nA Detailed Guide to Archery** This book even includes instructions for constructing a simple bow and targets."
+  },
+  {
+    "ID": 24,
+    "textIT": "**Il draghetto distrugge il villaggio**\nUn tenero libro per bambini.",
+    "textEN": "**Baby Dragon Destroys the Village**\nA truly heartwarming childrens book."
+  },
+  {
+    "ID": 25,
+    "textIT": "**AAARRGGHH!: La guida barbarica per la _istruzione_ dei tuoi nemici**\nLa scrittura è sicuramente sbagliata e anche il titolo del libro. Alcune lettere sono al contrario, le frasi sconnesse. Come se non bastasse, la copertina è sporca di sangue verso l'angolo in basso a destra, come se qualcuno abbia utilizzato il libro per colpire qualcosa in modo violento.",
+    "textEN": "**AAARRGGHH!: A Barbarian**s Guide to Clobbering Your Enemies**\nThe writing is messy and misspelled, and some of the letters are are backwards. What's more, the cover is splattered with blood on the bottom right corner, like someone was violently clobbered by the book."
+  },
+  {
+    "ID": 26,
+    "textIT": "**I Tre Piccoli Goblin*\nTre goblin costruiscono le proprie case di legno, metallo e pietra per iniziare una nuova vita, ma il Grande Lupo Cattivo complica le cose.",
+    "textEN": "**The Three Little Goblins**\nThree goblins set off to build houses of wood, straw, and enchanted brick and start new lives, but the Big Bad Dire Wolf complicates things."
+  },
+  {
+    "ID": 27,
+    "textIT": "**Pretendere la Corona**\nUna guida avanzata su come _Assassinare i Reali, Creare un Veleno, Impostare un Travestimento, Maneggiare un coltello, e altro ancora!_",
+    "textEN": "**Claiming the Crown**\nAn experienced guide to _Assassinating Royals, How to brew a poison, how to create a disguise, tips on wielding daggers, and more!_"
+  },
+  {
+    "ID": 28,
+    "textIT": "**Le Banshees che ho amato**\nUna tragedia in cinque atti.",
+    "textEN": "**The Banshees I Have Loved**\nA tragedy of five acts."
+  },
+  {
+    "ID": 29,
+    "textIT": "**La phylomagenetica e l'erbalismo**\nLa guida fondamentale per amatori ed esperti.",
+    "textEN": "**Phylomagenetics and the Herbalist**\nA primer for the professional and newcomer alike."
+  },
+  {
+    "ID": 30,
+    "textIT": "**Le dinamiche sociali dei Cryptosauri**\nUn trattato sulle stutture sociali sempre in evoluzione dei draghi, diviso per mondi e piani di esistenza.",
+    "textEN": "**Population Dynamics of Cryptosaurs**\nA treatise on the ever-evolving age structures of dragons by region and plane."
+  },
+  {
+    "ID": 31,
+    "textIT": "**Memorie di un Goblin**\nUn drammatico, a volte eroico, racconto biografico in prima persona di una ragazza goblin, promessa sposa in una terra esotica e straniera. L'autore è un elfo, maschio.",
+    "textEN": "**Memoirs of a Goblin**\nA dramatic, often erotic, first-person biography of a female goblin groomed to be a concubine in an exotic land. The author is a male elf."
+  },
+  {
+    "ID": 32,
+    "textIT": "**Come farsi degli amici e affascinare le persone**\nAl di là del titolo, non ha nulla a che fare con la magia, ma contiene dei buoni consigli su come mostrarti più affascinante con il prossimo.",
+    "textEN": "**How to Win Friends and Enchant People**\nDespite the title, has nothing to do with magic, but it does have some good advice about how to make yourself seem more approachable."
+  },
+  {
+    "ID": 33,
+    "textIT": "**Il Drago con il tatuaggio di una ragazza**\nUn giallo psicologico a proposito di un detective che si fece amico un drago d'argento mutaforma dall'oscuro passato. Insieme indagano su alcuni crimini seriali.",
+    "textEN": "**The Dragon with a Girl Tattoo**\nA psychological mystery thriller about a detective who befriends a shapeshifted silver dragon with a dark past, to find a murderer before he strikes again."
+  },
+  {
+    "ID": 34,
+    "textIT": "**Sull'uccidere le Manticore**\nNon viene menzionata nessuna manticora per tutto il libro: è invece la storia di un mezzorco sotto processo per un crimine che non ha commesso, mentre viene rappresentato in giudizio da un halfling.",
+    "textEN": "**To Kill a Manticore**\nThere isn't a single manticore in the entire book, it's about a half-orc on trial for a crime he didn't commit and the halfling lawyer who represents him."
+  },
+  {
+    "ID": 35,
+    "textIT": "**7 Abitudini per l'Avventuriero Perfetto**\nUn libro di auto-aiuto con una visione ottimistica dei passi che ognuno può fare per avere successo come mercenario e avventuriero.",
+    "textEN": "**The 7 Habits of Highly Effective Adventurers**\nA self-help book with an optimistic view of the steps a person must take to succeed as an independent contractor with a sword."
+  },
+  {
+    "ID": 36,
+    "textIT": "**Mangia, Evoca, Ama**\nUna donna sposata capisce quanto triste sia il suo matrimonio, mentre realizza che la sua vita deve prendere una nuova direzione. Dopo un dolorosio divorzio, si unisce ad un culto di necromanti per _trovare sé stessa_. Basato su una storia vera.",
+    "textEN": "**Eat, Summon, Love**\nA married woman realizes how unhappy her marriage really is, and that her life needs to go in a different direction. After a painful divorce, she joins a cult of necromancers to **find herself**. Based on a true story."
+  },
+  {
+    "ID": 37,
+    "textIT": "**La rivolta di Bahamut**\nUn action-thriller scritto da uno dei più grandi e controversi filosofi di Aumyr, il romanzo è ambientato in un mondo distopico dove la magia è strettamente regolata e solo Gon Jalt può _liberare_ i maghi dai parassiti _non maghi_, cioé tutti coloro che non praticano la magia.",
+    "textEN": "**Bahamut Shrugged**\nAn action-thriller written by one of the world**s most controversial philosophers, the novel is set in a dystopia where magic is tightly regulated and only Gon Jalt can liberate magic-users from the non-magical **parasites**, i.e. everyone else."
+  },
+  {
+    "ID": 38,
+    "textIT": "**Minestra di Cockatrice per l'anima**\nQuesto libro è così diffuso che è quasi un cliché trovarlo in ogni caso dove si trova una donna anziana. E' stato molto venduto per diversi anni nelle piccole botteghe: contiene storielle morali a volte troppo semplici perfino per un orco. Le _perle di saggezza_ che contiene, sono considerate _inutili_ da molti avventurieri.",
+    "textEN": "**Cockatrice Soup for the Soul **\nThis book is so commonplace, it's a cliche that in every house where a woman of a certain age lives, there will be at least one heavily-read copy of this book with it's sappy stories and cloyingly sweet words of wisdom. It is beyond worthless."
+  },
+  {
+    "ID": 39,
+    "textIT": "**Origini delle specie magiche**\nTitolo completo: _Sull'Origine delle Specie Magiche per Selezione Sovrannaturale, o per Preservazione delle Specie Favorevoli alle avversità della vita_, è considerato un testo fondamentale per capire come la magia abbia influenzato il mondo naturale. Benché molte delle teorie in esso espresse vengano accettate come verità dai centri del sapere, alcune religioni sostengono che esse siano lontane dalla verità, e che il libro stesso debba essere vietato.",
+    "textEN": "**The Origin of Magical Species**\nFull title: On the Origin of Magical Species by Means of Supernatural Selection, or the Preservation of Favoured Races in the Struggle for Life, is considered to be the foundation of understanding of how magic has shaped the evolution of the natural world. Although the theories presented inside are accepted as fact by nearly all universities and centers of learning, some religions regard it as heretical and have asked to have it banned."
+  },
+  {
+    "ID": 40,
+    "textIT": "**De Geographica Gelatinosa**\n101 Melme e Come Evitarle",
+    "textEN": "**The Geographica Gelatinousa**\n101 Oozes and How to Avoid Them"
+  },
+  {
+    "ID": 41,
+    "textIT": "**La Mia Vita come Essere Umano**\nOsservazioni di un drago sulla cultura umanoide.",
+    "textEN": "**My Life as a Human Being**\nA Dragon's Observation on Humanoid Culture"
+  },
+  {
+    "ID": 42,
+    "textIT": "**Il Manuale Olistico di Harold Haversham sulla Guarigione**\nAll'inizio sembra essere una guida per i meno esperti su come creare pozioni, man mano che le pagine proseguono invece, diventa più chiaro su come tutte le descrizioni siano un puro esercizio psicologico. Viene descritto un resoconto strutturato su come curare il braccio amputato di un uomo con sessioni di psicoterapia.",
+    "textEN": "**Harold Haversham**s Holisitic Handbook of Healing**\nAt first it appears to be a beginners guide to crafting potions, however as the book progresses the author becomes more and more adamant that all ailments are purely mental. There is a detailed account in which the author was treating a man for a broken arm and healed it through weekly mental therapy sessions."
+  },
+  {
+    "ID": 43,
+    "textIT": "**Rischia come un Vincitore**\nUna guida goblin su come giocare d'azzardo, dal noto autore Grigio _Manocorta_ Gradnok",
+    "textEN": "**Wager like a Winner**\nA Goblins Guide to Gambling by Grey __Greedy__ Gradnok"
+  },
+  {
+    "ID": 44,
+    "textIT": "**Il Mago delle Probabilità**\nScommettere con profitto, di B.M. Sawbuck",
+    "textEN": "**The Wizard of Odds**\nBetting for Profit by B.M. Sawbuck"
+  },
+  {
+    "ID": 45,
+    "textIT": "**E così, vuoi diventare un… (serie)**\nUna guida illustrata su come diventare mago, druido, ranger ecc.... Per bambini.",
+    "textEN": "**So You Want to be a …..series**\nIllustrated beginner guides to becoming a Wizard, Druid, Ranger etc for children."
+  },
+  {
+    "ID": 46,
+    "textIT": "**I Diari delle Pozioni**\nLe avventure di una ragazza _tossica_, di Madame S. Ruth",
+    "textEN": "**The Potion Diaries**\nOne Girl's Intoxicating Adventures by Madame S. Ruth"
+  },
+  {
+    "ID": 47,
+    "textIT": "**Eh?**\nL'arte dello scriba, di Thoth Gardiner",
+    "textEN": "**Lost in Translation**\nThe Art of the Scribe by Thoth Gardiner"
+  },
+  {
+    "ID": 48,
+    "textIT": "**Riempire un quadrato, ma anche un cerchio: La singolare mobilità delle melme**",
+    "textEN": "**Fitting a Square Peg Through a Round Hole: The curious mobility of oozes**"
+  },
+  {
+    "ID": 49,
+    "textIT": "**Metà umano, metà cavallo, tutto uomo**\nUn saggio sulla difesa dei rapporti e delle relazioni interspecie.",
+    "textEN": "**Half Human, Half Horse, All Man**\nA defense of carnal relationships with beast races"
+  },
+  {
+    "ID": 50,
+    "textIT": "**Storie Halfling**\nUn libro di racconti incompleti di leggende popolari halfling.",
+    "textEN": "**Halfling Histories**\nAn incomplete telling of the tales of the half-folk."
+  },
+  {
+    "ID": 51,
+    "textIT": "**La Cucina Orchesca: 101 modi di preparare un elfo**\nPer trasformare la tua battuta di caccia in una cena deliziosa.",
+    "textEN": "**The Orc**s Cookbook: 101 ways to prepare an elf**\nTo make the hunt taste delicious."
   }
 ]

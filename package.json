@@ -1,6 +1,6 @@
 {
   "name": "discord-bot-avonder",
-  "version": "0.1.0",
+  "version": "0.9.8",
   "description": "Avonder is a bot for Aumyr Discord Server",
   "main": "index.js",
   "dependencies": {
