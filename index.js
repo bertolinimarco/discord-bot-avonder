@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const commands = require("./lib/commands");
+const commands = require("./src/commands");
 
 // Ready
 client.once("ready", () => {

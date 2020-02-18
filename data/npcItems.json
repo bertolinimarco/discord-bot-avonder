@@ -250,11 +250,6 @@
     "textEN": "is wearing leather gloves"
   },
   {
-    "ID": 50,
-    "textIT": "indossa abiti di tela",
-    "textEN": "is wearing cloth vest"
-  },
-  {
     "ID": 51,
     "textIT": "indossa abiti di pelo animale",
     "textEN": "is wearing a fur vest"
@@ -528,5 +523,10 @@
     "ID": 105,
     "textIT": "porta con sé un libro di conoscenze proibite",
     "textEN": "is carrying a book of fobidden knowledge"
+  },
+  {
+    "ID": 106,
+    "textIT": "indossa abiti di tela",
+    "textEN": "is wearing cloth vest"
   }
 ]
