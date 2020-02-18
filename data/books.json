@@ -50,11 +50,6 @@
     "textEN": "**Landmarks to Visit Before You Die**\nDetails a number of landmarks and monuments in a country or city you have never heard of."
   },
   {
-    "ID": 10,
-    "textIT": "**Luoghi da visitare prima di morire**\nIllustra un numero imprecisato di luoghi e monumenti, di una regione che non hai mai sentito nominare.",
-    "textEN": "**Landmarks to Visit Before You Die**\nDetails a number of landmarks and monuments in a country or city you have never heard of."
-  },
-  {
     "ID": 11,
     "textIT": "**Guida per gli Esploratori di Aumyr**\nUn libro non del tutto preciso su come __girare per tutto il continente con meno di 30 monete di rame al giorno__. La prima pagina continene solo le parole __non credo si possa fare__, scritte velocemente.",
     "textEN": "**The Explorer's Guide to Aumyr**\nA book with not entirely inaccurate advice on **how to see the kingdom on less than 30 copper pieces a day**. The very first page contains only the words **can't be done** printed in large letters."
@@ -81,7 +76,7 @@
   },
   {
     "ID": 16,
-    "textIT": "**Quaggot: le piacevoli sorprese del sottosuolo**\nUn diario che narra il tempo speso da alcuni avventurieri vissuto a stretto contatto con alcuni Quaggoth del sottosuolo. L'autore ha documentato ogni giorno per circa un mese.",
+    "textIT": "**Quaggoth: le piacevoli sorprese del sottosuolo**\nUn diario che narra il tempo speso da alcuni avventurieri vissuto a stretto contatto con alcuni Quaggoth del sottosuolo. L'autore ha documentato ogni giorno per circa un mese.",
     "textEN": "**Quaggoths: the Pleasant Surprises of the Underdark**\nA journal accounting some time that a researcher spent living with a cloister of quaggoths. The author documented at least once every day for a month."
   },
   {
@@ -101,8 +96,8 @@
   },
   {
     "ID": 20,
-    "textIT": "**L'albero genealogico della Famiglia Bjernson e le Avventure**\nL'albero genealogico di una famiglia di Nordavind, di cui tutti i discendenti maschi con il nome _Bjern Bjernson_. Il libro aiuta a distinguerli tutti.",
-    "textEN": "**The Bjernson Family Tree And Exploits**\nThe family tree of a nordic clan with all the males named Bjern Bjernson. This book helps tell them apart."
+    "textIT": "**L'albero genealogico della Famiglia Bjernson**\nL'albero genealogico di una famiglia di Nordavind, di cui tutti i discendenti maschi con il nome _Bjern Bjernson_. Il libro aiuta a distinguerli tutti.",
+    "textEN": "**The Bjernson Family Tree**\nThe family tree of a nordic clan with all the males named Bjern Bjernson. This book helps tell them apart."
   },
   {
     "ID": 21,
@@ -191,8 +186,8 @@
   },
   {
     "ID": 38,
-    "textIT": "**Minestra di Cockatrice per l'anima**\nQuesto libro è così diffuso che è quasi un cliché trovarlo in ogni caso dove si trova una donna anziana. E' stato molto venduto per diversi anni nelle piccole botteghe: contiene storielle morali a volte troppo semplici perfino per un orco. Le _perle di saggezza_ che contiene, sono considerate _inutili_ da molti avventurieri.",
-    "textEN": "**Cockatrice Soup for the Soul **\nThis book is so commonplace, it's a cliche that in every house where a woman of a certain age lives, there will be at least one heavily-read copy of this book with it's sappy stories and cloyingly sweet words of wisdom. It is beyond worthless."
+    "textIT": "**La Minestra di Cockatrice*\nQuesto libro è così diffuso che è quasi un cliché trovarlo in ogni caso dove si trova una donna anziana. E' stato molto venduto per diversi anni nelle piccole botteghe: contiene storielle morali a volte troppo semplici perfino per un orco. Le _perle di saggezza_ che contiene, sono considerate _inutili_ da molti avventurieri.",
+    "textEN": "**The Cockatrice Soup**\nThis book is so commonplace, it's a cliche that in every house where a woman of a certain age lives, there will be at least one heavily-read copy of this book with it's sappy stories and cloyingly sweet words of wisdom. It is beyond worthless."
   },
   {
     "ID": 39,
@@ -262,7 +257,7 @@
   {
     "ID": 52,
     "textIT": "**Enciclopedia. Delle. Cose. Importanti. di Tommeltop lo Gnomo**\nUn'enciclopedia... singolare. Ogni pagina contiene descrizioni estremamente esagerate, declinate in paragrafi lunghi e romantici sulla forma delle orecchie. Qualsiasi anima coraggiosa che tenti di leggere questo libro ha la sensazione di immaginarsi nel dettaglio le orecchie delle varie creature descritte, con una incredibile ricchezza di dettaglio (è possibile forse trovare anche la descrizione delle orecchie di uno dei personaggi).",
-    "textEN": "**Every. Accomplished. Recognizable. Sentient. by Tommeltop the Gnome**\nAn encyclopedia of anyone who accomplished anything of moderate note ever, however most of each page is dedicated to greatly exaggerated, suitably cringy and oddly romantic paragraphs about how great each person**s ears must have been. Any brave soul who actually reads the book through is suddenly able to recall in perfect detail the ears of anyone they**ve ever seen before,for no apparent reason. (Perhaps there are drawings and details of the players and their ears as well)"
+    "textEN": "**Every. Accomplished. Recognizable. Sentient. by Tommeltop the Gnome**\nAn encyclopedia of anyone who accomplished anything of moderate note ever, however most of each page is dedicated to greatly exaggerated, suitably cringy and oddly romantic paragraphs about how great each person's ears must have been. Any brave soul who actually reads the book through is suddenly able to recall in perfect detail the ears of anyone they**ve ever seen before,for no apparent reason. (Perhaps there are drawings and details of the players and their ears as well)"
   },
   {
     "ID": 53,
@@ -297,12 +292,12 @@
   {
     "ID": 59,
     "textIT": "**La Donna e la Nobiltà**\nUn manuale su come la donna dovrebbe comportarsi quando si trova a contatto con l'alta società.",
-    "textEN": "**The Common Woman**s Guide to Royalty**\nA guide on how every lady should act in society."
+    "textEN": "**The Common Woman's Guide to Royalty**\nA guide on how every lady should act in society."
   },
   {
     "ID": 60,
     "textIT": "**Intrugli della Strega**\nUna serie di consigli su come essere la strega più potente fra le tue amiche.",
-    "textEN": "**The Witch**s Guide to Home brew Potions**\nA series of tips on how to be the most successful witch you can be"
+    "textEN": "**The Witch's Guide to Home brew Potions**\nA series of tips on how to be the most successful witch you can be"
   },
   {
     "ID": 61,
@@ -377,7 +372,7 @@
   {
     "ID": 75,
     "textIT": "**Gnomo significa Gnomo**\nUna guida introduttiva per capire le differenze tra le razze _basse_ del mondo.",
-    "textEN": "**Gnome means Gnome**\nA beginner**s guide to understanding the differences between the shorter races of the realm."
+    "textEN": "**Gnome means Gnome**\nA beginner's guide to understanding the differences between the shorter races of the realm."
   },
   {
     "ID": 76,
@@ -411,97 +406,72 @@
   },
   {
     "ID": 82,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Luoghi da visitare prima di morire**\nIllustra un numero imprecisato di luoghi e monumenti, di una regione che non hai mai sentito nominare.",
+    "textEN": "**Landmarks to Visit Before You Die**\nDetails a number of landmarks and monuments in a country or city you have never heard of."
   },
   {
     "ID": 83,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Il Libro dei Record**\nUn libro creato in un'intera vita da un avventuriero senza nome. Contiene dettagli sul Drago Più Grande del Mondo, Maggior tempo speso nella tana di un Beholder, il Goblin più grasso di Aumyr, e altri record.",
+    "textEN": "**Book of world records**\nA book crafted over a lifetime by an unknown adventurer. It contains accomplishments such as Worlds Largest Dragon, Longest time spent in a beholders lair, Fattest goblinoid, and Most monstrosities slain in a day"
   },
   {
     "ID": 84,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Come _catturare_ la tua principessa**\nUna collezione di consigli sugli appuntamenti amorosi e trucchi scritti da (e per) gli uomini. Usalo a tuo rischio e pericolo!",
+    "textEN": "**\nHow to capture your princess**\nA collection of dating tips, advices and tricks, written by, for, and to men. Use it at your own risk!"
   },
   {
     "ID": 85,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Backstage**\nAlcuni dettagli sui pericoli più frequenti e reali circa la vita dell'avventuriero, come cibo scarso, attrezzatura non appropriata, missioni andate male, malattie tropicali e scarsità di mezzi monetari adeguati per oggetti magici. Contiene consigli pratici su come evitare e prevenire alcuni tipi di situazioni sopra descritte (la seconda edizione possiede alcune note umoristiche dell'autore).",
+    "textEN": "**Backstage**\nDetailing the more mundane dangers of the adventuring life, like insufficient supplies, inappropriate gear, public reactions, illnesses and the common lack of money with tips and advices how to prevent them (the second edition have humorous footnotes from the author)."
   },
   {
     "ID": 86,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Tu e il Male**\nUn libro promozionale (?) sulle dimensioni infernali e i Regni Inferiori. Tutti i pro e i contro di lavorare per il reame infernale, con utili note sulle _zone grigie_ e la loro gestione. Possedere questo libro potrebbe causare qualche occhiataccia da parte del tuo sacertote di fiducia.",
+    "textEN": "**You and Evil**\nA promotional(?) book from the Nine Hells. Details most of the pros and cons to working for the infernal realm, with useful notes on the _gray zones_ and how to manage them. May cause surveillance by the temples of good."
   },
   {
     "ID": 87,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**La Cura Personale dell'Avventuriero**\nFornisce consigli agli avventurieri su come mantenere un look pulito anche dopo settimane di viaggio nelle regioni selvagge.",
+    "textEN": "**Personal Care for Adventurers**\nTells adventurers how to maintain a clean, healthy look after weeks in the wilderness."
   },
   {
     "ID": 88,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Il Libro delle Bacche**\nUna guida informativa sulle bacche commestibili trovate nelle terre selvagge.",
+    "textEN": "**Berries and You**\nInforms the reader on edible and inedible berries found in the wild."
   },
   {
     "ID": 89,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**L'Architettura dei Castelli**\nUn testo tecnico sui castelli e su come vengono costruiti, a partire dalle fondamenta.",
+    "textEN": "**Castle Architecture**\nA book about how castles and the like are constructed."
   },
   {
     "ID": 90,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Leggende Bardiche da Terre Lontane**\nUn famoso libro citato spesso da bardi e cantastorie: una raccolta di miti famosi e meno famosi.",
+    "textEN": "**Bardic Legends From Far Away Lands**\nA book about legends often sung or performed by bards."
   },
   {
     "ID": 91,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Come sprecare dell'ottima pergamena**\nLe pagine al suo interno sono splendidamente disegnate con forme floreali multicolore. A parte questo, il libro non ha contenuti testuali. (Se viene lanciato Individuazione del Magico sopra di esso, l'inchiostro invisibile rivela alcune rune e marchi, in grado di far apprendere ad una creatura l'incantesimo Individuazione del Magico).",
+    "textEN": "**How To Waste Good Paper**\nThe pages inside this book are beautifully designed with colorful trim and a flowery layout. Other than the title, however, this book has no content in its pages. (Detect Magic: It is a spellbook written with magical invisible ink (or runes, etchings, message, mark, whatever) detailing only one spell to learn: Detect Magic)"
   },
   {
     "ID": 92,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Vite di Tutti i Giorni**\nUna raccolta dei contenuti di alcuni diari ottenuti da gente comune.",
+    "textEN": "**Everyday Lives**\nA compilation of the contents of journals which were obtained from ordinary people."
   },
   {
     "ID": 93,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Tic-Toc-Clank**\nUna guida dettagliata per creare orologi, golem, oggetti animati, costrutti e trappole molto facilmente. Vietata in molte regioni per via del suo fin troppo facile utilizzo da parte di malintenzionati, l'autore possiede una taglia sopra la propria testa, anche se nessuno sa dove si trovi.",
+    "textEN": "**Tic-Tic-Twang**\nA detailed guide for creating clockworks, golems, animated items, and traps, rather easily. Restricted in most kingdoms, as its too valuble to outright ban and destroy its knowledge, despite the widespread collaterral damage after its first releases. The bounty for the authors is still valid."
   },
   {
     "ID": 94,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**C'è del Magico In Casa**\nIl lascito di un arcimago che soffrì di una forma ossessiva di germofobia. Spiega come combinare diverse scuole di magia per aiutarsi con i doveri quotidiani casalinghi. Gli apprendisti di tutto il mondo adorano questo libro per via del fatto che permette loro di svolgere le mansioni dal proprio tutore nella metà del tempo.",
+    "textEN": "**Magic in the House**\nThe legacy of an archmage suffering from an obsession about cleanliness. Explains how to use the different schools of magic to help with the chores around your home. Apprentices around the world curse whoever thought its good for thier training that they need to do those chores manually."
   },
   {
     "ID": 95,
-    "textIT": "foo",
-    "textEN": "bar"
-  },
-  {
-    "ID": 96,
-    "textIT": "foo",
-    "textEN": "bar"
-  },
-  {
-    "ID": 97,
-    "textIT": "foo",
-    "textEN": "bar"
-  },
-  {
-    "ID": 98,
-    "textIT": "foo",
-    "textEN": "bar"
-  },
-  {
-    "ID": 99,
-    "textIT": "foo",
-    "textEN": "bar"
-  },
-  {
-    "ID": 100,
-    "textIT": "foo",
-    "textEN": "bar"
+    "textIT": "**Draghi e Sotterranei**\nUn gioco di ruolo che ha venduto migliaia di copie, proveniente da una dimensione parallela.",
+    "textEN": "**Fiends and Fortresses**\nA roleplaying game from another dimension."
   }
 ]

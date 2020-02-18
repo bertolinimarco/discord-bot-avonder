@@ -53,7 +53,7 @@ const getStats = () => {
   const countNPCItems = npcItemTable.length;
   const countBooks = booksTable.length;
   const countRiddles = riddlesTable.length;
-  return `**Avventure**: ${countAdventures}\n**PNG: Personalità**: ${countNPCTraits}\n**PNG: Fisiche**: ${countNPCPhysical}\n**PNG: Oggetti**: ${countNPCItems}\n**Libri**: ${countBooks}\n**Enigmi**: ${countRiddles}\n`;
+  return `**Avventure**: ${countAdventures}\n**PNG: Personalità**: ${countNPCTraits}\n**PNG: Aspetto**: ${countNPCPhysical}\n**PNG: Oggetti**: ${countNPCItems}\n**Libri**: ${countBooks}\n**Enigmi**: ${countRiddles}\n`;
 };
 
 // Topics list for help command
