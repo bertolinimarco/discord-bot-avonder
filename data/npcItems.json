@@ -96,7 +96,437 @@
   },
   {
     "ID": 20,
-    "textIT": "indossa un simbolo sacro",
-    "textEN": "is wearing a holy symbol"
+    "textIT": "indossa un anello con sigillo",
+    "textEN": "is wearing a signet ring"
+  },
+  {
+    "ID": 21,
+    "textIT": "ha con sé un libro",
+    "textEN": "is carrying a book"
+  },
+  {
+    "ID": 22,
+    "textIT": "trasporta l'atto di proprietà di una tenuta in campagna",
+    "textEN": "is carrying a deed to a piece of property"
+  },
+  {
+    "ID": 23,
+    "textIT": "indossa abiti consunti, rotti e sporchi di sangue",
+    "textEN": "is wearing ripped, bloody clothes"
+  },
+  {
+    "ID": 24,
+    "textIT": "indossa un abito raggrinzito, molto sporco",
+    "textEN": "is wearing wrinkled attire, worn and dirty"
+  },
+  {
+    "ID": 25,
+    "textIT": "indossa una vecchia uniforme",
+    "textEN": "is wearing an old uniform"
+  },
+  {
+    "ID": 26,
+    "textIT": "é avvolto da un pesante e caldo cappotto",
+    "textEN": "is wearing a warm and sturdy overcoat"
+  },
+  {
+    "ID": 27,
+    "textIT": "porta con sé una mappa",
+    "textEN": "is carrying a map"
+  },
+  {
+    "ID": 28,
+    "textIT": "porta con sé la mappa di un tesoro nascosto",
+    "textEN": "is carrying a treasure map"
+  },
+  {
+    "ID": 29,
+    "textIT": "ha una sacca piena d'oro attaccata alla cintura",
+    "textEN": "has a bag of gold tied to their belt"
+  },
+  {
+    "ID": 30,
+    "textIT": "indossa un anello di opale",
+    "textEN": "is wearing an opal ring"
+  },
+  {
+    "ID": 31,
+    "textIT": "trasporta una fiaschetta con dell'acqua",
+    "textEN": "is carrying a jug of water"
+  },
+  {
+    "ID": 32,
+    "textIT": "porta con sé uno scudo rotto",
+    "textEN": "is carrying a broken shield"
+  },
+  {
+    "ID": 33,
+    "textIT": "trasporta una canna da pesca e alcune esche",
+    "textEN": "is carrying a fishing pole and bait"
+  },
+  {
+    "ID": 34,
+    "textIT": "trasporta una sacca con del pesce ancora vivo, appena pescato",
+    "textEN": "is carrying a bag of freshly caught fight"
+  },
+  {
+    "ID": 35,
+    "textIT": "trasporta una sacca con alcune verdure fresche",
+    "textEN": "is carrying a box of fresh produce"
+  },
+  {
+    "ID": 36,
+    "textIT": "trasporta una pila di libri",
+    "textEN": "is carrying a stack of books"
+  },
+  {
+    "ID": 37,
+    "textIT": "porta con sé una lettera d'amore che sta ancora scrivendo",
+    "textEN": "is carrying a half-written love letter"
+  },
+  {
+    "ID": 38,
+    "textIT": "trasporta una vecchia corazza ad anelli arrugginita",
+    "textEN": "is carrying a rusted and worn mail shirt"
+  },
+  {
+    "ID": 39,
+    "textIT": "ha una balestra",
+    "textEN": "is carrying a crossbow"
+  },
+  {
+    "ID": 40,
+    "textIT": "ha un arco lungo",
+    "textEN": "is carrying a longbow"
+  },
+  {
+    "ID": 41,
+    "textIT": "ha una mazza di ferro",
+    "textEN": "is carrying an iron mace"
+  },
+  {
+    "ID": 42,
+    "textIT": "ha un bastone da passeggio",
+    "textEN": "is carrying a walking stick"
+  },
+  {
+    "ID": 43,
+    "textIT": "trasporta una scatola con alcuni medicamenti",
+    "textEN": "is carrying a medicine bag"
+  },
+  {
+    "ID": 44,
+    "textIT": "porta con sé un vecchio maglio da fabbro",
+    "textEN": "is carrying a broken blacksmiths hammer"
+  },
+  {
+    "ID": 45,
+    "textIT": "trasporta alcuni lingotti di ferro",
+    "textEN": "is carrying iron ingots"
+  },
+  {
+    "ID": 46,
+    "textIT": "indossa un grembiule nuovo",
+    "textEN": "is wearing a fresh apron"
+  },
+  {
+    "ID": 47,
+    "textIT": "indossa un grembiule sporco e consumato",
+    "textEN": "is wearing a worn, brown apron"
+  },
+  {
+    "ID": 48,
+    "textIT": "indossa un cappotto d'ermellino",
+    "textEN": "is wearing a fur cloak"
+  },
+  {
+    "ID": 49,
+    "textIT": "porta un cappello di tela",
+    "textEN": "is wearing a cloth hat"
+  },
+  {
+    "ID": 50,
+    "textIT": "indossa un paio di guanti di cuoio",
+    "textEN": "is wearing leather gloves"
+  },
+  {
+    "ID": 50,
+    "textIT": "indossa abiti di tela",
+    "textEN": "is wearing cloth vest"
+  },
+  {
+    "ID": 51,
+    "textIT": "indossa abiti di pelo animale",
+    "textEN": "is wearing a fur vest"
+  },
+  {
+    "ID": 52,
+    "textIT": "trasporta un calice d'argento",
+    "textEN": "is carrying a silver cup"
+  },
+  {
+    "ID": 53,
+    "textIT": "trasporta una sacca piena di erbe alchemiche",
+    "textEN": "is carrying a pouch of herbs"
+  },
+  {
+    "ID": 54,
+    "textIT": "trasporta una sacca piena di aglio",
+    "textEN": "is carrying cloves of garlic"
+  },
+  {
+    "ID": 55,
+    "textIT": "trasporta una pelle di lupo mannaro",
+    "textEN": "is carrying a sprig of Wolvesbane"
+  },
+  {
+    "ID": 56,
+    "textIT": "trasporta un sacco a pelo usato",
+    "textEN": "is carrying a used bedroll"
+  },
+  {
+    "ID": 57,
+    "textIT": "possiede uno zaino grande di cuoio",
+    "textEN": "is carrying a large leather backpack"
+  },
+  {
+    "ID": 58,
+    "textIT": "porta con sé una piccola gabbia per uccelli, vuota",
+    "textEN": "is carrying an empty bird cage"
+  },
+  {
+    "ID": 59,
+    "textIT": "trasporta un secchio di latte",
+    "textEN": "is carrying a bucket of milk"
+  },
+  {
+    "ID": 60,
+    "textIT": "trasporta una scatola di osso, che contiene alcuni incantesimi su pergamena",
+    "textEN": "is carrying a bone case, containing a spell scroll"
+  },
+  {
+    "ID": 61,
+    "textIT": "trasporta un sacco di carbone",
+    "textEN": "is carrying a bag of charcoal"
+  },
+  {
+    "ID": 62,
+    "textIT": "porta con sé alcune bottiglie di profumo",
+    "textEN": "is carrying a few bottles of perfume/cologne"
+  },
+  {
+    "ID": 63,
+    "textIT": "porta con sé un piede di porco",
+    "textEN": "is carrying a crowbar"
+  },
+  {
+    "ID": 64,
+    "textIT": "trasporta un sacchetto con alcuni dadi",
+    "textEN": "is carrying a bag of dice"
+  },
+  {
+    "ID": 65,
+    "textIT": "trasporta un mazzo di carte da gioco",
+    "textEN": "is carrying a deck of playing cards"
+  },
+  {
+    "ID": 66,
+    "textIT": "possiede un piccolo trapano di ferro",
+    "textEN": "is carrying a small iron drill"
+  },
+  {
+    "ID": 67,
+    "textIT": "trasporta un calice di birra",
+    "textEN": "is carrying a jug of ale"
+  },
+  {
+    "ID": 68,
+    "textIT": "porta con sé una bottiglia vuota di birra",
+    "textEN": "is carrying an empty bottle of ale"
+  },
+  {
+    "ID": 69,
+    "textIT": "trasporta una lanterna ad olio",
+    "textEN": "is carrying an oil lantern"
+  },
+  {
+    "ID": 70,
+    "textIT": "possiede una mappa di tutto il mondo conosciuto",
+    "textEN": "is carrying a map of the known world"
+  },
+  {
+    "ID": 71,
+    "textIT": "porta con sé un remo rotto",
+    "textEN": "is carrying a broken oar"
+  },
+  {
+    "ID": 72,
+    "textIT": "trasporta una pala",
+    "textEN": "is carrying a shovel"
+  },
+  {
+    "ID": 73,
+    "textIT": "trasporta un piccone",
+    "textEN": "is carrying a pick-axe"
+  },
+  {
+    "ID": 74,
+    "textIT": "porta con sé una scimitarra affilata",
+    "textEN": "is carrying a sharp scimitar"
+  },
+  {
+    "ID": 75,
+    "textIT": "possiede alcuni attrezzi da scasso",
+    "textEN": "is carrying thieves tools"
+  },
+  {
+    "ID": 76,
+    "textIT": "trasporta una fiala di cristallo",
+    "textEN": "is carrying a crystal vial"
+  },
+  {
+    "ID": 77,
+    "textIT": "porta con sé un piccolo tamburo da guerra",
+    "textEN": "is carrying a small war drum"
+  },
+  {
+    "ID": 78,
+    "textIT": "porta con sé un piccolo flauto",
+    "textEN": "is carrying a fife"
+  },
+  {
+    "ID": 79,
+    "textIT": "porta con sé un flauto traverso",
+    "textEN": "is carrying a flute"
+  },
+  {
+    "ID": 80,
+    "textIT": "porta con sé un liuto",
+    "textEN": "is carrying a lute"
+  },
+  {
+    "ID": 81,
+    "textIT": "porta con sé un corno",
+    "textEN": "is carrying a horn"
+  },
+  {
+    "ID": 82,
+    "textIT": "porta con sé un mandolino",
+    "textEN": "is carrying a mandolin"
+  },
+  {
+    "ID": 83,
+    "textIT": "porta con sé una pinta di sidro",
+    "textEN": "is carrying a pint of cider"
+  },
+  {
+    "ID": 84,
+    "textIT": "trasporta una pinta di grog",
+    "textEN": "is carrying a pint of grog"
+  },
+  {
+    "ID": 85,
+    "textIT": "indossa alcune bende piene di preghiere",
+    "textEN": "is wearing many prayer beads"
+  },
+  {
+    "ID": 86,
+    "textIT": "trasporta una fiala di acqua santa",
+    "textEN": "is carrying a vial of holy water"
+  },
+  {
+    "ID": 87,
+    "textIT": "trasporta un bastone nodoso",
+    "textEN": "carrying a warped quarterstaff"
+  },
+  {
+    "ID": 88,
+    "textIT": "possiede un paio di manette rotte",
+    "textEN": "is carrying a pair of broken manacles"
+  },
+  {
+    "ID": 89,
+    "textIT": "indossa abiti di pura seta",
+    "textEN": "is wearing a silk robe"
+  },
+  {
+    "ID": 90,
+    "textIT": "porta con sé una misteriosa chiave di mithril",
+    "textEN": "is carrying a mithril key"
+  },
+  {
+    "ID": 91,
+    "textIT": "trasporta una fiala piena di polvere d'oro",
+    "textEN": "is carrying a vial of gold dust"
+  },
+  {
+    "ID": 92,
+    "textIT": "trasporta una sacca con alcuni denti",
+    "textEN": "is carrying a bag of teeth"
+  },
+  {
+    "ID": 93,
+    "textIT": "trasporta una piccola scatola piena di polvere vulcanica",
+    "textEN": "is carrying a small box of volcanic ash"
+  },
+  {
+    "ID": 94,
+    "textIT": "trasporta un set di penne e pennini calligrafici",
+    "textEN": "is carrying a calligraphy set"
+  },
+  {
+    "ID": 95,
+    "textIT": "indossa un paio di stivali di pelle",
+    "textEN": "is wearing a pair of beaverskin boots"
+  },
+  {
+    "ID": 96,
+    "textIT": "trasporta un barattolo con alcuni semi essiccati",
+    "textEN": "is carrying a jar of dried seeds"
+  },
+  {
+    "ID": 97,
+    "textIT": "porta con sé un piccolo ritratto di un elfo",
+    "textEN": "is carrying a portrait of an elf"
+  },
+  {
+    "ID": 98,
+    "textIT": "trasporta una sacca con alcune conchiglie",
+    "textEN": "is carrying a small bag of seashells"
+  },
+  {
+    "ID": 99,
+    "textIT": "porta con sé uno specchio",
+    "textEN": "is carrying a mirror"
+  },
+  {
+    "ID": 100,
+    "textIT": "porta con sé una chiave _neutra_, probabilmente ancora da incidere",
+    "textEN": "is carrying a skeleton key"
+  },
+  {
+    "ID": 101,
+    "textIT": "trasporta una fiala piena di olio piccante",
+    "textEN": "is carrying a vial of peppermint oil"
+  },
+  {
+    "ID": 102,
+    "textIT": "porta con sé una sacca con alcuni sassi luccicanti",
+    "textEN": "is carrying a bag of shiny rocks"
+  },
+  {
+    "ID": 103,
+    "textIT": "possiede una pipa",
+    "textEN": "is carrying a smokepipe"
+  },
+  {
+    "ID": 104,
+    "textIT": "possiede uno strano idolo che sembra sogghignare",
+    "textEN": "is carrying a strange, grinning idol"
+  },
+  {
+    "ID": 105,
+    "textIT": "porta con sé un libro di conoscenze proibite",
+    "textEN": "is carrying a book of fobidden knowledge"
   }
 ]
