@@ -9,6 +9,12 @@ client.once("ready", () => {
   // console.log(
   //   `Aggiungi con: https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8192`
   // );
+  // client.user.setPresence({
+  //   game: {
+  //     name: "aiuto/help",
+  //     type: "LISTENING"
+  //   }
+  // });
   // client.user.setActivity(`Aumyr e ${client.guilds.size} altri reami`);
   // Promise.all(
   //   [...client.guilds.values()].map(guild => {
@@ -21,6 +27,16 @@ client.once("ready", () => {
   // );
   // client.user.setActivity(`Serving ${client.guilds.size} servers`);
 });
+
+// var swearWords = ["cazzo", "fanculo"];
+// if (swearWords.some(word => message.content.includes(word))) {
+//   message.reply("Ehi ehi...");
+//   // Or just do message.delete();
+// }
+// // React when mentioned
+// else if (message.content.includes("Avonder")) {
+//   message.reply("Chiamato? Puoi invocarmi scrivendo `Avonder aiuto`");
+// }
 
 // Messages
 client.on("message", async message => {
@@ -40,6 +56,7 @@ client.on("message", async message => {
   ) {
     message.react("👋");
   }
+
   // Purge latest 20 messages
   else if (response.params === "clean20") {
     message.channel.bulkDelete(20).catch(error => console.error(`${error}`));

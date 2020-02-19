@@ -1,459 +1,332 @@
-                'believes fairies are always around, watching',
-                'is fascinated with religion',
-                'is interested in the history of Vampires',
-                'has a deathly fear of Kobolds',
-                'is annoyed by nobility',
-                'is interested in odd trinkets',
-                'has a stamp collection',
-                'has a fasination with dragonflies',
-                'is afraid of any type of fish',
-                'has a pet bird',
-                'has a pet dog',
-                'has a pet cat',
-                'is interested in traveling far away one day',
-                'is deathly afraid of snakes',
-                'is terrified of the ocean',
-                'is fascinated with the ocean',
-                'has an obsession with old clothing',
-                'loves a good joke',
-                'loves playing music',
-                'is a fantastic musician',
-                'is a terrible musician',
-                'is prone to nail biting',
-                'fidgets all the time',
-                'is always chewing on something',
-                'hums all the time',
-                'is quick to forgive',
-                'is quick to forget names',
-                'idolizes a hero of their faith',
-                'can find common ground between the fiercest foe',
-                'sees omens in every event or action',
-                'nothing can shake their optimistic attitude',
-                'quotes sacred texts and proverbs in almost every situation',
-                'very tolerent of other religions and faiths',
-                'very intolerent of other religions and faiths',
-                'enjoys fine wine a little too much',
-                'enjoys being among high society',
-                'has spent so long in the temple that dealing with people in the outside world is frightening',
-                'falls in and out of love easily',
-                'has a joke for every occasion',
-                'is a born gambler',
-                'lies about almost everything',
-                'is very secretive',
-                'is very open about all aspects of life',
-                'deals out sarcasm constantly',
-                'keeps multiple holy relics',
-                'pockets anything that might have some value to it',
-                'is incredibly slow to trust',
-                'blows up at the slightest insult',
-                'does not pay attention to anything',
-                'has a story for almost every situation',
-                'loves to gossip about the town',
-                'is a hopeless romantic',
-                'settles for nothing less than perfection',
-'is a snob about most things',
-'hates gnomes with a passion',
-'hates kobolds with a passion',
-'is very rude to poor people',
-'is very rude to rich people',
-'is very kind to poor people',
-'is a suckup to anyone who looks strong',
-'is always bored with the situation at hand',
-'is always drunk',
-'is a bookworm',
-'is incredibly bossy to people shorter than them',
-'is very calculating in any situation',
-'is very creepy',
-'is a compulsive liar',
-'collects small animals',
-'is fanatically loyal',
-'is a fast-talker',
-'is illiterate',
-'is incredibly persistent',
-'is very into crystals/gems',
-'is a jack-of-all-trades',
-'is incredibly clumbsy',
-'is a mad genius',
-'is a maniac',
-'is incredibly paranoid all the time',
-'is very well-traveled',
-'is a fantastic musician',
-'is incredibly artistic',
-'is very heartless',
-'is heartbroken',
-'is very hard-working',
-'is incredibly clever in most situations',
-'is an amazing singer',
-'is deathly afraid of orcs',
-'is deathly afraid of the ocean',
-'is deathly afraid of the forest',
-'is deathly afraid of ghosts',
-'is very careless',
-'is very diplomatic',
-'is very cheerful',
-'is very brave and full of courage',
-'is always irritable',
-'is very greedy',
-'is incredibly generous',
-'is very barbaric',
-'is very friendly and kind-hearted',
-'is very quiet',
-'loves collecting old artifacts',
-'loves to fish',
-'loves to collect herbs',
-'loves to travel',
-'wears too much jewelry',
-'is always carrying a book, or multiple',
-'has an unhealthy obsession with food',
-'paces back and forth when thinking',
-'is a complete germophobe',
-'mumbles things constantly',
-'gets annoyed easily',
-'wears thick homemade glasses',
-'has a fear of insects',
-'is a terrible liar',
-'always knows which direction they are facing',
-'recites old bard poems whenever the chance arises',
-'has a photographic memory',
-'is afraid of fire',
-'cant swim',
-'is paranoid about every single thing',
-'has an unhealthy obsession with symmetry',
-'is haunted by a ghost',
-'was once abandoned by someone close',
-'is able to invent anything with limited supplies',
-'is extremely religious',
-'is unforgivably selfish',
-'absolutely HATES gnomes',
-'collects interesting rocks/gems',
-'was abused badly as a child',
-'was orphaned at a young age, due to a bandit attack, and lived with distant relatives',
-'was very sickly and weak as a child',
-'mocked and teased constantly as a child',
-'was forced to move around alot as a child because father was in the military',
-'resents parents and upbringing to this day',
-'always felt very out of place as a child',
-'was mistreated by stepmother/father',
-'was regarded as weird by everyone as a child',
-'resented school and ran away',
-'was always known as a dreamer',
-'was quite bright growing up and given an amazing education',
-'is very cold and deliberate',
-'is known for good manners and politeness',
-'is known to run away from problems',
-'is incredibly proficient in art',
-'is known to be very rude and disobedient to family',
-'was very religious from a young age',
-'spent summers visiting relatives on the countryside',
-'spend winters in a city with friends of parents',
-'intermittently worked for a distant relative',
-'was always sent to a nearby village during the harvest growing up',
-'is always trying to impress everyone',
-'often found a reason to travel',
-'ran away alot as a child',
-'was always considered somewhat slow',
-'always felt strange reaching out to people',
-'was recently driven from ancestral home',
-'always moved around throughout the province',
-'moved to this location 10 years ago',
-'lived in this communty for 4 generations',
-'has never had a steady home',
-'lived a very comfortable life so far',
-'feels very comfortable in the communty',
-'is very proud of local bard',
-'feels like something strange happened in upbringing, but cant remember why',
-'gets a special feeling visiting the homeland',
-'once spent a few years in the forest for work',
-'once spent a few years in the desert trying to find a family member who fled there',
-'once spent a few months hiding out in the forest trying to escape a stalker',
-'is currently in town working on paying a debt',
-'is trying to afford to travel to a large city to seek scholarly advice',
-'once spent a few years in a mental institution',
-'once spent a few years in prison',
-'once spent a few years in slavery',
-'nurtures a lifelong dream to live in another country',
-'nurtures a lifelong dream to marry someone untouchable due to class',
-'nurtures a lifelong dream to move to another city',
-'nurtures a lifelong dream to live on the sea',
-'nurtures a lifelong dream to live in the mountains',
-'nurtures a lifelong dream to pick up a different profession',
-'nurtures a lifelong dream to buy back the family farm',
-'nurtures a lifelong dream to buy back a family heirloom',
-'nurtures a lifelong dream to visit friends/relatives far away',
-'nurtures a lifelong dream to visit a settlement of elves',
-'nurtures a lifelong dream to visit a settlement of dwarves',
-'nurtures a lifelong dream to visit a settlement of halflings',
-'nurtures a lifelong dream to visit a settlement of kobolds',
-'nurtures a lifelong dream to say sorry to someone hurt by them',
-'has fond memories of a nearby lake',
-'has fond memories of a nearby river',
-'has fond memories of a nearby town',
-'has fond memories of a nearby village',
-'has fond memories of a nearby forest',
-'has fond memories of a nearby farm',
-'has fond memories of a nearby ruin',
-'has fond memories of a nearby field',
-'has fond memories of a nearby temple',
-'has fond memories of a nearby shrine',
-'has bad memories of a nearby lake',
-'has bad memories of a nearby river',
-'has bad memories of a nearby town',
-'has bad memories of a nearby village',
-'has bad memories of a nearby forest',
-'has bad memories of a nearby farm',
-'has bad memories of a nearby ruin',
-'has bad memories of a nearby field',
-'has bad memories of a nearby temple',
-'has bad memories of a nearby shrine',
-'was born by a nearby lake',
-'was born by a nearby river',
-'was born by in nearby town',
-'was born by in a nearby village',
-'was born by in a nearby forest',
-'was born by in a nearby farm',
-'was born by in a nearby ruin',
-'was born by in a nearby field',
-'was born by in a nearby temple',
-'knows a nearby lake to be haunted',
-'knows a nearby river to be haunted',
-'knows a nearby town to be haunted',
-'knows a nearby village to be haunted',
-'knows a nearby forest to be haunted',
-'knows a nearby farm to be haunted',
-'knows a nearby ruin to be haunted',
-'knows a nearby field to be haunted',
-'knows a nearby temple to be haunted',
-'knows a nearby shrine to be haunted',
-'had a mother who was killed and eaten by a dragon',
-'had a father who was killed and eaten by dragon',
-'had a sister who was killed and eaten by dragon',
-'had a brother who was killed and eaten by dragon',
-'had an aunt who was killed and eaten by dragon',
-'had an uncle who was killed and eaten by dragon',
-'had a niece who was killed and eaten by dragon',
-'had a nephew who was killed and eaten by dragon',
-'had a mother who was hunted through the forest by goblins',
-'had a father who was hunted through the forest by goblins',
-'had a sister who was hunted through the forest by goblins',
-'had a brother who was hunted through the forest by goblins',
-'had an aunt who was hunted through the forest by goblins',
-'had an uncle who was hunted through the forest by goblins',
-'had a niece who was hunted through the forest by goblins',
-'had a nephew who was hunted through the forest by goblins',
-'had a mother who was robbed and killed by outlaws',
-'had a father who was robbed and killed by outlaws',
-'had a sister who was robbed and killed by outlaws',
-'had a brother who was robbed and killed by outlaws',
-'had an aunt who was robbed and killed by outlaws',
-'had an uncle who was robbed and killed by outlaws',
-'had a niece who was robbed and killed by outlaws',
-'had a nephew who was robbed and killed by outlaws',
-'had a mother who was rumored to have had dealings with smugglers',
-'had a father who was rumored to have had dealings with smugglers',
-'had a sister who was rumored to have had dealings with smugglers',
-'had a brother who was rumored to have had dealings with smugglers',
-'had an aunt who was rumored to have had dealings with smugglers',
-'had an uncle who was rumored to have had dealings with smugglers',
-'had a niece who was rumored to have had dealings with smugglers',
-'had a nephew who was rumored to have had dealings with smugglers',
-'has a mother who is an important figure in a nearby town',
-'has a father who is an important figure in a nearby town',
-'has a sister who is an important figure in a nearby town',
-'has a brother who is an important figure in a nearby town',
-'has an aunt who is an important figure in a nearby town',
-'has an uncle who is an important figure in a nearby town',
-'has a niece who is an important figure in a nearby town',
-'has a nephew who is an important figure in a nearby town',
-'had a mother who moved after accusations of witchcraft',
-'had a father who moved after accusations of witchcraft',
-'had a sister who moved after accusations of witchcraft',
-'had a brother who moved after accusations of witchcraft',
-'had an aunt who moved after accusations of witchcraft',
-'had an uncle who moved after accusations of witchcraft',
-'had a niece who moved after accusations of witchcraft',
-'had a nephew who moved after accusations of witchcraft',
-'has a mother who is wasting away from a disease',
-'has a father who is wasting away from a disease',
-'has a sister who is wasting away from a disease',
-'has a brother who is wasting away from a disease',
-'has an aunt who is wasting away from a disease',
-'has an uncle who is wasting away from a disease',
-'has a niece who is wasting away from a disease',
-'has a nephew who is wasting away from a disease',
-'owes alot of money to the mob',
-'owes alot of money to a local thieves guild',
-'owes alot of money to local drug dealers',
-'is ashamed of family ancestry',
-'feels insignificant compared to ancestors',
-'is something of a genealogist',
-'is unduly boastful about family blood-line',
-'mourns the greater days of the family lineage',
-'thinks the family deserves a better reputation',
-'dreams of being knighted',
-'has illicitly adopted some sort of title or heraldry',
-'has been falsely accused of witchcraft',
-'is currently on the run from the law',
-'is currently on the run from a local thieves guild',
-'is currently on the run from a vampire',
-'is secretly a demon',
-'is secretly a vampire',
-'is never truthful about anything',
-'is the black sheep of the family',
-'needs help supporting the family',
-'needs medicine/cure for a parent',
-'needs medicine/cure for a child',
-'needs information/help finding a missing sibling',
-'needs help retrieving a stolen heirloom',
-'needs help defending the family homeland from an invader',
-'needs to find a missing parent before its too late',
-'needs 50g to help pay a debt',
-'is trying to take someone to a local temple',
-'is trying to find a date for a wedding coming up',
-'needs help forging a document',
-'needs help forging a deed',
-'needs to clear the family name',
-'believes that your birth shouldnt define your life',
-'believes that nobility exists to help and protect',
-'has incredibly wealthy parents',
-'has incredily poor parents',
-'believes that lower classes should keep in their place',
-'believes that peasantry is the backbone of society',
-'believes that guilds and societies need to be checked',
-'believes that religious cults and orders are too influential',
-'believes the government needs a revolution',
-'believes that the King/Queen/Mayor should look to the needs of the little people',
-'believes that the King/Queen/Mayor has lost too much power to the Electors',
-'believes that the King/Queen/Mayor is a demigod who should be worshipped',
-'believes that the King/Queen/Mayor doesnt care about normal folks',
-'believes that the King/Queen/Mayor must unite with others against external threats',
-'believes that the King/Queen/Mayor should be assassinated',
-'believes that the King/Queen/Mayor is the target of a vast conspiracy',
-'believes that the King/Queen/Mayor should take steps to ensure his successors',
-'greatly distrusts physicians',
-'greatly distrusts merchants',
-'greatly distrusts politicians',
-'greatly distrusts lawyers and bureaucrats',
-'greatly distrusts priests of all kinds',
-'greatly distrusts scholars, students, and scribes',
-'greatly distrusts watchmen and roadwardens',
-'greatly distrusts peasants',
-'greatly distrusts wealthy people',
-'once was saved by a wizard',
-'believes that all heretics and cultists should be burned at the stake',
-'believes that only priests should use magic',
-'believes that the Colleges of Magic only attract hordes of enemies',
-'wants to join the military',
-'believes that all wizards fear garlic and silver',
-'believes that you should never look directly at a wizard',
-'suffers from a bad skin disease',
-'has bad fits of violent coughing',
-'is covered in lice/fleas',
-'has a horrible limp',
-'suffers from the mother of all hangovers',
-'has a bad wound that needs attention',
-'eagerly longs for the first day of summer',
-'eagerly longs for winter',
-'has been having terrible dreams about the end of the world',
-'has been having bad dreams about an upsetting childhood memory',
-'has been having bad dreams about a face they cant place',
-'has been having restless sleep recently',
-'has been haunted by a reoccuring dream',
-'is being haunted by a ghost',
-'is mourning the loss of someone',
-'is particularly happy today',
-'feels harmonic and spiritually refreshed',
-'swore to never drink alcohol again',
-'swore to keep mouth shut and ears open',
-'swore to get even on a local criminal organization',
-'swore to get even with a watchman who wronged them',
-'swore to get back in shape',
-'swore to let the family know they are okay',
-'swore to make the best out of any situation',
-'was once employed by a local noble',
-'was once employed by a local inn-keeper',
-'was once employed by the military',
-'was once employed by a religious order',
-'was once part of the local law enforcement',
-'was once a smuggler',
-'was once a bandit',
-'holds a grudge against one of the Players family members',
-'is always honor bound',
-'is exceedingly greedy',
-'will protect the bloodline at all costs',
-'will satisfy a burning bloodlust no matter the cost',
-'wants to bring anarchy to the world',
-'is a gambler in all aspects of life',
-'is a stalwart patriot',
-'is a hopeless romantic',
-'is a hopeless dreamer',
-'lives to have revenge',
-'has a soft spot for furry little animals',
-'has a soft spot for small children',
-'has a soft spot for the opposite sex',
-'has a soft spot for artists and musicians',
-'has a soft spot for the elderly',
-'has a soft spot for outcasts and beggars',
-'has a soft spot for military veterans',
-'has a soft spot for Dwarves',
-'has a soft spot for Elves',
-'has a soft spot for Halflings',
-'has a soft spot for Kobolds',
-'is known around town as a stubborn person',
-'is known around town as a humble person',
-'is known around town as a compassionate person',
-'is very flirtacious around the opposite sex',
-'is very uneasy around the opposite sex',
-'is always drunk',
-'is currently repenting for a very real sin',
-'is hoping to get some peace of mind by visiting a nearby temple',
-'believes in the power of the gods',
-'is adamantly devoted to faith',
-'trusts in creeds rather than faith',
-'thinks religion in evil',
-'prays before every meal',
-'prays at regular intervals during the day',
-'was once the victim of a cult, and aims to get revenge',
-'worries constantly about dying',
-'doesnt like crossing open water',
-'thinks cats are heralds of doom and defeat',
-'thinks seeing a dead person brings ill fortune',
-'thinks looking a stranger in the eyes brings bad luck',
-'has many contacts in the Merchants Guild',
-'has many contacts in the Metalworkers Guild',
-'recently befriended a jittery messenger from a nearby town',
-'recently befriended a fat and messy slob at a bar',
-'recently befriended a corrupt army captain',
-'thinks people from the country are all inbred hillbillies',
-'had a good friend who is being held captive',
-'had a good friend who is now a pile of ashes and charred bones',
-'had a good friend who is now an outlaw',
-'is currently residing in a nearby inn for a few weeks',
-'is currently residing in a nearby temple for a while',
-'is currently residing in a nearby condemned house',
-'is currently residing in the woods outside of town',
-'has recently made enemies with a corrupt military general',
-'has recently made enemies with a tax collector',
-'has recently made enemies with a bossy Guildsman',
-'has recently made enemies with a scribe',
-'has recently made enemies with a noble',
-'is known as a great friend',
-'is very loyal to nobility',
-'once betrayed a cult',
-'once betrayed a close family friend',
-'once betrayed an employer or business associate',
-'is constantly training for something',
-'volunteers at the local tavern',
-'volunteers at a local orphanage',
-'is known to have a very short temper',
-'has a large collection of clocks',
-'is known to make things with gunpowder',
-'is currently writing a book',
-'is currently learning to paint',
-'will never go near a burial ground',
-'is known to frequent the graveyard',
-'is very appreciative of good carpenters',
-'is very impressed by engineers',
-'is very impressed by magic-users',
-'is known for being a great fighter',
-'is always seen with a beer in each hand',
-'is known to meditate for hours a day',
+
+
+was orphaned at a young age due to a bandit attack and lived with distant relatives
+was very sickly and weak as a child
+mocked and teased constantly as a child
+was forced to move around alot as a child because father was in the military
+resents parents and upbringing to this day
+always felt very out of place as a child
+was mistreated by stepmother/father
+was regarded as weird by everyone as a child
+resented school and ran away
+was always known as a dreamer
+was quite bright growing up and given an amazing education
+is very cold and deliberate
+is known for good manners and politeness
+is known to run away from problems
+is incredibly proficient in art
+is known to be very rude and disobedient to family
+was very religious from a young age
+spent summers visiting relatives on the countryside
+spend winters in a city with friends of parents
+intermittently worked for a distant relative
+was always sent to a nearby village during the harvest growing up
+is always trying to impress everyone
+often found a reason to travel
+ran away alot as a child
+was always considered somewhat slow
+always felt strange reaching out to people
+was recently driven from ancestral home
+always moved around throughout the province
+moved to this location 10 years ago
+lived in this communty for 4 generations
+has never had a steady home
+lived a very comfortable life so far
+feels very comfortable in the communty
+is very proud of local bard
+feels like something strange happened in upbringing but cant remember why
+gets a special feeling visiting the homeland
+once spent a few years in the forest for work
+once spent a few years in the desert trying to find a family member who fled there
+once spent a few months hiding out in the forest trying to escape a stalker
+is currently in town working on paying a debt
+is trying to afford to travel to a large city to seek scholarly advice
+once spent a few years in a mental institution
+once spent a few years in prison
+once spent a few years in slavery
+nurtures a lifelong dream to live in another country
+nurtures a lifelong dream to marry someone untouchable due to class
+nurtures a lifelong dream to move to another city
+nurtures a lifelong dream to live on the sea
+nurtures a lifelong dream to live in the mountains
+nurtures a lifelong dream to pick up a different profession
+nurtures a lifelong dream to buy back the family farm
+nurtures a lifelong dream to buy back a family heirloom
+nurtures a lifelong dream to visit friends/relatives far away
+nurtures a lifelong dream to visit a settlement of elves
+nurtures a lifelong dream to visit a settlement of dwarves
+nurtures a lifelong dream to visit a settlement of halflings
+nurtures a lifelong dream to visit a settlement of kobolds
+nurtures a lifelong dream to say sorry to someone hurt by them
+has fond memories of a nearby lake
+has fond memories of a nearby river
+has fond memories of a nearby town
+has fond memories of a nearby village
+has fond memories of a nearby forest
+has fond memories of a nearby farm
+has fond memories of a nearby ruin
+has fond memories of a nearby field
+has fond memories of a nearby temple
+has fond memories of a nearby shrine
+has bad memories of a nearby lake
+has bad memories of a nearby river
+has bad memories of a nearby town
+has bad memories of a nearby village
+has bad memories of a nearby forest
+has bad memories of a nearby farm
+has bad memories of a nearby ruin
+has bad memories of a nearby field
+has bad memories of a nearby temple
+has bad memories of a nearby shrine
+was born by a nearby lake
+was born by a nearby river
+was born by in nearby town
+was born by in a nearby village
+was born by in a nearby forest
+was born by in a nearby farm
+was born by in a nearby ruin
+was born by in a nearby field
+was born by in a nearby temple
+knows a nearby lake to be haunted
+knows a nearby river to be haunted
+knows a nearby town to be haunted
+knows a nearby village to be haunted
+knows a nearby forest to be haunted
+knows a nearby farm to be haunted
+knows a nearby ruin to be haunted
+knows a nearby field to be haunted
+knows a nearby temple to be haunted
+knows a nearby shrine to be haunted
+had a mother who was killed and eaten by a dragon
+had a father who was killed and eaten by dragon
+had a sister who was killed and eaten by dragon
+had a brother who was killed and eaten by dragon
+had an aunt who was killed and eaten by dragon
+had an uncle who was killed and eaten by dragon
+had a niece who was killed and eaten by dragon
+had a nephew who was killed and eaten by dragon
+had a mother who was hunted through the forest by goblins
+had a father who was hunted through the forest by goblins
+had a sister who was hunted through the forest by goblins
+had a brother who was hunted through the forest by goblins
+had an aunt who was hunted through the forest by goblins
+had an uncle who was hunted through the forest by goblins
+had a niece who was hunted through the forest by goblins
+had a nephew who was hunted through the forest by goblins
+had a mother who was robbed and killed by outlaws
+had a father who was robbed and killed by outlaws
+had a sister who was robbed and killed by outlaws
+had a brother who was robbed and killed by outlaws
+had an aunt who was robbed and killed by outlaws
+had an uncle who was robbed and killed by outlaws
+had a niece who was robbed and killed by outlaws
+had a nephew who was robbed and killed by outlaws
+had a mother who was rumored to have had dealings with smugglers
+had a father who was rumored to have had dealings with smugglers
+had a sister who was rumored to have had dealings with smugglers
+had a brother who was rumored to have had dealings with smugglers
+had an aunt who was rumored to have had dealings with smugglers
+had an uncle who was rumored to have had dealings with smugglers
+had a niece who was rumored to have had dealings with smugglers
+had a nephew who was rumored to have had dealings with smugglers
+has a mother who is an important figure in a nearby town
+has a father who is an important figure in a nearby town
+has a sister who is an important figure in a nearby town
+has a brother who is an important figure in a nearby town
+has an aunt who is an important figure in a nearby town
+has an uncle who is an important figure in a nearby town
+has a niece who is an important figure in a nearby town
+has a nephew who is an important figure in a nearby town
+had a mother who moved after accusations of witchcraft
+had a father who moved after accusations of witchcraft
+had a sister who moved after accusations of witchcraft
+had a brother who moved after accusations of witchcraft
+had an aunt who moved after accusations of witchcraft
+had an uncle who moved after accusations of witchcraft
+had a niece who moved after accusations of witchcraft
+had a nephew who moved after accusations of witchcraft
+has a mother who is wasting away from a disease
+has a father who is wasting away from a disease
+has a sister who is wasting away from a disease
+has a brother who is wasting away from a disease
+has an aunt who is wasting away from a disease
+has an uncle who is wasting away from a disease
+has a niece who is wasting away from a disease
+has a nephew who is wasting away from a disease
+owes alot of money to the mob
+owes alot of money to a local thieves guild
+owes alot of money to local drug dealers
+is ashamed of family ancestry
+feels insignificant compared to ancestors
+is something of a genealogist
+is unduly boastful about family blood-line
+mourns the greater days of the family lineage
+thinks the family deserves a better reputation
+dreams of being knighted
+has illicitly adopted some sort of title or heraldry
+has been falsely accused of witchcraft
+is currently on the run from the law
+is currently on the run from a local thieves guild
+is currently on the run from a vampire
+is secretly a demon
+is secretly a vampire
+is never truthful about anything
+is the black sheep of the family
+needs help supporting the family
+needs medicine/cure for a parent
+needs medicine/cure for a child
+needs information/help finding a missing sibling
+needs help retrieving a stolen heirloom
+needs help defending the family homeland from an invader
+needs to find a missing parent before its too late
+needs 50g to help pay a debt
+is trying to take someone to a local temple
+is trying to find a date for a wedding coming up
+needs help forging a document
+needs help forging a deed
+needs to clear the family name
+believes that your birth shouldnt define your life
+believes that nobility exists to help and protect
+has incredibly wealthy parents
+has incredily poor parents
+believes that lower classes should keep in their place
+believes that peasantry is the backbone of society
+believes that guilds and societies need to be checked
+believes that religious cults and orders are too influential
+believes the government needs a revolution
+believes that the King/Queen/Mayor should look to the needs of the little people
+believes that the King/Queen/Mayor has lost too much power to the Electors
+believes that the King/Queen/Mayor is a demigod who should be worshipped
+believes that the King/Queen/Mayor doesnt care about normal folks
+believes that the King/Queen/Mayor must unite with others against external threats
+believes that the King/Queen/Mayor should be assassinated
+believes that the King/Queen/Mayor is the target of a vast conspiracy
+believes that the King/Queen/Mayor should take steps to ensure his successors
+greatly distrusts physicians
+greatly distrusts merchants
+greatly distrusts politicians
+greatly distrusts lawyers and bureaucrats
+greatly distrusts priests of all kinds
+greatly distrusts scholars students and scribes
+greatly distrusts watchmen and roadwardens
+greatly distrusts peasants
+greatly distrusts wealthy people
+once was saved by a wizard
+believes that all heretics and cultists should be burned at the stake
+believes that only priests should use magic
+believes that the Colleges of Magic only attract hordes of enemies
+wants to join the military
+believes that all wizards fear garlic and silver
+believes that you should never look directly at a wizard
+suffers from a bad skin disease
+has bad fits of violent coughing
+is covered in lice/fleas
+has a horrible limp
+suffers from the mother of all hangovers
+has a bad wound that needs attention
+eagerly longs for the first day of summer
+eagerly longs for winter
+has been having terrible dreams about the end of the world
+has been having bad dreams about an upsetting childhood memory
+has been having bad dreams about a face they cant place
+has been having restless sleep recently
+has been haunted by a reoccuring dream
+is being haunted by a ghost
+is mourning the loss of someone
+is particularly happy today
+feels harmonic and spiritually refreshed
+swore to never drink alcohol again
+swore to keep mouth shut and ears open
+swore to get even on a local criminal organization
+swore to get even with a watchman who wronged them
+swore to get back in shape
+swore to let the family know they are okay
+swore to make the best out of any situation
+was once employed by a local noble
+was once employed by a local inn-keeper
+was once employed by the military
+was once employed by a religious order
+was once part of the local law enforcement
+was once a smuggler
+was once a bandit
+holds a grudge against one of the Players family members
+is always honor bound
+is exceedingly greedy
+will protect the bloodline at all costs
+will satisfy a burning bloodlust no matter the cost
+wants to bring anarchy to the world
+is a gambler in all aspects of life
+is a stalwart patriot
+is a hopeless romantic
+is a hopeless dreamer
+lives to have revenge
+has a soft spot for furry little animals
+has a soft spot for small children
+has a soft spot for the opposite sex
+has a soft spot for artists and musicians
+has a soft spot for the elderly
+has a soft spot for outcasts and beggars
+has a soft spot for military veterans
+has a soft spot for Dwarves
+has a soft spot for Elves
+has a soft spot for Halflings
+has a soft spot for Kobolds
+is known around town as a stubborn person
+is known around town as a humble person
+is known around town as a compassionate person
+is very flirtacious around the opposite sex
+is very uneasy around the opposite sex
+is always drunk
+is currently repenting for a very real sin
+is hoping to get some peace of mind by visiting a nearby temple
+believes in the power of the gods
+is adamantly devoted to faith
+trusts in creeds rather than faith
+thinks religion in evil
+prays before every meal
+prays at regular intervals during the day
+was once the victim of a cult and aims to get revenge
+worries constantly about dying
+doesnt like crossing open water
+thinks cats are heralds of doom and defeat
+thinks seeing a dead person brings ill fortune
+thinks looking a stranger in the eyes brings bad luck
+has many contacts in the Merchants Guild
+has many contacts in the Metalworkers Guild
+recently befriended a jittery messenger from a nearby town
+recently befriended a fat and messy slob at a bar
+recently befriended a corrupt army captain
+thinks people from the country are all inbred hillbillies
+had a good friend who is being held captive
+had a good friend who is now a pile of ashes and charred bones
+had a good friend who is now an outlaw
+is currently residing in a nearby inn for a few weeks
+is currently residing in a nearby temple for a while
+is currently residing in a nearby condemned house
+is currently residing in the woods outside of town
+has recently made enemies with a corrupt military general
+has recently made enemies with a tax collector
+has recently made enemies with a bossy Guildsman
+has recently made enemies with a scribe
+has recently made enemies with a noble
+is known as a great friend
+is very loyal to nobility
+once betrayed a cult
+once betrayed a close family friend
+once betrayed an employer or business associate
+is constantly training for something
+volunteers at the local tavern
+volunteers at a local orphanage
+is known to have a very short temper
+has a large collection of clocks
+is known to make things with gunpowder
+is currently writing a book
+is currently learning to paint
+will never go near a burial ground
+is known to frequent the graveyard
+is very appreciative of good carpenters
+is very impressed by engineers
+is very impressed by magic-users
+is known for being a great fighter
+is always seen with a beer in each hand
+is known to meditate for hours a day

@@ -111,8 +111,8 @@
   },
   {
     "ID": 23,
-    "textIT": "**Colpisci la mela, non la faccia!**\nUna dettagliata guida alla pratica del tiro con l'arco. Il libro include perfino istruzioni su come fabbricarsi un arco e dei bersagli.",
-    "textEN": "**Hit The Apple, Not My Face!**\nA Detailed Guide to Archery** This book even includes instructions for constructing a simple bow and targets."
+    "textIT": "**Colpisci la mela, non la faccia! Una dettagliata guida alla pratica del tiro con l'arco.**\nIl libro include perfino istruzioni su come fabbricarsi un arco e dei bersagli.",
+    "textEN": "**Hit The Apple, Not My Face! A Detailed Guide to Archery**\nThis book even includes instructions for constructing a simple bow and targets."
   },
   {
     "ID": 24,
@@ -257,12 +257,12 @@
   {
     "ID": 52,
     "textIT": "**Enciclopedia. Delle. Cose. Importanti. di Tommeltop lo Gnomo**\nUn'enciclopedia... singolare. Ogni pagina contiene descrizioni estremamente esagerate, declinate in paragrafi lunghi e romantici sulla forma delle orecchie. Qualsiasi anima coraggiosa che tenti di leggere questo libro ha la sensazione di immaginarsi nel dettaglio le orecchie delle varie creature descritte, con una incredibile ricchezza di dettaglio (è possibile forse trovare anche la descrizione delle orecchie di uno dei personaggi).",
-    "textEN": "**Every. Accomplished. Recognizable. Sentient. by Tommeltop the Gnome**\nAn encyclopedia of anyone who accomplished anything of moderate note ever, however most of each page is dedicated to greatly exaggerated, suitably cringy and oddly romantic paragraphs about how great each person's ears must have been. Any brave soul who actually reads the book through is suddenly able to recall in perfect detail the ears of anyone they**ve ever seen before,for no apparent reason. (Perhaps there are drawings and details of the players and their ears as well)"
+    "textEN": "**Every. Accomplished. Recognizable. Sentient. by Tommeltop the Gnome**\nAn encyclopedia of anyone who accomplished anything of moderate note ever, however most of each page is dedicated to greatly exaggerated, suitably cringy and oddly romantic paragraphs about how great each person's ears must have been. Any brave soul who actually reads the book through is suddenly able to recall in perfect detail the ears of anyone they've ever seen before,for no apparent reason. (Perhaps there are drawings and details of the players and their ears as well)"
   },
   {
     "ID": 53,
-    "textIT": "**Il Signore degli Anelli** Una cronaca leggendaria sulle peripezie di un gruppo di avventurieri del passato, intenti a sconfiggere un male oscuro.",
-    "textEN": "**The Lord of the Rings** A historical fiction-esque set of books about an adventuring party ages ago in a material plane far, far away."
+    "textIT": "**Il Signore degli Anelli**\nUna cronaca leggendaria sulle peripezie di un gruppo di avventurieri del passato, intenti a sconfiggere un male oscuro.",
+    "textEN": "**The Lord of the Rings**\nA historical fiction-esque set of books about an adventuring party ages ago in a material plane far, far away."
   },
   {
     "ID": 54,

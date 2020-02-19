@@ -78,8 +78,8 @@
   },
   {
     "ID": 18,
-    "textIT": "possiede un talento come musicista",
-    "textEN": "is a fantastic musician"
+    "textIT": "ha perso i gentiori in giovane età, dopo l'attacco di alcuni banditi: ha vissuto da parenti lontani per diverso tempo",
+    "textEN": "was orphaned at a young age due to a bandit attack and lived with distant relatives"
   },
   {
     "ID": 19,
@@ -240,5 +240,330 @@
     "ID": 50,
     "textIT": "non si accontenta della mediocrità e ambisce alla perfezione",
     "textEN": "settles for nothing less than perfection"
+  },
+  {
+    "ID": 51,
+    "textIT": "è annoiato da _tante_ cose",
+    "textEN": "is a snob about most things"
+  },
+  {
+    "ID": 52,
+    "textIT": "odia gli gnomi con passione",
+    "textEN": "hates gnomes with a passion"
+  },
+  {
+    "ID": 53,
+    "textIT": "odia i coboldi",
+    "textEN": "hates kobolds with a passion"
+  },
+  {
+    "ID": 54,
+    "textIT": "é molto rude con le persone povere",
+    "textEN": "is very rude to poor people"
+  },
+  {
+    "ID": 55,
+    "textIT": "é molto rude con le persone ricche",
+    "textEN": "is very rude to rich people"
+  },
+  {
+    "ID": 56,
+    "textIT": "é molto gentile con le persone povere",
+    "textEN": "is very kind to poor people"
+  },
+  {
+    "ID": 57,
+    "textIT": "prende in giro chiunque si mostri forte e potente",
+    "textEN": "is a suckup to anyone who looks strong"
+  },
+  {
+    "ID": 58,
+    "textIT": "é sempre annoiato in qualsiasi situazione",
+    "textEN": "is always bored with the situation at hand"
+  },
+  {
+    "ID": 59,
+    "textIT": "é sempre ubriaco",
+    "textEN": "is always drunk"
+  },
+  {
+    "ID": 60,
+    "textIT": "é un divoratore di libri",
+    "textEN": "is a bookworm"
+  },
+  {
+    "ID": 61,
+    "textIT": "é incredibilmente scontroso con le persone più basse di lui",
+    "textEN": "is incredibly bossy to people shorter than them"
+  },
+  {
+    "ID": 62,
+    "textIT": "é un calcolatore, in ogni situazione",
+    "textEN": "is very calculating in any situation"
+  },
+  {
+    "ID": 63,
+    "textIT": "é molto inquietante",
+    "textEN": "is very creepy"
+  },
+  {
+    "ID": 64,
+    "textIT": "é un bugiardo compulsivo",
+    "textEN": "is a compulsive liar"
+  },
+  {
+    "ID": 65,
+    "textIT": "colleziona piccoli animai",
+    "textEN": "collects small animals"
+  },
+  {
+    "ID": 66,
+    "textIT": "é leale fino al fanatismo",
+    "textEN": "is fanatically loyal"
+  },
+  {
+    "ID": 67,
+    "textIT": "parla molto velocemente",
+    "textEN": "is a fast-talker"
+  },
+  {
+    "ID": 68,
+    "textIT": "é un analfabeta",
+    "textEN": "is illiterate"
+  },
+  {
+    "ID": 69,
+    "textIT": "é incredibilmente insistente",
+    "textEN": "is incredibly persistent"
+  },
+  {
+    "ID": 70,
+    "textIT": "ha molta passione per gemme e cristalli",
+    "textEN": "is very into crystals/gems"
+  },
+  {
+    "ID": 71,
+    "textIT": "sa fare un po' di tutto",
+    "textEN": "is a jack-of-all-trades"
+  },
+  {
+    "ID": 72,
+    "textIT": "è molto goffo",
+    "textEN": "is incredibly clumsy"
+  },
+  {
+    "ID": 73,
+    "textIT": "é un genio del male",
+    "textEN": "is a mad genius"
+  },
+  {
+    "ID": 74,
+    "textIT": "é un maniaco",
+    "textEN": "is a maniac"
+  },
+  {
+    "ID": 75,
+    "textIT": "é sempre molto paranoico",
+    "textEN": "is incredibly paranoid all the time"
+  },
+  {
+    "ID": 76,
+    "textIT": "sembra una persona di cui ci si può fidare",
+    "textEN": "is very well-traveled"
+  },
+  {
+    "ID": 77,
+    "textIT": "é un musicista fantastico",
+    "textEN": "is a fantastic musician"
+  },
+  {
+    "ID": 78,
+    "textIT": "é molto estroso",
+    "textEN": "is incredibly artistic"
+  },
+  {
+    "ID": 79,
+    "textIT": "é freddo e senza cuore",
+    "textEN": "is very heartless"
+  },
+  {
+    "ID": 80,
+    "textIT": "ha il cuore spezzato",
+    "textEN": "is heartbroken"
+  },
+  {
+    "ID": 81,
+    "textIT": "é un gran lavoratore",
+    "textEN": "is very hard-working"
+  },
+  {
+    "ID": 82,
+    "textIT": "é molto acuto in molte situazioni",
+    "textEN": "is incredibly clever in most situations"
+  },
+  {
+    "ID": 83,
+    "textIT": "ha talento come cantante",
+    "textEN": "is an amazing singer"
+  },
+  {
+    "ID": 84,
+    "textIT": "ha molta paura degli orchi",
+    "textEN": "is deathly afraid of orcs"
+  },
+  {
+    "ID": 85,
+    "textIT": "ha paura di trovarsi disperso nel deserto",
+    "textEN": "is deathly afraid of the desert"
+  },
+  {
+    "ID": 86,
+    "textIT": "ha paura delle foreste",
+    "textEN": "is deathly afraid of the forest"
+  },
+  {
+    "ID": 87,
+    "textIT": "ha paura dei fantasmi",
+    "textEN": "is deathly afraid of ghosts"
+  },
+  {
+    "ID": 88,
+    "textIT": "é poco empatico",
+    "textEN": "is very careless"
+  },
+  {
+    "ID": 89,
+    "textIT": "é molto diplomatico",
+    "textEN": "is very diplomatic"
+  },
+  {
+    "ID": 90,
+    "textIT": "é molto gioioso",
+    "textEN": "is very cheerful"
+  },
+  {
+    "ID": 91,
+    "textIT": "é molto coraggioso e pieno di risorse",
+    "textEN": "is very brave and full of courage"
+  },
+  {
+    "ID": 92,
+    "textIT": "é spesso irritabile",
+    "textEN": "is always irritable"
+  },
+  {
+    "ID": 93,
+    "textIT": "é molto taccagno",
+    "textEN": "is very greedy"
+  },
+  {
+    "ID": 94,
+    "textIT": "é incredibilmente generoso",
+    "textEN": "is incredibly generous"
+  },
+  {
+    "ID": 95,
+    "textIT": "vive come un barbaro",
+    "textEN": "is very barbaric"
+  },
+  {
+    "ID": 96,
+    "textIT": "é molto amichevole e possiede un grande cuore",
+    "textEN": "is very friendly and kind-hearted"
+  },
+  {
+    "ID": 97,
+    "textIT": "é molto tranquillo",
+    "textEN": "is very quiet"
+  },
+  {
+    "ID": 98,
+    "textIT": "ama collezionare vecchi artefatti",
+    "textEN": "loves collecting old artifacts"
+  },
+  {
+    "ID": 99,
+    "textIT": "ama pescare",
+    "textEN": "loves to fish"
+  },
+  {
+    "ID": 100,
+    "textIT": "ama raccogliere erbe e piante alchemiche",
+    "textEN": "loves to collect herbs"
+  },
+  {
+    "ID": 101,
+    "textIT": "ama viaggiare",
+    "textEN": "loves to travel"
+  },
+  {
+    "ID": 102,
+    "textIT": "indossa fin troppi gioielli",
+    "textEN": "wears too much jewelry"
+  },
+  {
+    "ID": 103,
+    "textIT": "porta con sé (spesso) più di un libro",
+    "textEN": "is always carrying a book or multiple"
+  },
+  {
+    "ID": 104,
+    "textIT": "ha un'ossessione poco salutare per il cibo",
+    "textEN": "has an unhealthy obsession with food"
+  },
+  {
+    "ID": 105,
+    "textIT": "quando riflette, tende camminare avanti e indietro",
+    "textEN": "paces back and forth when thinking"
+  },
+  {
+    "ID": 106,
+    "textIT": "ha paura delle infezioni e dei germi",
+    "textEN": "is a complete germophobe"
+  },
+  {
+    "ID": 107,
+    "textIT": "borbotta costantemente",
+    "textEN": "mumbles things constantly"
+  },
+  {
+    "ID": 108,
+    "textIT": "tende spesso a spazientirsi",
+    "textEN": "gets annoyed easily"
+  },
+  {
+    "ID": 109,
+    "textIT": "indossa grossi occhiali artigianali",
+    "textEN": "wears thick homemade glasses"
+  },
+  {
+    "ID": 110,
+    "textIT": "ha paura degli insetti",
+    "textEN": "has a fear of insects"
+  },
+  {
+    "ID": 111,
+    "textIT": "é un pessimo bugiardo",
+    "textEN": "is a terrible liar"
+  },
+  {
+    "ID": 112,
+    "textIT": "possiede un ottimo senso dell'orientamento",
+    "textEN": "always knows which direction they are facing"
+  },
+  {
+    "ID": 113,
+    "textIT": "recita vecchie canzoni bardiche a memoria ogni volta che ne ha l'occasione",
+    "textEN": "recites old bard poems whenever the chance arises"
+  },
+  {
+    "ID": 114,
+    "textIT": "possiede una memoria fotografica",
+    "textEN": "has a photographic memory"
+  },
+  {
+    "ID": 115,
+    "textIT": "ha paura del fuoco",
+    "textEN": "is afraid of fire"
   }
 ]
