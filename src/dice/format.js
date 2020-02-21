@@ -141,10 +141,10 @@ const formatRoll = roll => {
     return `:game_die:\n${roll.string} ⟶ ${roll.sets
       .map(formatSetResult)
       .filter(clean)
-      .join(", ")}  \n${roll.sets
+      .join(", ")}  \`\`\`${roll.sets
       .map(formatSetGroups)
       .filter(clean)
-      .join("")}  \n`;
+      .join("")}  \`\`\``;
   } catch (e) {
     throw new FormattingError(
       `Credo di aver sbagliato a formattare il risultato...`
