@@ -1,6 +1,6 @@
 # Avonder
 
-Your friendly bot for Aumyr Discord Server
+Your friendly bot for a Fantasy RPG Discord Server
 
 ## Dev
 
