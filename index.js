@@ -144,7 +144,7 @@ client.on("message", async message => {
 // Send private welcome message to new members
 client.on("guildMemberAdd", member => {
   member.send(
-    "Benvenuto su Aumyr, ${member}. Sono **Avonder**, la tua guida.\n\nUsa il canale #welcome per presentarti oppure vai direttamente su un altro canale.\n\nA proposito: leggi cosa posso fare scrivendo `Avonder aiuto`\n\nWelcome, ${member}. I'm **Avonder**, your friendly guide.\n\nUse the #welcome channel to introduce yourself, or go directly in another channel.\n\nOh: see what I can do with: `Avonder help`"
+    "Benvenuto, ${member}. Sono **Avonder**, la tua guida.\n\nLeggi cosa posso fare scrivendo `Avonder aiuto`\n\nWelcome, ${member}. I'm **Avonder**, your friendly guide.\n\nSee what I can do with: `Avonder help`"
   );
 });
 
