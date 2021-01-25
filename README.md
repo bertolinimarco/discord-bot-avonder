@@ -17,7 +17,7 @@ Summon him with `Avonder help` and he will answer you in private with a list of 
 - Dice Rolling (classic, Fudge/F.A.T.E., Exploding, etc...) `Avonder roll 1d20+3`
 - Draw cards from a deck `Avonder cards 5`
 - Generate _things_ (Adventures, NPCs, Riddles, Books...) `Avonder generate adventure`
-- Welcome you to the server, (if you are new) and say hello! Try writing `Avonder hi`
+- He welcomes you to the server, (if you are new) and say hello! Try writing `Avonder hi`
 
 ## Dev
 
