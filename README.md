@@ -9,8 +9,6 @@ Evocalo scrivendo `Avonder aiuto` e ti risponderà in privato con una lista dell
 - Generare _cose_ (Avventure, PNG, Enigmi, Libri...) `Avonder genera avventura`
 - Darti il benvenuto sul server (se sei nuovo) e salutarti! Prova a scrivere `Avonder ciao`
 
-Avonder è per ora abilitato solo sul canale #avonder, così da testare alcune delle sue funzioni. Oppure puoi sempre scrivergli in privato.
-
 🇬🇧 
 🧙 Avonder is a bot who can help you during your adventures with your rpg sessions.
 
@@ -21,7 +19,6 @@ Summon him with `Avonder help` and he will answer you in private with a list of 
 - Generate _things_ (Adventures, NPCs, Riddles, Books...) `Avonder generate adventure`
 - Welcome you to the server, (if you are new) and say hello! Try writing `Avonder hi`
 
-Avonder is currently only enabled on the #avonder channel, to test some of its functions, but you can always message him in private.
 ## Dev
 
 Config `.env` variables by renaming `.env.example` in `.env` and add your Discord bot token.
