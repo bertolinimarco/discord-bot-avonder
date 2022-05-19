@@ -1,4 +1,4 @@
-![Avonder](/avonder-img.jpg?raw=true "Avonder")
+![Avonder](/avonder-img.png?raw=true "Avonder")
 
 # Avonder
 
