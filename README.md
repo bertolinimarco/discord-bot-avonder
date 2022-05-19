@@ -1,3 +1,5 @@
+![Avonder](/avonder-img.jpg?raw=true "Avonder")
+
 # Avonder
 
 🧙 Avonder è un bot che può aiutarti durante le tue avventure di gioco di ruolo.
